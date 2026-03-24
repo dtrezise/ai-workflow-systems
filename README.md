@@ -41,17 +41,17 @@ A multi-step workflow for creating and deploying a consistent character into vid
 2. **Concept Development (ChatGPT)**
    - Iterated on character design using structured prompting and reference alignment
 
-### GenAI Character Design)
+### GenAI Character Design
 
 | Final ChatGPT Prompt Design |
-|------------|-------------|
+|---|
 | ![](images/mm_final_design.png) |
 
 3. **Motion Exploration (Grok)**
    - Rapid testing of creature behavior and movement
 
 4. **Base Image Generation (ComfyUI / FLUX)**
-   - Generated character poses on neutral backgrounds with controlled lighting  
+   - Generated character poses on neutral backgrounds with controlled lighting
    - Focused on building a clean dataset for training
 
 5. **Dataset Creation**
@@ -59,30 +59,30 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ### Image Data Set Creation
 
-|Selection of Poses for LoRA training|
-|------------|-------------|
+| Selection of Poses for LoRA training |
+|---|
 | ![](images/mothman_grid_2x3.png) |
 
 6. **LoRA Training (FLUX → WAN)**
-   - Trained FLUX LoRA for image consistency  
-   - Trained WAN LoRA for animation and video integration  
+   - Trained FLUX LoRA for image consistency
+   - Trained WAN LoRA for animation and video integration
    - (Explored lighting-specific LoRA approach, not implemented in this case)
 
 7. **Scene Integration**
-   - Used ControlNet for positioning and compositing control  
+   - Used ControlNet for positioning and compositing control
    - Used segmentation workflows to generate mattes
 
 8. **Upscaling**
    - Increased resolution to production-ready quality
 
 9. **Final Compositing (Nuke)**
-   - Integrated character into live-action plates  
+   - Integrated character into live-action plates
    - Balanced lighting, scale, and realism
-  
+
 ### Creature Integration (Before / After)
 
 | Input Plate | Final Output |
-|------------|-------------|
+|---|---|
 | ![](images/plate_01.png) | ![](images/final_01.png) |
 
 10. **Tool-Specific Optimization**
@@ -90,8 +90,8 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ### Creating Bespoke Imagery with selected tools
 
-| Runway AI Effect Added to Plate|
-|------------|-------------|
+| Runway AI Effect Added to Plate | Final Result |
+|---|---|
 | ![](images/face.png) | ![](images/face2.png) |
 
 ---
