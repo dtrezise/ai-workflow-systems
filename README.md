@@ -72,6 +72,14 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ---
 
+## Visual Example
+
+### Creature Integration (Before / After)
+
+| Input Plate | Final Output |
+|------------|-------------|
+| ![](images/plate_01.png) | ![](images/final_01.png) |
+
 ### 2. ChatGPT Workflow Systems
 
 Structured workflows for using ChatGPT as a central system for creative development, planning, and multi-project orchestration.
