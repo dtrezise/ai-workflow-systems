@@ -41,6 +41,12 @@ A multi-step workflow for creating and deploying a consistent character into vid
 2. **Concept Development (ChatGPT)**
    - Iterated on character design using structured prompting and reference alignment
 
+### GenAI Character Design)
+
+| Final ChatGPT Prompt Design |
+|------------|-------------|
+| ![](images/mm_final_design.png) |
+
 3. **Motion Exploration (Grok)**
    - Rapid testing of creature behavior and movement
 
@@ -50,6 +56,12 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 5. **Dataset Creation**
    - Curated multiple images to ensure consistency and coverage
+
+### Image Data Set Creation
+
+|Selection of Poses for LoRA training|
+|------------|-------------|
+| ![](images/mothman_grid_2x3.png) |
 
 6. **LoRA Training (FLUX → WAN)**
    - Trained FLUX LoRA for image consistency  
@@ -66,19 +78,23 @@ A multi-step workflow for creating and deploying a consistent character into vid
 9. **Final Compositing (Nuke)**
    - Integrated character into live-action plates  
    - Balanced lighting, scale, and realism
-
-10. **Tool-Specific Optimization**
-   - Used Runway, Grok, and Kling selectively depending on shot requirements
-
----
-
-## Visual Example
-
+  
 ### Creature Integration (Before / After)
 
 | Input Plate | Final Output |
 |------------|-------------|
 | ![](images/plate_01.png) | ![](images/final_01.png) |
+
+10. **Tool-Specific Optimization**
+   - Used Runway, Grok, and Kling selectively depending on shot requirements
+
+### Creating Bespoke Imagery with selected tools
+
+| Runway AI Effect Added to Plate|
+|------------|-------------|
+| ![](images/face.png) | ![](images/face2.png) |
+
+---
 
 ### 2. ChatGPT Workflow Systems
 
