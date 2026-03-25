@@ -239,9 +239,9 @@ Animated concept tests (Grok) explore tone, performance, and staging by interpre
        <td align="center" width="60">
           <span style="font-size:48px;"><b>+</b></span>
         </td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="250"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="250"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="250"/></td>
          <td align="center" width="60">
       ➜
         </td>
