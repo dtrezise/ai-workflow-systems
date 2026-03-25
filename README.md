@@ -70,29 +70,29 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/mm_final_design.png" height="180"/>
+<img src="images/mm_final_design.png" height="180"/>
 <br/><sub>Hero Design</sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/mothman_grid_2x3.png" height="180"/>
+<img src="images/mothman_grid_2x3.png" height="180"/>
 <br/><sub>Pose Dataset</sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/comfyui_graph.png" height="180"/>
+<img src="images/comfyui_graph.png" height="180"/>
 <br/><sub>LoRA Training</sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
 <a href="YOUTUBE_LINK_HERE" target="_blank">
-<img src="images/mothman/mm_final_design.png" height="180"/>
+<img src="images/mm_final_design.png" height="180"/>
 </a>
 <br/><sub>Motion Test ▶</sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/after.png" height="180"/>
+<img src="images/after.png" height="180"/>
 <br/><sub>Final Composite</sub>
 </td>
 </tr>
@@ -108,7 +108,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/before.png" height="220"/>
+<img src="images/before.png" height="220"/>
 <br/><sub>Plate</sub>
 </td>
 
@@ -117,7 +117,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/after.png" height="220"/>
+<img src="images/after.png" height="220"/>
 <br/><sub>Final Composite</sub>
 </td>
 </tr>
