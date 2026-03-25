@@ -219,6 +219,8 @@ These images are generated using structured prompts derived from narrative devel
       <b>Concept Art</b>
     </td>
     <td></td>
+    <td></td>
+    <td></td>
     <td align="center">
       <b>AI Interpretation</b>
     </td>
