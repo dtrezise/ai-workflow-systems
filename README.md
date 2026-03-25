@@ -173,22 +173,24 @@ These images are generated using structured prompts derived from narrative devel
 **Beat Sheet Visuals**
 
 <table>
-  <tr>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="120"/></td>
-  </tr>
+    <tr>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="120"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="120"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="120"/></td>
+    </tr>
+</table>
 
 **Character Designs (Locked)**
 
 <table>
-  <tr>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_01.png" width="100"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_02.png" width="100"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_03.png" width="100"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/props.png" width="100"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/snowangels.png" width="100"/></td>
-  </tr>
+    <tr>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_01.png" width="100"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_02.png" width="100"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_03.png" width="100"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/props.png" width="100"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/snowangels.png" width="100"/></td>
+    </tr>
+</table>
 
 **Animated Concept Scene (Grok)**
 [▶ Watch Concept Scene Video](YOUTUBE_LINK_HERE)
