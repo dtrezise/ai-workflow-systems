@@ -87,16 +87,16 @@ End-to-end pipeline showing progression from concept design through dataset gene
 <td align="center" bgcolor="#3f4a54">
 
 <a href="https://youtu.be/T57d_ERXKjU" target="_blank">
-<img src="images/mothman/mmtest_02_thumb.jpg" height="60"/>
-</a>
+<img src="images/mothman/mmtest_02_thumb.jpg" height="55"/>
+</a><br/>
 
 <a href="https://youtu.be/D1O6J3-mofQ" target="_blank">
-<img src="images/mothman/mmtest_01_thumb.jpg" height="60"/>
-</a>
+<img src="images/mothman/mmtest_01_thumb.jpg" height="55"/>
+</a><br/>
 
 <a href="https://youtu.be/jxlbnHHw_D4" target="_blank">
-<img src="images/mothman/mmtest_03_thumb.jpg" height="60"/>
-</a>
+<img src="images/mothman/mmtest_03_thumb.jpg" height="55"/>
+</a><br/>
 
 <br/><sub>Multi-Scene LoRA Tests ▶</sub>
 
