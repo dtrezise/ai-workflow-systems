@@ -265,8 +265,3 @@ These systems demonstrate a unified approach to AI:
 
 ---
 
-## Next Steps (Optional Enhancements)
-
-* Add embedded videos (Grok / Kling outputs)
-* Add interactive diagrams (Mermaid / images)
-* Expand case studies with deeper breakdowns
