@@ -230,11 +230,11 @@ These images are generated using structured prompts derived from narrative devel
     <td></td>
     <td></td>
     <td align="center">
-      <b>AI Interpretation</b>
+      <b>ChatGPT Scene Build</b>
     </td>
     <td></td>
     <td align="center">
-      <b>Scene Test (Video)</b>
+      <b>Grok Video Test</b>
     </td>
   </tr>
   <tr>
