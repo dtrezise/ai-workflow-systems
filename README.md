@@ -180,40 +180,30 @@ These images are generated using structured prompts derived from narrative devel
     </tr>
 </table>
 
-**Character Designs (Locked)**
-
-<table>
-    <tr>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_01.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_02.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/chars_03.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/snowangels.png" width="300"/></td>
-    </tr>
-</table>
-
-
-**Animated Concept Scenes with Grok - click to view**
+**Character Designs (ChatGPT) -> Animated Concept Scenes (Grok) - click to see animation**
 
 <table>
     <tr>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/Po3QKtgxgQA" target="_blank">
-                <img src="images/humbug/Chars_01.png" width="300"/>
+                <img src="images/humbug/Chars_01.png" width="600"/>
             </a>
         </td>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/gJSSF3xBhgA" target="_blank">
-                <img src="images/humbug/Chars_02.png" width="300"/>
+                <img src="images/humbug/Chars_02.png" width="600"/>
             </a>
         </td>
+     </tr>
+     <tr>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/OYw3xDqHl_c" target="_blank">
-                <img src="images/humbug/chars_03.png" width="300"/>
+                <img src="images/humbug/chars_03.png" width="600"/>
             </a>
         </td>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/WdhYYRJrs6o" target="_blank">
-                <img src="images/humbug/snowangels.png" width="300"/>
+                <img src="images/humbug/snowangels.png" width="600"/>
             </a>
         </td>
     </tr>
