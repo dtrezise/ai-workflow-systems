@@ -60,10 +60,11 @@ flowchart LR
 
 ### Visuals
 
-| Hero Design | Dataset (Pose Grid) |
-|---|---|
-| <img src="images/mm_final_design.png" height="450"/> | <img src="images/mothman_grid_2x3.png" height="450"/> |
+**Hero Design**
+![](images/mothman/mm_final_design.png)
 
+**Dataset (Pose Grid)**
+![](images/mothman/mothman_grid_2x3.png)
 
 **Motion Tests (Grok)**
 [▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
@@ -73,9 +74,9 @@ flowchart LR
 
 **Before / After Composite**
 
-| Before | After |
-|---|---|
-| <img src="images/plate_01.png" width="450"/> | <img src="images/final_01.png" width="450"/> |
+| Before                         | After                         |
+| ------------------------------ | ----------------------------- |
+| ![](images/mothman/before.png) | ![](images/mothman/after.png) |
 
 ### Key Insights
 
@@ -83,18 +84,16 @@ flowchart LR
 * AI generation + traditional VFX = production quality
 * Early motion testing prevents downstream failure
 
-### Bespoke Effects with Runway
-
-| Input Plate | Final Result |
-|---|---|
-| <img src="images/face.png" width="450"/> | <img src="images/face2.png" width="450"/> |
-
 ---
 
 ## Story Development System
 
 **Objective:**
-Develop narrative IP using a structured, repeatable AI-assisted framework.
+Develop narrative IP using a structured, repeatable AI-assisted framework that preserves story continuity while expanding visual and cinematic exploration.
+
+Story development in this system is not treated as a single writing pass. Instead, narrative progression, character design, visual diagnostics, beat validation, and motion testing work together as interconnected layers that help guide a project from early exploration toward locked story decisions.
+
+<!-- STORY SYSTEM: FRAMEWORK FLOW -->
 
 ### System Flow
 
@@ -104,6 +103,8 @@ flowchart LR
     B --> C[Passes]
     C --> D[Locked Outputs]
 ```
+
+<!-- STORY SYSTEM: CHARACTER IDENTITY LAYER -->
 
 ### Character Identity Layer
 
@@ -117,6 +118,8 @@ flowchart TD
     D --> E
 ```
 
+<!-- STORY SYSTEM: PASS PROGRESSION -->
+
 ### Pass Progression
 
 ```mermaid
@@ -129,6 +132,8 @@ flowchart LR
     F --> G[Script]
 ```
 
+<!-- STORY SYSTEM: VALIDATION LOOP -->
+
 ### Validation Loop
 
 ```mermaid
@@ -138,7 +143,10 @@ flowchart LR
     C --> D[Refine]
     D --> E[Lock]
 ```
+
 ---
+
+<!-- STORY SYSTEM: LOCKED CHARACTER DESIGNS TO MOTION TESTS -->
 
 **Locked Character Designs → Scene-Based Animation Tests**
 
@@ -173,76 +181,52 @@ flowchart LR
 </table>
 
 <p align="center"><sub>
-Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for all downstream visual generation, ensuring consistency across scenes and iterations. Scene-based animation tests (Grok) interpret moments from the screenplay using these locked characters to validate tone, performance, and staging in motion.
+Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for downstream visual generation, helping preserve identity, tone, and continuity across scenes. Scene-based animation tests in Grok then interpret screenplay moments using these locked characters to validate performance, staging, and emotional feel in motion.
 </sub></p>
 
 ---
+
+<!-- STORY SYSTEM: BEAT SHEET VISUALS -->
 
 **Beat Sheet Visuals**
 
 <table>
-  <tr>
-    <th align="center" colspan="1">Story Context</th>
-    <th></th>
-    <th align="center" colspan="3">Visual Beat Development</th>
-    <th></th>
-    <th align="center" colspan="1">Motion Validation</th>
-  </tr>
-  <tr>
-    <th align="center">ChatGPT Screenplay</th>
-    <th></th>
-    <th align="center" colspan="3">Visual Scene Beat Sheets</th>
-    <th></th>
-    <th align="center">Grok Video Test of the Beats</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" height="320"/>
-    </td>
-    <td align="center" width="60">
-      <h2>+</h2>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/humbug/LarrysAssignmnet.png" height="320"/>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/humbug/MistyBeat.png" height="320"/>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/humbug/SantaWrites.png" height="320"/>
-    </td>
-    <td align="center" width="60">
-      <h2>➜</h2>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank" rel="noopener noreferrer">
-        <img src="images/humbug/SantaWrites.png" height="320"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
+<tr>
+<th align="center" colspan="1">Story Context</th><th></th><th align="center" colspan="3">Visual Beat Development</th><th></th><th align="center" colspan="1">Motion Validation</th>
+</tr>
+<tr>
+<th align="center">Screenplay Context</th><th></th><th align="center" colspan="3">Visual Scene Beat Sheets</th><th></th><th align="center">Grok Beat Test</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="320"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" height="320"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" height="320"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" height="320"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank" rel="noopener noreferrer"><img src="images/humbug/SantaWrites.png" height="320"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
 </table>
 
 <p align="center"><sub>
-Story development is translated into scene and beat structure, then visualized as beat sheets using locked character designs and established project tone. 
-These beat sheets are tested in motion with Grok to evaluate scene clarity, pacing, and emotional tone before deeper production development.
+Story development is translated into scene and beat structure, then visualized as beat sheets using locked character designs and established project tone. These beat sheets are tested in motion with Grok to evaluate clarity, pacing, emotional rhythm, and whether the scene is landing the intended story beats before deeper production development.
 </sub></p>
 
 ---
+
+<!-- STORY SYSTEM: CONCEPT TO INTERPRETATION TO MOTION -->
 
 <h3 align="center">Concept → Interpretation → Motion</h3>
 
 <table>
 <tr>
-<th align="center" colspan="5">Concept + Context Inputs</th><th></th><th align="center" colspan="1">AI Interpretation</th><th></th><th align="center" colspan="1">Motion Validation</th>
+<th align="center" colspan="5">Concept + Context Inputs</th><th></th><th align="center" colspan="1">Scene Generation</th><th></th><th align="center" colspan="1">Motion Validation</th>
 </tr>
 <tr>
-<th align="center">ChatGPT Screenplay</th><th></th><th align="center" colspan="3">Concept Art</th><th></th><th align="center">ChatGPT Scene Build</th><th></th><th align="center">Grok Video Test</th>
+<th align="center">Screenplay Context</th><th></th><th align="center" colspan="3">Concept Art</th><th></th><th align="center">Scene Generation (ChatGPT)</th><th></th><th align="center">Grok Video Test</th>
 </tr>
-
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" valign="middle" bgcolor="#3f4a54" rowspan="5"><img src="images/screenplay.png" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/Dawn.jpg" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
@@ -252,9 +236,7 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
-
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast.jpg" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
@@ -264,9 +246,7 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/BeastandTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
-
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/leaps.jpeg" height="300"/></td>
 <td></td><td></td>
@@ -275,9 +255,7 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnLeaps_02.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
-
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/mother.jpg" height="300"/></td>
 <td></td><td></td>
@@ -286,9 +264,7 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/MotherEva.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
-
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/duel.jpg" height="300"/></td>
 <td></td><td></td>
@@ -297,15 +273,15 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/ShipDuel.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
-
 </table>
 
 <p align="center"><sub>
-Scenes are generated by combining screenplay context with visual reference inputs, allowing ChatGPT to build narrative-consistent imagery rather than isolated prompts. 
-These generated scenes are then tested in motion using Grok to validate composition, pacing, and tone—ensuring each moment holds up both visually and cinematically within the story.
+Scenes are generated by combining screenplay context with visual reference inputs, allowing ChatGPT to build narrative-consistent imagery rather than isolated prompts. These generated scenes are then tested in motion using Grok to validate composition, pacing, and tone—ensuring each moment holds up both visually and cinematically within the story.
 </sub></p>
 
 ---
+
+<!-- STORY SYSTEM: POSTER VISUAL TESTS -->
 
 ### Visuals
 
@@ -341,14 +317,11 @@ These generated scenes are then tested in motion using Grok to validate composit
 Poster tests are used as an iterative visual diagnostic throughout story development, representing the current state of the project at each stage. Early iterations tend to be broad and exploratory, while later passes align more closely with locked screenplay elements and established narrative direction. These tests provide a fast, high-level read on tone, genre, character, world, and key set pieces—revealing how ChatGPT is interpreting and weighting story components as the project evolves.
 </sub></p>
 
-
 ### Key Insights
 
 * Prevents narrative drift in long-form projects
 * Uses visual validation to test tone early
 * Maintains character consistency across all outputs
-
----
 
 # Applied Systems
 
