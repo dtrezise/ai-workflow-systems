@@ -95,8 +95,7 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 | Runway AI Effect Added to Plate | Final Result |
 |---|---|
-<img src="images/face.png" width="300"/>
-<img src="images/face2.png" width="300"/>
+| <img src="images/face.png" width="300"/> | <img src="images/face2.png" width="300"/> |
 
 ---
 
