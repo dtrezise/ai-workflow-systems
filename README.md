@@ -224,8 +224,9 @@ These images are generated using structured prompts derived from narrative devel
 <table>
   <tr>
      <td align="center">
-      <b>ChatGPT Story Dev</b>
+      <b>ChatGPT Screenplay</b>
     </td>
+     <td></td>
     <td align="center">
       <b>Concept Art</b>
     </td>
