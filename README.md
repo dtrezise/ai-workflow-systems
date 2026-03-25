@@ -191,27 +191,28 @@ These images are generated using structured prompts derived from narrative devel
     </tr>
 </table>
 
-**Animated Concept Scene (Grok)**
+
+**Animated Concept Scenes with Grok - click to view**
 
 <table>
     <tr>
         <td align="center" bgcolor="#3f4a54">
-            <a href=[YOUTUBE_LINK_1](https://youtu.be/Po3QKtgxgQA) target="_blank">
+            <a href="https://youtu.be/Po3QKtgxgQA" target="_blank">
                 <img src="images/humbug/Chars_01.png" width="300"/>
             </a>
         </td>
         <td align="center" bgcolor="#3f4a54">
-            <a href="[YOUTUBE_LINK_2](https://youtu.be/gJSSF3xBhgA)" target="_blank">
+            <a href="https://youtu.be/gJSSF3xBhgA" target="_blank">
                 <img src="images/humbug/Chars_02.png" width="300"/>
             </a>
         </td>
         <td align="center" bgcolor="#3f4a54">
-            <a href="[YOUTUBE_LINK_3](https://youtu.be/OYw3xDqHl_c)" target="_blank">
+            <a href="https://youtu.be/OYw3xDqHl_c" target="_blank">
                 <img src="images/humbug/chars_03.png" width="300"/>
             </a>
         </td>
         <td align="center" bgcolor="#3f4a54">
-            <a href="[YOUTUBE_LINK_4](https://youtu.be/WdhYYRJrs6o)" target="_blank">
+            <a href="https://youtu.be/WdhYYRJrs6o" target="_blank">
                 <img src="images/humbug/snowangels.png" width="300"/>
             </a>
         </td>
