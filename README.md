@@ -34,21 +34,21 @@ This repository demonstrates a **cross-modal AI workflow system** that translate
 ```mermaid
 flowchart LR
 
-A[Concept Sources\n(Ascension / Tomoe / Humbug)]
---> B[ChatGPT\nStructure + Prompt Design]
+A[Concept Sources]
+--> B[ChatGPT Prompt Design]
 
-B --> C[Image Generation\n(ComfyUI / FLUX)]
+B --> C[Image Generation ComfyUI]
 C --> D[Dataset Creation]
 
-D --> E[LoRA Training\n(FLUX → WAN)]
+D --> E[LoRA Training]
 
-E --> F[Image Outputs\n(Character Consistency)]
+E --> F[Image Outputs]
 
-F --> G[Video Generation\n(Grok / Kling / Runway)]
+F --> G[Video Generation]
 
-G --> H[Compositing\n(Nuke / AE)]
+G --> H[Compositing]
 
-H --> I[Final Cinematic Output]
+H --> I[Final Output]
 ```
 
 ---
