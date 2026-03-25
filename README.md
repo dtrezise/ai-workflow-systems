@@ -216,6 +216,11 @@ These images are generated using structured prompts derived from narrative devel
         </td>
     </tr>
 </table>
+<p align="center"><sub>
+Character designs are developed and locked in ChatGPT as canonical references for each project.  
+These designs are then used to drive consistent visual identity across scenes.  
+Animated concept tests (Grok) explore tone, performance, and staging by interpreting moments from the screenplay using these locked characters.
+</sub></p>
 
 ---
 
