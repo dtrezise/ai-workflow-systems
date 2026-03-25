@@ -50,7 +50,81 @@ G --> H[Compositing\n(Nuke / AE)]
 
 H --> I[Final Cinematic Output]
 ```
+---
 
+## Add:
+
+```markdown
+## Cross-Modal Creative Workflow
+
+This system demonstrates a complete pipeline for translating creative intent across multiple modalities:
+
+**Narrative → Visual → Cinematic → Animated**
+
+---
+
+### Inputs
+
+- **Concept Art** (Ascension)  
+- **Script-Driven Scenes** (Tomoe)  
+- **Character / System Design** (Humbug)  
+
+---
+
+### Processing Layer
+
+- ChatGPT used for:
+  - structured prompt engineering  
+  - composition and shot design  
+  - iterative refinement loops  
+
+- Prompts are built to control:
+  - subject  
+  - environment  
+  - tone  
+  - camera framing  
+  - lighting  
+
+---
+
+### Outputs
+
+#### Image Generation
+
+- Cinematic frames generated using structured prompts  
+- Controlled composition and consistent visual identity  
+
+#### Motion / Video
+
+- Grok Img2Video and other tools used for motion generation  
+- Prompt-driven animation with controlled behavior  
+
+---
+
+### Key Capability
+
+This workflow enables:
+
+**Text → Image → Motion**
+
+while maintaining:
+
+- visual consistency  
+- narrative alignment  
+- controllable outputs  
+
+---
+
+### Why This Matters
+
+Most AI workflows stop at generation.
+
+This system focuses on:
+
+- **translation across modalities**
+- **consistency across stages**
+- **integration into production pipelines**
+```
 ---
 
 ## Workflow Library
