@@ -141,34 +141,37 @@ flowchart LR
 
 ### Visuals
 
-**Poster Tests**
+**Poster Visual Tests**
 
 <table>
-  <tr>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" width="120"/></td>
-    <td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" width="120"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Historical</sub></td>
-    <td align="center"><sub>War</sub></td>
-    <td align="center"><sub>Sci-Fi</sub></td>
-    <td align="center"><sub>Family Fantasy</sub></td>
-    <td align="center"><sub>Epic Sci-Fi</sub></td>
-    <td align="center"><sub>Supernatural</sub></td>
-    <td align="center"><sub>Sci-Fi Drama</sub></td>
-    <td align="center"><sub>Family Animation</sub></td>
-  </tr>
+<tr>
+<th align="center" colspan="8">Iterative Poster Diagnostics</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" height="120"/></td>
+</tr>
+<tr>
+<td align="center"><sub>Historical</sub></td>
+<td align="center"><sub>War</sub></td>
+<td align="center"><sub>Sci-Fi</sub></td>
+<td align="center"><sub>Family Fantasy</sub></td>
+<td align="center"><sub>Epic Sci-Fi</sub></td>
+<td align="center"><sub>Supernatural</sub></td>
+<td align="center"><sub>Sci-Fi Drama</sub></td>
+<td align="center"><sub>Family Animation</sub></td>
+</tr>
 </table>
 
-<p align="center"><em>
-These images are generated using structured prompts derived from narrative development passes, allowing rapid exploration of tone, genre, and visual identity across projects.
-</em></p>
+<p align="center"><sub>
+Poster tests are used as an iterative visual diagnostic throughout story development, representing the current state of the project at each stage. Early iterations tend to be broad and exploratory, while later passes align more closely with locked screenplay elements and established narrative direction. These tests provide a fast, high-level read on tone, genre, character, world, and key set pieces—revealing how ChatGPT is interpreting and weighting story components as the project evolves.
+</sub></p>
 
 **Character Designs (ChatGPT) -> Animated Concept Scenes (Grok) - click to see animation**
 
