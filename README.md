@@ -146,22 +146,9 @@ These serve as **visual checkpoints** to validate story direction and maintain c
 
 ---
 
-<p align="center">
-   <img src="images/tomoe.png" width="125"/> 
-   <img src="images/kapaun.png" width="125"/>
-   <img src="images/aboukir.png" width="125"/>
-   <img src="images/humbug.png" width="125"/>
-   <img src="images/ascension.png" width="125"/>
-   <img src="images/limbo.png" width="125"/>
-   <img src="images/outsource.png" width="125"/>
-</p>
-<p align="center">
-  <sub>Historical • War • Sci-Fi • Family Fantasy • Epic Sci-Fi • Supernatural • Sci-Fi Drama</sub>
-</p>
-
 | | | | | | | |
 |---|---|---|---|---|---|---|
-| <img src="creative-workflow/tomoe.png" width="120"/> | <img src="creative-workflow/kapaun.png" width="120"/> | <img src="creative-workflow/aboukir.png" width="120"/> | <img src="creative-workflow/humbug.png" width="120"/> | <img src="creative-workflow/ascension.png" width="120"/> | <img src="creative-workflow/limbo.png" width="120"/> | <img src="creative-workflow/outsource.png" width="120"/> |
+| <img src="images/tomoe.png" width="120"/> | <img src="images/kapaun.png" width="120"/> | <img src="images/aboukir.png" width="120"/> | <img src="images/humbug.png" width="120"/> | <img src="images/ascension.png" width="120"/> | <img src="images/limbo.png" width="120"/> | <img src="images/outsource.png" width="120"/> |
 | <sub>Historical</sub> | <sub>War</sub> | <sub>Sci-Fi</sub> | <sub>Family Fantasy</sub> | <sub>Epic Sci-Fi</sub> | <sub>Supernatural</sub> | <sub>Sci-Fi Drama</sub> |
 
 These images are generated using structured prompts derived from narrative development passes, allowing rapid exploration of tone, genre, and visual identity across projects.
