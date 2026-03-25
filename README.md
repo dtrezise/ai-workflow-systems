@@ -61,12 +61,10 @@ flowchart LR
 ### Visuals
 
 **Hero Design**
-|---|
-| <img src="images/mm_final_design.png" width="600"/> |
+<img src="images/mm_final_design.png" width="600"/>
 
 **Dataset (Pose Grid)**
-|---|
-| <img src="images/mothman_grid_2x3.png" width="600"/> |
+ <img src="images/mothman_grid_2x3.png" width="600"/>
 
 **Motion Tests (Grok)**
 [▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
@@ -76,8 +74,7 @@ flowchart LR
 
 **Before / After Composite**
 
-| Before                         | After                         |
-| ------------------------------ | ----------------------------- |
+|---|---|
 | <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
 
 ### Key Insights
@@ -88,7 +85,6 @@ flowchart LR
 
 ### Bespoke Effects with Runway
 
-| Input Plate | Final Result |
 |---|---|
 | <img src="images/face.png" width="300"/> | <img src="images/face2.png" width="300"/> |
 
