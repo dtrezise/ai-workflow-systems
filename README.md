@@ -270,180 +270,76 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 <h3 align="center">Concept → Interpretation → Motion</h3>
 
 <table>
-  <tr>
-     <td align="center">
-      <b>ChatGPT Screenplay</b>
-    </td>
-     <td></td>
-    <td align="center">
-      <b>Concept Art</b>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td align="center">
-      <b>ChatGPT Scene Build</b>
-    </td>
-    <td></td>
-    <td align="center">
-      <b>Grok Video Test</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/Dawn.jpg" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/TowerScale.jpg" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/DawnTower.png" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="YOUTUBE_LINK">
-        <img src="images/ascension/DawnTower.png" width="300"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
- <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/Beast.jpg" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/Tower.jpg" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/Beast.png" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="YOUTUBE_LINK">
-        <img src="images/ascension/BeastandTower.png" width="300"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
- <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/leaps.jpeg" width="300"/>
-    </td>
-   <td></td>
-    <td></td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/DawnLeaps_01.png" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="YOUTUBE_LINK">
-        <img src="images/ascension/DawnLeaps_02.png" width="300"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
 <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/mother.jpg" width="300"/>
-    </td>
-   <td></td>
-    <td></td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/MotherEva.png" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="YOUTUBE_LINK">
-        <img src="images/ascension/MotherEva.png" width="300"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
+<th align="center" colspan="5">Concept + Context Inputs</th><th></th><th align="center" colspan="1">AI Interpretation</th><th></th><th align="center" colspan="1">Motion Validation</th>
+</tr>
 <tr>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/screenplay.png" width="300"/>
-    </td>
-   <td align="center" width="60">
-      <span style="font-size:48px;"><b>+</b></span>
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/duel.jpg" width="300"/>
-    </td>
-   <td></td>
-    <td></td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/ShipDuel.png" width="300"/>
-    </td>
-    <td align="center" width="60">
-      ➜
-    </td>
-    <td align="center" bgcolor="#3f4a54">
-      <a href="YOUTUBE_LINK">
-        <img src="images/ascension/ShipDuel.png" width="300"/>
-      </a>
-      <br/>
-      <sub>▶ Watch Scene</sub>
-    </td>
-  </tr>
+<th align="center">ChatGPT Screenplay</th><th></th><th align="center" colspan="3">Concept Art</th><th></th><th align="center">ChatGPT Scene Build</th><th></th><th align="center">Grok Video Test</th>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Dawn.jpg" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/TowerScale.jpg" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnTower.png" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast.jpg" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Tower.jpg" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast.png" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/BeastandTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/leaps.jpeg" height="300"/></td>
+<td></td><td></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnLeaps_01.png" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnLeaps_02.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/mother.jpg" height="300"/></td>
+<td></td><td></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/MotherEva.png" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/MotherEva.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="300"/></td>
+<td align="center" width="60"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/duel.jpg" height="300"/></td>
+<td></td><td></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/ShipDuel.png" height="300"/></td>
+<td align="center" width="60"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/ShipDuel.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+</tr>
+
 </table>
 
+<p align="center"><sub>
+Scenes are generated by combining screenplay context with visual reference inputs, allowing ChatGPT to build narrative-consistent imagery rather than isolated prompts. 
+These generated scenes are then tested in motion using Grok to validate composition, pacing, and tone—ensuring each moment holds up both visually and cinematically within the story.
+</sub></p>
 ### Key Insights
 
 * Prevents narrative drift in long-form projects
