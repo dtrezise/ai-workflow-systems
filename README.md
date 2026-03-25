@@ -59,9 +59,11 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ### Image Data Set Creation
 
+<p align="center">
 | Selection of Poses for LoRA training |
 |---|
-<img src="images/mothman_grid_2x3.png" width="600"/>
+| <img src="images/mothman_grid_2x3.png" width="600"/> |
+<p align="center">
 
 6. **LoRA Training (FLUX → WAN)**
    - Trained FLUX LoRA for image consistency
