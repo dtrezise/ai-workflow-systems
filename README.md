@@ -61,10 +61,10 @@ flowchart LR
 ### Visuals
 
 **Hero Design**
-![](images/mothman/mm_final_design.png)
+![](images/mm_final_design.png)
 
 **Dataset (Pose Grid)**
-![](images/mothman/mothman_grid_2x3.png)
+![](images/mothman_grid_2x3.png)
 
 **Motion Tests (Grok)**
 [▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
@@ -76,7 +76,7 @@ flowchart LR
 
 | Before                         | After                         |
 | ------------------------------ | ----------------------------- |
-| ![](images/mothman/before.png) | ![](images/mothman/after.png) |
+| ![](images/plate.png) | ![](images/final_01.png) |
 
 ### Key Insights
 
