@@ -61,10 +61,12 @@ flowchart LR
 ### Visuals
 
 **Hero Design**
-![](images/mm_final_design.png)
+|---|
+| <img src="images/mm_final_design.png" width="600"/> |
 
 **Dataset (Pose Grid)**
-![](images/mothman_grid_2x3.png)
+|---|
+| <img src="images/mothman_grid_2x3.png" width="600"/> |
 
 **Motion Tests (Grok)**
 [▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
@@ -76,13 +78,19 @@ flowchart LR
 
 | Before                         | After                         |
 | ------------------------------ | ----------------------------- |
-| ![](images/plate.png) | ![](images/final_01.png) |
+| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
 
 ### Key Insights
 
 * LoRA enables cross-shot consistency
 * AI generation + traditional VFX = production quality
 * Early motion testing prevents downstream failure
+
+### Bespoke Effects with Runway
+
+| Input Plate | Final Result |
+|---|---|
+| <img src="images/face.png" width="300"/> | <img src="images/face2.png" width="300"/> |
 
 ---
 
@@ -138,9 +146,14 @@ flowchart LR
 
 **Poster Tests**
 
-| Poster 1                          | Poster 2                          |
-| --------------------------------- | --------------------------------- |
-| ![](images/posters/poster_01.png) | ![](images/posters/poster_02.png) |
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| <p align="center"><img src="images/posters/tomoe.png" width="120"/></p> | <p align="center"><img src="images/posters/kapaun.png" width="120"/></p> | <p align="center"><img src="images/posters/aboukir.png" width="120"/></p> | <p align="center"><img src="images/posters/humbug.png" width="120"/></p> | <p align="center"><img src="images/posters/ascension.png" width="120"/></p> | <p align="center"><img src="images/posters/limbo.png" width="120"/></p> | <p align="center"><img src="images/posters/outsource.png" width="120"/></p> | <p align="center"><img src="images/posters/LittleMiss.png" width="120"/></p> |
+| <p align="center"><sub>Historical</sub></p> | <p align="center"><sub>War</sub></p> | <p align="center"><sub>Sci-Fi</sub></p> | <p align="center"><sub>Family Fantasy</sub></p> | <p align="center"><sub>Epic Sci-Fi</sub></p> | <p align="center"><sub>Supernatural</sub></p> | <p align="center"><sub>Sci-Fi Drama</sub></p> |
+
+<p align="center"><em>
+These images are generated using structured prompts derived from narrative development passes, allowing rapid exploration of tone, genre, and visual identity across projects.
+</em></p>
 
 **Beat Sheet Visuals**
 
