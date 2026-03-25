@@ -553,33 +553,71 @@ flowchart LR
 
 ---
 
+<!-- ===================================================== -->
+<!-- META SYSTEM: AI COACHING (REAL WORKFLOW MODEL) -->
+<!-- ===================================================== -->
+
 # Meta System
 
 ---
 
 ---
 
-## AI-Assisted Personal Coaching System
+## AI-Assisted Creative & Technical Coaching System
 
-**Objective:**
-Use ChatGPT as a continuous learning and execution engine.
+**Objective:**  
+Use ChatGPT as a continuous learning, problem-solving, and execution partner—integrated directly into active projects to accelerate development, decision-making, and system design.
 
-### Learning Loop
+---
 
-```mermaid
-flowchart LR
-    A[Goal] --> B[Question]
-    B --> C[Guidance]
-    C --> D[Apply]
-    D --> E[Feedback]
-    E --> F[Refine]
-    F --> G[Systemize]
-```
+### System Overview (Coaching + Execution Loop)
+
+<img src="images/flows/ai_coaching_system.png" width="100%"/>
+
+<p align="center"><sub>
+Collaborative loop where goals and project context drive targeted questions, guidance is applied in real-time, outputs are evaluated, and refinements are made through iterative passes. Successful approaches are systemized and reused across workflows.
+</sub></p>
+
+---
+
+This system operates as a persistent collaboration layer across all projects. Rather than isolated prompts, ChatGPT is used with full context awareness—tracking history, maintaining frameworks, and supporting multi-step workflows.
+
+Learning, execution, and system design happen simultaneously:
+- Problems are solved in real time  
+- Workflows are refined during use  
+- Outputs are continuously improved through iteration  
+
+This transforms ChatGPT from a tool into a **co-developer, coach, and system design partner**.
+
+This README itself was developed using this system, demonstrating real-world application of iterative coaching, system design, and production output.
+
+---
+
+### Key Capabilities
+
+* **Context-Aware Guidance**  
+  Maintains awareness of project history, frameworks, and prior decisions  
+
+* **Iterative Refinement**  
+  Supports multi-pass development (design → test → refine → relock)  
+
+* **Workflow Co-Design**  
+  Helps architect pipelines, systems, and process structures  
+
+* **Execution Support**  
+  Generates production-ready code, prompts, and assets in real time  
+
+* **Knowledge Systemization**  
+  Converts successful patterns into reusable workflows and frameworks  
+
+---
 
 ### Key Insights
 
-* AI accelerates skill acquisition
-* Learning is integrated directly into production workflows
+* AI accelerates both learning **and execution simultaneously**  
+* Context persistence enables deeper, more relevant guidance  
+* Iteration transforms exploration into structured systems  
+* The combination of coaching + execution creates compounding productivity gains  
 
 ---
 
