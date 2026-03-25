@@ -217,43 +217,53 @@ Animated concept tests (Grok) explore tone, performance, and staging by interpre
 **Beat Sheet Visuals**
 
 <table>
-    <tr>
-     <td align="center">
-      <b>ChatGPT Screenplay</b>
+  <tr>
+    <th align="center" colspan="1">Story Context</th>
+    <th></th>
+    <th align="center" colspan="3">Visual Beat Development</th>
+    <th></th>
+    <th align="center" colspan="1">Motion Validation</th>
+  </tr>
+  <tr>
+    <th align="center">ChatGPT Screenplay</th>
+    <th></th>
+    <th align="center" colspan="3">Visual Scene Beat Sheets</th>
+    <th></th>
+    <th align="center">Grok Video Test of the Beats</th>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" height="320"/>
     </td>
-     <td></td>
-    <td align="center">
-      <b>Visual Scene Beat Sheets</b>
+    <td align="center" width="60">
+      <h2>+</h2>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td align="center">
-      <b>Grok Video Test of the Beats</b>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/humbug/LarrysAssignmnet.png" height="320"/>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/humbug/MistyBeat.png" height="320"/>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/humbug/SantaWrites.png" height="320"/>
+    </td>
+    <td align="center" width="60">
+      <h2>➜</h2>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank" rel="noopener noreferrer">
+        <img src="images/humbug/SantaWrites.png" height="320"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
     </td>
   </tr>
-    <tr>
-        <td align="center" bgcolor="#3f4a54">
-            <img src="images/screenplay.png" width="300"/>
-        </td>
-       <td align="center" width="60">
-          <span style="font-size:48px;"><b>+</b></span>
-        </td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="250"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="250"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="250"/></td>
-         <td align="center" width="60">
-      ➜
-        </td>
-         <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank">
-                <img src="images/humbug/SantaWrites.png" width="300"/>
-            </a>
-                <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-    </tr>
 </table>
+
+<p align="center"><sub>
+Story development is translated into scene and beat structure, then visualized as beat sheets using locked character designs and established project tone. 
+These beat sheets are tested in motion with Grok to evaluate scene clarity, pacing, and emotional tone before deeper production development.
+</sub></p>
 
 ---
 
