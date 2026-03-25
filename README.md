@@ -278,7 +278,7 @@ These images are generated using structured prompts derived from narrative devel
       ➜
     </td>
     <td align="center" bgcolor="#3f4a54">
-      <img src="images/ascension/BeastandTower.png" width="300"/>
+      <img src="images/ascension/Beast.png" width="300"/>
     </td>
     <td align="center" width="60">
       ➜
