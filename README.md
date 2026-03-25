@@ -61,10 +61,12 @@ flowchart LR
 ### Visuals
 
 **Hero Design**
-<img src="images/mm_final_design.png" width="600"/>
+
+<img src="images/mm_final_design.png" width="450"/>
 
 **Dataset (Pose Grid)**
- <img src="images/mothman_grid_2x3.png" width="600"/>
+
+ <img src="images/mothman_grid_2x3.png" width="300"/>
 
 **Motion Tests (Grok)**
 [▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
