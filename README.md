@@ -138,83 +138,43 @@ flowchart LR
     C --> D[Refine]
     D --> E[Lock]
 ```
+---
 
-### Visuals
-
-**Poster Visual Tests**
+**Locked Character Designs → Scene-Based Animation Tests**
 
 <table>
 <tr>
-<th align="center" colspan="8">Iterative Poster Diagnostics</th>
+<th align="center" colspan="2">Character Identity → Motion Validation</th>
 </tr>
 <tr>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" height="120"/></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/Po3QKtgxgQA" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/Chars_01.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/gJSSF3xBhgA" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/Chars_02.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
 </tr>
 <tr>
-<td align="center"><sub>Historical</sub></td>
-<td align="center"><sub>War</sub></td>
-<td align="center"><sub>Sci-Fi</sub></td>
-<td align="center"><sub>Family Fantasy</sub></td>
-<td align="center"><sub>Epic Sci-Fi</sub></td>
-<td align="center"><sub>Supernatural</sub></td>
-<td align="center"><sub>Sci-Fi Drama</sub></td>
-<td align="center"><sub>Family Animation</sub></td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/OYw3xDqHl_c" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/chars_03.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/WdhYYRJrs6o" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/snowangels.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
 </tr>
 </table>
 
 <p align="center"><sub>
-Poster tests are used as an iterative visual diagnostic throughout story development, representing the current state of the project at each stage. Early iterations tend to be broad and exploratory, while later passes align more closely with locked screenplay elements and established narrative direction. These tests provide a fast, high-level read on tone, genre, character, world, and key set pieces—revealing how ChatGPT is interpreting and weighting story components as the project evolves.
+Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for all downstream visual generation, ensuring consistency across scenes and iterations. Scene-based animation tests (Grok) interpret moments from the screenplay using these locked characters to validate tone, performance, and staging in motion.
 </sub></p>
-
-**Character Designs (ChatGPT) -> Animated Concept Scenes (Grok) - click to see animation**
-
-<table>
-    <tr>
-        <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtu.be/Po3QKtgxgQA" target="_blank">
-                <img src="images/humbug/Chars_01.png" width="600"/>
-            </a>
-            <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-        <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtu.be/gJSSF3xBhgA" target="_blank">
-                <img src="images/humbug/Chars_02.png" width="600"/>
-            </a>
-            <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-     </tr>
-     <tr>
-        <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtu.be/OYw3xDqHl_c" target="_blank">
-                <img src="images/humbug/chars_03.png" width="600"/>
-            </a>
-                <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-        <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtu.be/WdhYYRJrs6o" target="_blank">
-                <img src="images/humbug/snowangels.png" width="600"/>
-            </a>
-            <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-    </tr>
-</table>
-<p align="center"><sub>
-Character designs are developed and locked in ChatGPT as canonical references for each project.  
-These designs are then used to drive consistent visual identity across scenes.  
-Animated concept tests (Grok) explore tone, performance, and staging by interpreting moments from the screenplay using these locked characters.
-</sub></p>
-
 ---
 
 **Beat Sheet Visuals**
@@ -343,6 +303,44 @@ These beat sheets are tested in motion with Grok to evaluate scene clarity, paci
 Scenes are generated by combining screenplay context with visual reference inputs, allowing ChatGPT to build narrative-consistent imagery rather than isolated prompts. 
 These generated scenes are then tested in motion using Grok to validate composition, pacing, and tone—ensuring each moment holds up both visually and cinematically within the story.
 </sub></p>
+
+---
+
+### Visuals
+
+**Poster Visual Tests**
+
+<table>
+<tr>
+<th align="center" colspan="8">Iterative Poster Diagnostics</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" height="120"/></td>
+</tr>
+<tr>
+<td align="center"><sub>Historical</sub></td>
+<td align="center"><sub>War</sub></td>
+<td align="center"><sub>Sci-Fi</sub></td>
+<td align="center"><sub>Family Fantasy</sub></td>
+<td align="center"><sub>Epic Sci-Fi</sub></td>
+<td align="center"><sub>Supernatural</sub></td>
+<td align="center"><sub>Sci-Fi Drama</sub></td>
+<td align="center"><sub>Family Animation</sub></td>
+</tr>
+</table>
+
+<p align="center"><sub>
+Poster tests are used as an iterative visual diagnostic throughout story development, representing the current state of the project at each stage. Early iterations tend to be broad and exploratory, while later passes align more closely with locked screenplay elements and established narrative direction. These tests provide a fast, high-level read on tone, genre, character, world, and key set pieces—revealing how ChatGPT is interpreting and weighting story components as the project evolves.
+</sub></p>
+
+
 ### Key Insights
 
 * Prevents narrative drift in long-form projects
