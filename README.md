@@ -172,15 +172,23 @@ These images are generated using structured prompts derived from narrative devel
 
 **Beat Sheet Visuals**
 
-| Beat 1                            | Beat 2                         |
-| --------------------------------- | ------------------------------ |
-| ![](images/ascension/beat_01.png) | ![](images/humbug/beat_02.png) |
+<table>
+  <tr>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignment.png" width="120"/></td>
+  </tr>
 
 **Character Designs (Locked)**
 
-| Character 1                        | Character 2                         |
-| ---------------------------------- | ----------------------------------- |
-| ![](images/tomoe/character_01.png) | ![](images/humbug/character_02.png) |
+<table>
+  <tr>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_01.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_02.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/Chars_03.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/props.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/humbug/snowangels.png" width="120"/></td>
+  </tr>
 
 **Animated Concept Scene (Grok)**
 [▶ Watch Concept Scene Video](YOUTUBE_LINK_HERE)
