@@ -170,26 +170,6 @@ flowchart LR
 These images are generated using structured prompts derived from narrative development passes, allowing rapid exploration of tone, genre, and visual identity across projects.
 </em></p>
 
-**Beat Sheet Visuals**
-
-<table>
-    <tr>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="300"/></td>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
-         <td align="center" width="60">
-      ➜
-        </td>
-         <td align="center" bgcolor="#3f4a54">
-            <a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank">
-                <img src="images/humbug/SantaWrites.png" width="600"/>
-            </a>
-                <br/>
-                <sub>▶ Watch Scene</sub>
-        </td>
-    </tr>
-</table>
-
 **Character Designs (ChatGPT) -> Animated Concept Scenes (Grok) - click to see animation**
 
 <table>
@@ -231,6 +211,28 @@ Character designs are developed and locked in ChatGPT as canonical references fo
 These designs are then used to drive consistent visual identity across scenes.  
 Animated concept tests (Grok) explore tone, performance, and staging by interpreting moments from the screenplay using these locked characters.
 </sub></p>
+
+---
+
+**Beat Sheet Visuals**
+
+<table>
+    <tr>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="300"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="300"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
+         <td align="center" width="60">
+      ➜
+        </td>
+         <td align="center" bgcolor="#3f4a54">
+            <a href="https://youtube.com/shorts/KftJ5Cr9nzs" target="_blank">
+                <img src="images/humbug/SantaWrites.png" width="300"/>
+            </a>
+                <br/>
+                <sub>▶ Watch Scene</sub>
+        </td>
+    </tr>
+</table>
 
 ---
 
