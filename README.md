@@ -42,14 +42,14 @@ Create a consistent AI-generated character and integrate it into live-action foo
 
 ### Pipeline Flow
 
-```
-Concept (ChatGPT)
-→ Motion Tests (Grok)
-→ Dataset (ComfyUI / FLUX)
-→ LoRA Training (WAN)
-→ Scene Integration (ControlNet)
-→ Upscale
-→ Final Composite (Nuke)
+```mermaid
+flowchart LR
+    A[Concept Design<br/>ChatGPT] --> B[Motion Tests<br/>Grok]
+    B --> C[Pose Dataset<br/>ComfyUI / FLUX]
+    C --> D[LoRA Training<br/>WAN]
+    D --> E[Scene Integration<br/>ControlNet + Segmentation]
+    E --> F[Upscale]
+    F --> G[Final Composite<br/>Nuke]
 ```
 
 ### Visuals to Include
@@ -75,20 +75,45 @@ Develop narrative IP using a structured, repeatable AI-assisted framework.
 
 ### System Flow
 
+```mermaid
+flowchart LR
+    A[Framework] --> B[Rules & Tools]
+    B --> C[Passes]
+    C --> D[Locked Outputs]
 ```
-Framework → Rules → Passes → Locked Outputs
+
+### Character Identity Layer
+
+```mermaid
+flowchart TD
+    A[Locked Character Designs] --> B[Poster Tests]
+    A --> C[Beat Sheet Visuals]
+    A --> D[Scene Concept Frames]
+    B --> E[Story Validation]
+    C --> E
+    D --> E
 ```
 
 ### Pass Progression
 
-```
-Logline → Synopsis → Treatment → Beats → Scenes → Drafts → Script
+```mermaid
+flowchart LR
+    A[Logline] --> B[Synopsis]
+    B --> C[Treatment]
+    C --> D[Beats]
+    D --> E[Scenes]
+    E --> F[Drafts]
+    F --> G[Script]
 ```
 
 ### Validation Loop
 
-```
-Story → Poster Test → Beat Visualization → Refine → Lock
+```mermaid
+flowchart LR
+    A[Story Draft] --> B[Poster Test]
+    B --> C[Beat Visualization]
+    C --> D[Refine]
+    D --> E[Lock]
 ```
 
 ### Visuals to Include
@@ -117,14 +142,22 @@ Combine a database-driven vocabulary system with narrative development workflows
 
 ### System Flow
 
-```
-Vocabulary DB → Constraints → Story Framework → Draft → Validate → Refine
+```mermaid
+flowchart LR
+    A[Vocabulary DB] --> B[Constraints]
+    B --> C[Story Framework]
+    C --> D[Draft]
+    D --> E[Validate]
+    E --> F[Refine]
 ```
 
 ### Integration Loop
 
-```
-Prism Data ↔ Story Draft ↔ Constraint Check ↔ Adjustment
+```mermaid
+flowchart LR
+    A[Prism Data] <--> B[Story Draft]
+    B <--> C[Constraint Check]
+    C <--> D[Adjustment]
 ```
 
 ### Visuals to Include
@@ -149,8 +182,16 @@ Generate and refine video outputs using multiple AI platforms.
 
 ### Workflow
 
-```
-ChatGPT → Grok / Kling / Runway → Evaluate → Iterate
+```mermaid
+flowchart LR
+    A[ChatGPT<br/>Prompt Design] --> B[Grok]
+    A --> C[Kling]
+    A --> D[Runway]
+    B --> E[Output Evaluation]
+    C --> E
+    D --> E
+    E --> F[Iterate]
+    F --> A
 ```
 
 ### Visuals to Include
@@ -177,8 +218,12 @@ Stabilize and optimize complex AI pipelines under hardware constraints.
 
 ### Debug Flow
 
-```
-Full Pipeline → Isolate → Test → Rebuild → Optimize
+```mermaid
+flowchart LR
+    A[Full Pipeline] --> B[Isolate]
+    B --> C[Test]
+    C --> D[Rebuild]
+    D --> E[Optimize]
 ```
 
 ### Visuals to Include
@@ -228,8 +273,14 @@ Use ChatGPT as a continuous learning and execution engine.
 
 ### Learning Loop
 
-```
-Goal → Question → Guidance → Apply → Feedback → Refine → Systemize
+```mermaid
+flowchart LR
+    A[Goal] --> B[Question]
+    B --> C[Guidance]
+    C --> D[Apply]
+    D --> E[Feedback]
+    E --> F[Refine]
+    F --> G[Systemize]
 ```
 
 ### Key Insights
@@ -265,3 +316,8 @@ These systems demonstrate a unified approach to AI:
 
 ---
 
+## Next Steps (Optional Enhancements)
+
+* Add embedded videos (Grok / Kling outputs)
+* Add interactive diagrams (Mermaid / images)
+* Expand case studies with deeper breakdowns
