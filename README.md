@@ -77,6 +77,74 @@ This system demonstrates a complete pipeline for translating creative intent acr
 
 ---
 
+## System in Practice — Creature Pipeline Example
+
+The following example demonstrates how the workflow system operates across multiple stages to produce a final integrated shot.
+
+---
+
+### Step 1 — Prompt-Driven Design
+
+Initial character design created using structured prompts.
+
+| |
+|---|
+| <img src="images/mm_final_design.png" width="600"/> |
+
+---
+
+### Step 2 — Dataset Creation
+
+Images generated and curated to build a consistent training dataset.
+
+| |
+|---|
+| <img src="images/mothman_grid_2x3.png" width="600"/> |
+
+---
+
+### Step 3 — Model Training
+
+LoRA training applied to enforce character consistency across outputs.
+
+- FLUX LoRA → image consistency  
+- WAN LoRA → animation + video  
+
+---
+
+### Step 4 — Scene Integration
+
+Character integrated into live-action footage using ControlNet and compositing workflows.
+
+| Input Plate | Final Composite |
+|---|---|
+| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
+
+---
+
+### Step 5 — Iteration and Tool Optimization
+
+Different tools used depending on shot requirements:
+
+- Runway → targeted effects  
+- Grok → motion exploration  
+- Kling → video generation  
+
+---
+
+### Key Result
+
+A consistent AI-generated character successfully translated from:
+
+**Concept → Dataset → Model → Shot**
+
+while maintaining:
+
+- visual continuity  
+- controllable behavior  
+- integration with production workflows
+
+---
 ### Outputs
 
 #### Image Generation
