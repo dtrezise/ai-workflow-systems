@@ -96,20 +96,28 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ---
 
-### 2. ChatGPT Workflow Systems
+---
 
-Structured workflows for using ChatGPT as a central system for creative development, planning, and multi-project orchestration.
+### 2. Creative Development Workflow (ChatGPT Framework System)
 
-#### Key Components
+A structured workflow for using ChatGPT as a central system for creative development, planning, and multi-project orchestration.
+
+This system is designed to move projects from concept to production-ready materials through controlled iteration, modular structure, and visual feedback.
+
+---
+
+#### Core System Design
 
 - **Framework Design**
   - Defined rules for interaction (structured options, critique authority, guardrails)
+  - Ensures ChatGPT contributes meaningfully while preserving user intent
 
 - **Pass-Based Development**
-  - Organized work into structured passes (story beats, scenes, drafts)
+  - Organized work into structured passes (story beats → scenes → drafts)
+  - Each pass builds progressively toward production-ready outputs
 
 - **Canvas System**
-  - Broke projects into modular documents for clarity and portability
+  - Broke projects into modular documents for clarity, editing, and portability
 
 - **Visual Feedback Tools**
   - Used generated imagery (e.g. posters) to reflect project state and guide iteration
@@ -120,12 +128,34 @@ Structured workflows for using ChatGPT as a central system for creative developm
 - **Session Management**
   - Used multiple chat sessions to manage complexity and reduce context drift
 
+---
+
+#### Workflow Process
+
+1. Concept and world definition  
+2. Character and narrative development  
+3. Visual identity lock (posters, concept imagery)  
+4. Structured iteration using guided options and critique  
+5. Milestone outputs (logline, treatment, pitch deck, screenplay, etc.)
+
+---
+
+#### Key Insights
+
+- Structured workflows significantly improve creative consistency  
+- Visual feedback accelerates iteration and reveals gaps in story development  
+- ChatGPT is most effective when guided by rules and system design  
+- Modular project structure improves control and scalability  
+
+---
+
 #### Current Challenges
 
 - Managing long-context performance and memory limits  
 - Reducing drift across extended sessions  
-- Improving consistency across multi-session workflows  
+- Improving consistency across multiple chat instances  
 
+---
 ---
 
 ### 3. Cross-Platform Workflow Strategy
