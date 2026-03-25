@@ -147,13 +147,13 @@ These serve as **visual checkpoints** to validate story direction and maintain c
 ---
 
 <p align="center">
-   <img src="images/tomoe.png" width="150"/> 
-   <img src="images/kapaun.png" width="150"/>
-   <img src="images/aboukir.png" width="150"/>
-   <img src="images/humbug.png" width="150"/>
-   <img src="images/ascension.png" width="150"/>
-   <img src="images/limbo.png" width="150"/>
-   <img src="images/outsource.png" width="150"/>
+   <img src="images/tomoe.png" width="125"/> 
+   <img src="images/kapaun.png" width="125"/>
+   <img src="images/aboukir.png" width="125"/>
+   <img src="images/humbug.png" width="125"/>
+   <img src="images/ascension.png" width="125"/>
+   <img src="images/limbo.png" width="125"/>
+   <img src="images/outsource.png" width="125"/>
 </p>
 
 ---
