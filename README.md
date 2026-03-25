@@ -264,6 +264,33 @@ These images are generated using structured prompts derived from narrative devel
       <sub>▶ Watch Scene</sub>
     </td>
   </tr>
+ <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/Beast.jpg" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/Tower.jpg" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/DawnTower.png" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="YOUTUBE_LINK">
+        <img src="images/ascension/DawnTower.png" width="300"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
+    </td>
+  </tr>
 </table>
 
 ### Key Insights
