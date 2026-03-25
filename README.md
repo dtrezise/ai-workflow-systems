@@ -291,6 +291,75 @@ These images are generated using structured prompts derived from narrative devel
       <sub>▶ Watch Scene</sub>
     </td>
   </tr>
+ <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/leaps.jpeg" width="300"/>
+    </td>
+   <td></td>
+    <td></td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/DawnLeaps_01.png" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="YOUTUBE_LINK">
+        <img src="images/ascension/DawnLeaps_02.png" width="300"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
+    </td>
+  </tr>
+<tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/mother.jpg" width="300"/>
+    </td>
+   <td></td>
+    <td></td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/MotherEva.png" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="YOUTUBE_LINK">
+        <img src="images/ascension/MotherEva.png" width="300"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
+    </td>
+  </tr>
+<tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/duel.jpg" width="300"/>
+    </td>
+   <td></td>
+    <td></td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/ShipDuel.png" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="YOUTUBE_LINK">
+        <img src="images/ascension/ShipDuel.png" width="300"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
+    </td>
+  </tr>
 </table>
 
 ### Key Insights
