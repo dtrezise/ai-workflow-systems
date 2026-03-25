@@ -91,10 +91,6 @@ End-to-end pipeline showing progression from concept design through dataset gene
 <br/><sub>Motion Test ▶</sub>
 </td>
 
-<td align="center" bgcolor="#3f4a54">
-<img src="images/after.png" height="180"/>
-<br/><sub>Final Composite</sub>
-</td>
 </tr>
 </table>
 
@@ -108,7 +104,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/before.png" height="220"/>
+<img src="images/plate_01.png" height="220"/>
 <br/><sub>Plate</sub>
 </td>
 
@@ -117,7 +113,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/after.png" height="220"/>
+<img src="images/final_01.png" height="220"/>
 <br/><sub>Final Composite</sub>
 </td>
 </tr>
