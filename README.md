@@ -65,9 +65,10 @@ End-to-end pipeline showing progression from concept design through dataset gene
 <th align="center">Concept</th>
 <th align="center">Dataset</th>
 <th align="center">Training</th>
-<th align="center">Integration</th>
+<th align="center">LoRA Applications</th>
 </tr>
 <tr>
+
 <td align="center" bgcolor="#3f4a54">
 <img src="images/mm_final_design.png" height="180"/>
 <br/><sub>Hero Design</sub>
@@ -84,10 +85,21 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<a href="YOUTUBE_LINK_HERE" target="_blank">
-<img src="images/mm_final_design.png" height="180"/>
+
+<a href="https://youtu.be/T57d_ERXKjU" target="_blank">
+<img src="images/mothman/mmtest_03_thumb.jpg" height="55"/>
 </a>
-<br/><sub>Motion Test ▶</sub>
+
+<a href="https://youtu.be/D1O6J3-mofQ" target="_blank">
+<img src="images/mothman/mmtest_01_thumb.jpg" height="55"/>
+</a>
+
+<a href="https://youtu.be/jxlbnHHw_D4" target="_blank">
+<img src="images/mothman/mmtest_02_thumb.jpg" height="55"/>
+</a>
+
+<br/><sub>Multi-Scene Motion Tests ▶</sub>
+
 </td>
 
 </tr>
