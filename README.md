@@ -196,7 +196,7 @@ These images are generated using structured prompts derived from narrative devel
 <table>
     <tr>
         <td align="center" bgcolor="#3f4a54">
-            <a href="[YOUTUBE_LINK_1](https://youtu.be/Po3QKtgxgQA)" target="_blank">
+            <a href=[YOUTUBE_LINK_1](https://youtu.be/Po3QKtgxgQA) target="_blank">
                 <img src="images/humbug/Chars_01.png" width="300"/>
             </a>
         </td>
