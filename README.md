@@ -223,6 +223,9 @@ These images are generated using structured prompts derived from narrative devel
 
 <table>
   <tr>
+     <td align="center">
+      <b>ChatGPT Story Dev</b>
+    </td>
     <td align="center">
       <b>Concept Art</b>
     </td>
@@ -238,6 +241,12 @@ These images are generated using structured prompts derived from narrative devel
     </td>
   </tr>
   <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
     <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/Dawn.jpg" width="300"/>
     </td>
@@ -266,6 +275,12 @@ These images are generated using structured prompts derived from narrative devel
   </tr>
  <tr>
     <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/Beast.jpg" width="300"/>
     </td>
    <td align="center" width="60">
@@ -293,6 +308,12 @@ These images are generated using structured prompts derived from narrative devel
   </tr>
  <tr>
     <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/leaps.jpeg" width="300"/>
     </td>
    <td></td>
@@ -316,6 +337,12 @@ These images are generated using structured prompts derived from narrative devel
   </tr>
 <tr>
     <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
+    <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/mother.jpg" width="300"/>
     </td>
    <td></td>
@@ -338,6 +365,12 @@ These images are generated using structured prompts derived from narrative devel
     </td>
   </tr>
 <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/screenplay.png" width="300"/>
+    </td>
+   <td align="center" width="60">
+      <span style="font-size:48px;"><b>+</b></span>
+    </td>
     <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/duel.jpg" width="300"/>
     </td>
