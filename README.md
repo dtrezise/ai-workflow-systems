@@ -98,7 +98,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 <img src="images/mothman/mmtest_03_thumb.jpg" height="60"/>
 </a>
 
-<br/><sub>Multi-Scene Motion Tests ▶</sub>
+<br/><sub>Multi-Scene LoRA Tests ▶</sub>
 
 </td>
 
