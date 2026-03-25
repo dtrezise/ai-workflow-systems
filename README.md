@@ -39,22 +39,29 @@ The focus is not on individual tools, but on **how tools are orchestrated into r
 
 ---
 
----
+<!-- ===================================================== -->
+<!-- CREATURE PIPELINE: SYSTEM OVERVIEW -->
+<!-- Replace src path if needed -->
+<!-- ===================================================== -->
 
-## Multimodal Creature Pipeline
+## Multimodal Creature Pipeline (Production Workflow)
 
 **Objective:**  
 Create a consistent AI-generated character and integrate it into live-action footage using a controlled, multi-stage pipeline that ensures visual continuity across generation, motion, and compositing.
 
 ---
 
-### System Overview (Pipeline Architecture)
+### System Overview (Creature Pipeline)
 
 <img src="images/flows/creature_pipeline.png" width="100%"/>
 
 <p align="center"><sub>
-End-to-end pipeline showing progression from concept design through dataset generation, model training, scene integration, and final compositing. Each stage is validated before advancing to ensure consistency and production readiness.
+End-to-end multimodal pipeline combining concept design, motion validation, dataset generation, LoRA training, and scene integration. Each stage includes built-in validation gates to ensure consistency, stability, and production-ready results.
 </sub></p>
+
+---
+
+This pipeline operates within the broader system architecture and validation framework shown above. Each stage is tested before advancing, preventing drift and ensuring consistent character identity across prompts, scenes, and motion contexts.
 
 ---
 
