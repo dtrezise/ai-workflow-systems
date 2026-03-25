@@ -36,6 +36,38 @@ This repository demonstrates how to design those systems.
 - Dataset creation and LoRA training pipelines  
 - AI → VFX integration (ControlNet, compositing, Nuke)  
 - Workflow debugging, iteration, and optimization  
+---
+
+## End-to-End Workflow Overview
+
+```mermaid
+flowchart LR
+
+A[Design Input]
+--> B[Structured Prompting]
+
+B --> C[Image Generation]
+
+C --> D[Iteration & Refinement]
+
+D --> C
+
+C --> E[Scene Selection]
+
+E --> F[Image-to-Video Prompting]
+
+F --> G[Video Generation]
+
+subgraph Sources
+A1[Concept Art]
+A2[Script-Derived Scenes]
+A3[Character Systems]
+end
+
+A1 --> A
+A2 --> A
+A3 --> A
+```
 
 ---
 
