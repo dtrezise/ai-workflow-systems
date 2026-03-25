@@ -31,30 +31,8 @@ This repository demonstrates a **cross-modal AI workflow system** that translate
 
 ### System Flow
 
-```mermaid
-flowchart LR
-
-A[Concept Sources\n(Ascension / Tomoe / Humbug)]
---> B[ChatGPT\nStructure + Prompt Design]
-
-B --> C[Image Generation\n(ComfyUI / FLUX)]
-C --> D[Dataset Creation]
-
-D --> E[LoRA Training\n(FLUX → WAN)]
-
-E --> F[Image Outputs\n(Character Consistency)]
-
-F --> G[Video Generation\n(Grok / Kling / Runway)]
-
-G --> H[Compositing\n(Nuke / AE)]
-
-H --> I[Final Cinematic Output]
-```
 ---
 
-## Add:
-
-```markdown
 ## Cross-Modal Creative Workflow
 
 This system demonstrates a complete pipeline for translating creative intent across multiple modalities:
@@ -124,7 +102,7 @@ This system focuses on:
 - **translation across modalities**
 - **consistency across stages**
 - **integration into production pipelines**
-```
+
 ---
 
 ## Workflow Library
