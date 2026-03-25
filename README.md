@@ -1,410 +1,272 @@
-# AI Workflow Systems  
-**Production, Creative, and Cross-Platform AI Workflows**
+# AI Workflow Systems
+
+Designing structured, multimodal AI workflow systems that translate creative intent into production-ready outputs across visual, narrative, technical, and product domains.
 
 ---
 
 ## Overview
 
-This repository documents a set of real-world AI workflows designed to translate generative AI capabilities into practical, repeatable systems.
+This repository showcases a collection of **AI workflow systems** built to solve real-world problems across:
 
-The focus is not on individual tools, but on how to **design, orchestrate, and refine workflows across multiple platforms** to achieve consistent, usable results in production environments.
+* Visual effects & multimodal generation
+* Narrative development & creative systems
+* Data-driven content pipelines
+* Product & venture design
+* Investigative analysis
 
-These workflows combine generative models, structured prompting, dataset preparation, model training, and compositing techniques into cohesive pipelines.
+The focus is not on individual tools, but on **how tools are orchestrated into repeatable, reliable systems**.
 
 ---
 
 ## Core Capabilities
 
-This work centers around several key capabilities:
-
-- Multi-step workflow design across generative AI systems  
-- Cross-platform orchestration (ChatGPT, Runway, ComfyUI, Grok, Kling)  
-- Prompt and context engineering tailored to specific tools  
-- Workflow troubleshooting, iteration, and refinement  
-- Designing systems that enable others to adopt and use AI effectively  
+* Multimodal pipeline design (text → image → video → VFX)
+* Structured prompt engineering
+* Dataset creation & LoRA training
+* Cross-platform orchestration (ComfyUI, Runway, Grok, Kling)
+* Narrative system design
+* Database-driven content generation
+* Workflow debugging & optimization
+* AI-assisted research & product development
 
 ---
 
-## Workflow System Overview
+# Flagship Workflows
 
-This repository demonstrates a **cross-modal AI workflow system** that translates creative intent into structured, multi-stage outputs.
+---
+
+## 1. Multimodal Creature Pipeline
+
+**Objective:**
+Create a consistent AI-generated character and integrate it into live-action footage.
+
+### Pipeline Flow
+
+```
+Concept (ChatGPT)
+→ Motion Tests (Grok)
+→ Dataset (ComfyUI / FLUX)
+→ LoRA Training (WAN)
+→ Scene Integration (ControlNet)
+→ Upscale
+→ Final Composite (Nuke)
+```
+
+### Visuals to Include
+
+* Hero design image
+* Dataset grid (2x3 poses)
+* Motion test stills
+* ComfyUI node graph
+* Before/after composite
+
+### Key Insights
+
+* LoRA enables cross-shot consistency
+* AI generation + traditional VFX = production quality
+* Early motion testing prevents downstream failure
+
+---
+
+## 2. Story Development System
+
+**Objective:**
+Develop narrative IP using a structured, repeatable AI-assisted framework.
 
 ### System Flow
 
-```mermaid
-flowchart LR
-    A[Concept Sources] --> B[ChatGPT Prompt Design]
-    B --> C[Image Generation]
-    C --> D[Dataset Creation]
-    D --> E[LoRA Training]
-    E --> F[Image Outputs]
-    F --> G[Video Generation]
-    G --> H[Compositing]
-    H --> I[Final Output]
+```
+Framework → Rules → Passes → Locked Outputs
 ```
 
----
+### Pass Progression
 
-## Cross-Modal Creative Workflow
+```
+Logline → Synopsis → Treatment → Beats → Scenes → Drafts → Script
+```
 
-This system demonstrates a complete pipeline for translating creative intent across multiple modalities:
+### Validation Loop
 
-**Narrative → Visual → Cinematic → Animated**
+```
+Story → Poster Test → Beat Visualization → Refine → Lock
+```
 
----
+### Visuals to Include
 
-### Inputs
+* Poster samples
+* Beat sheet visuals
+* Character design sheets
+* Scene concept frames
 
-- **Concept Art** (Ascension)  
-- **Script-Driven Scenes** (Tomoe)  
-- **Character / System Design** (Humbug)  
+### Key Insights
 
----
-
-### Processing Layer
-
-- ChatGPT used for:
-  - structured prompt engineering  
-  - composition and shot design  
-  - iterative refinement loops  
-
-- Prompts are built to control:
-  - subject  
-  - environment  
-  - tone  
-  - camera framing  
-  - lighting  
+* Prevents narrative drift in long-form projects
+* Uses visual validation to test tone early
+* Maintains character consistency across all outputs
 
 ---
 
-## System in Practice — Creature Pipeline Example
-
-The following example demonstrates how the workflow system operates across multiple stages to produce a final integrated shot.
+# Applied Systems
 
 ---
 
-### Step 1 — Prompt-Driven Design
+## 3. Prism Vocabulary Engine + Narrative Integration
 
-Initial character design created using structured prompts.
+**Objective:**
+Combine a database-driven vocabulary system with narrative development workflows.
 
-| |
-|---|
-| <img src="images/mm_final_design.png" width="600"/> |
+### System Flow
 
----
+```
+Vocabulary DB → Constraints → Story Framework → Draft → Validate → Refine
+```
 
-### Step 2 — Dataset Creation
+### Integration Loop
 
-Images generated and curated to build a consistent training dataset.
+```
+Prism Data ↔ Story Draft ↔ Constraint Check ↔ Adjustment
+```
 
-| |
-|---|
-| <img src="images/mothman_grid_2x3.png" width="600"/> |
+### Visuals to Include
 
----
+* Database schema diagram
+* Query output tables
+* Word usage tracking
+* Story + vocabulary alignment examples
 
-### Step 3 — Model Training
+### Key Insights
 
-LoRA training applied to enforce character consistency across outputs.
-
-- FLUX LoRA → image consistency  
-- WAN LoRA → animation + video  
-
----
-
-### Step 4 — Scene Integration
-
-Character integrated into live-action footage using ControlNet and compositing workflows.
-
-| Input Plate | Final Composite |
-|---|---|
-| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
+* Data directly shapes creative output
+* Enables scalable book production
+* Demonstrates multi-system integration
 
 ---
 
-### Step 5 — Iteration and Tool Optimization
+## 4. Cross-Platform Video Generation Pipeline
 
-Different tools used depending on shot requirements:
+**Objective:**
+Generate and refine video outputs using multiple AI platforms.
 
-- Runway → targeted effects  
-- Grok → motion exploration  
-- Kling → video generation  
+### Workflow
 
----
+```
+ChatGPT → Grok / Kling / Runway → Evaluate → Iterate
+```
 
-### Key Result
+### Visuals to Include
 
-A consistent AI-generated character successfully translated from:
+* Side-by-side platform comparisons
+* Motion test frames
+* Prompt vs output examples
 
-**Concept → Dataset → Model → Shot**
+### Key Insights
 
-while maintaining:
-
-- visual continuity  
-- controllable behavior  
-- integration with production workflows
-
----
-### Outputs
-
-#### Image Generation
-
-- Cinematic frames generated using structured prompts  
-- Controlled composition and consistent visual identity  
-
-#### Motion / Video
-
-- Grok Img2Video and other tools used for motion generation  
-- Prompt-driven animation with controlled behavior  
+* Each platform has different strengths
+* Iteration is required for quality control
 
 ---
 
-### Key Capability
-
-This workflow enables:
-
-**Text → Image → Motion**
-
-while maintaining:
-
-- visual consistency  
-- narrative alignment  
-- controllable outputs  
+# Technical Systems
 
 ---
 
-### Why This Matters
+## 5. ComfyUI Debugging & Optimization
 
-Most AI workflows stop at generation.
+**Objective:**
+Stabilize and optimize complex AI pipelines under hardware constraints.
 
-This system focuses on:
+### Debug Flow
 
-- **translation across modalities**
-- **consistency across stages**
-- **integration into production pipelines**
+```
+Full Pipeline → Isolate → Test → Rebuild → Optimize
+```
 
----
+### Visuals to Include
 
-## Workflow Library
+* Node graph before/after
+* Error logs with fixes
+* Performance comparisons
 
----
+### Key Insights
 
-### 1. Creature Workflow (Production Pipeline)
-
-A multi-step workflow for creating and deploying a consistent character into video footage using generative AI and traditional VFX tools.
-
-#### Process Overview
-
-1. **Reference Gathering**
-   - Director input, physical references (e.g. statue), and existing designs
-
-2. **Concept Development (ChatGPT)**
-   - Iterated on character design using structured prompting and reference alignment
-
-### GenAI Character Design
-
-| Final ChatGPT Prompt Design |
-|---|
-| <img src="images/mm_final_design.png" width="600"/> |
-
-3. **Motion Exploration (Grok)**
-   - Rapid testing of creature behavior and movement
-
-4. **Base Image Generation (ComfyUI / FLUX)**
-   - Generated character poses on neutral backgrounds with controlled lighting
-   - Focused on building a clean dataset for training
-
-5. **Dataset Creation**
-   - Curated multiple images to ensure consistency and coverage
-
-### Image Data Set Creation
-
-| Selection of Poses for LoRA training |
-|---|
-| <img src="images/mothman_grid_2x3.png" width="600"/> |
-
-6. **LoRA Training (FLUX → WAN)**
-   - Trained FLUX LoRA for image consistency
-   - Trained WAN LoRA for animation and video integration
-   - (Explored lighting-specific LoRA approach, not implemented in this case)
-
-7. **Scene Integration**
-   - Used ControlNet for positioning and compositing control
-   - Used segmentation workflows to generate mattes
-
-8. **Upscaling**
-   - Increased resolution to production-ready quality
-
-9. **Final Compositing (Nuke)**
-   - Integrated character into live-action plates
-   - Balanced lighting, scale, and realism
-
-### Creature Integration (Before / After)
-
-| Input Plate | Final Output |
-|---|---|
-| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
-
-10. **Tool-Specific Optimization**
-   - Used Runway, Grok, and Kling selectively depending on shot requirements
-
-### Bespoke Effects with Runway
-
-| Input Plate | Final Result |
-|---|---|
-| <img src="images/face.png" width="300"/> | <img src="images/face2.png" width="300"/> |
+* Debugging is essential for production readiness
+* Hardware constraints shape workflow design
 
 ---
 
----
-
-### 2. Creative Development Workflow (ChatGPT Framework System)
-
-A structured workflow for using ChatGPT as a central system for creative development, planning, and multi-project orchestration.
-
-This system is designed to move projects from concept to production-ready materials through controlled iteration, modular structure, and visual feedback.
+# Additional Systems
 
 ---
 
-#### Core System Design
+## 6. Research → Product Framework
 
-- **Framework Design**
-  - Defined rules for interaction (structured options, critique authority, guardrails)
-  - Ensures ChatGPT contributes meaningfully while preserving user intent
+* Deep research → system design → prototype architecture
 
-- **Pass-Based Development**
-  - Organized work into structured passes (story beats → scenes → drafts)
-  - Each pass builds progressively toward production-ready outputs
+## 7. STEAM PNKS Venture System
 
-- **Canvas System**
-  - Broke projects into modular documents for clarity, editing, and portability
+* Educational + community platform design
 
-- **Visual Feedback Tools**
-  - Used generated imagery (e.g. posters) to reflect project state and guide iteration
+## 8. Dynamic Keyboard Concept
 
-- **Character & World Consistency**
-  - Locked design elements for portability across tools (Runway, Kling, etc.)
+* AI-assisted product ideation
 
-- **Session Management**
-  - Used multiple chat sessions to manage complexity and reduce context drift
+## 9. Forensic Analysis / Follow the Money
+
+* Financial flow mapping
+* Narrative deconstruction
 
 ---
 
-#### Workflow Process
-
-1. Concept and world definition  
-2. Character and narrative development  
-3. Visual identity lock (posters, concept imagery)  
-4. Structured iteration using guided options and critique  
-5. Milestone outputs (logline, treatment, pitch deck, screenplay, etc.)
-
-#### Visual Iteration Examples
-
-The following images are generated as part of the workflow to explore tone, world, and narrative direction across different projects.
-
-These serve as **visual checkpoints** to validate story direction and maintain consistency throughout development.
+# Meta System
 
 ---
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| <p align="center"><img src="images/tomoe.png" width="120"/></p> | <p align="center"><img src="images/kapaun.png" width="120"/></p> | <p align="center"><img src="images/aboukir.png" width="120"/></p> | <p align="center"><img src="images/humbug.png" width="120"/></p> | <p align="center"><img src="images/ascension.png" width="120"/></p> | <p align="center"><img src="images/limbo.png" width="120"/></p> | <p align="center"><img src="images/outsource.png" width="120"/></p> |
-| <p align="center"><sub>Historical</sub></p> | <p align="center"><sub>War</sub></p> | <p align="center"><sub>Sci-Fi</sub></p> | <p align="center"><sub>Family Fantasy</sub></p> | <p align="center"><sub>Epic Sci-Fi</sub></p> | <p align="center"><sub>Supernatural</sub></p> | <p align="center"><sub>Sci-Fi Drama</sub></p> |
+## 10. AI-Assisted Personal Coaching System
 
-<p align="center"><em>
-These images are generated using structured prompts derived from narrative development passes, allowing rapid exploration of tone, genre, and visual identity across projects.
-</em></p>
+**Objective:**
+Use ChatGPT as a continuous learning and execution engine.
 
----
+### Learning Loop
 
-#### Key Insights
+```
+Goal → Question → Guidance → Apply → Feedback → Refine → Systemize
+```
 
-- Structured workflows significantly improve creative consistency  
-- Visual feedback accelerates iteration and reveals gaps in story development  
-- ChatGPT is most effective when guided by rules and system design  
-- Modular project structure improves control and scalability  
+### Key Insights
+
+* AI accelerates skill acquisition
+* Learning is integrated directly into production workflows
 
 ---
 
-#### Current Challenges
-
-- Managing long-context performance and memory limits  
-- Reducing drift across extended sessions  
-- Improving consistency across multiple chat instances  
-
----
----
-
-### 3. Cross-Platform Workflow Strategy
-
-Approach for coordinating multiple AI tools, using each for its strengths within a larger system.
-
-#### Pattern
-
-- ChatGPT as **control layer** (structure, logic, consistency)  
-- ComfyUI as **control + generation layer**  
-- Runway / Kling / Grok as **video and iteration layers**  
-- Nuke / After Effects as **final integration layer**
-
-#### Key Insight
-
-No single tool solves the full pipeline.  
-Effective workflows require **intentional orchestration across systems**.
+# Workflow Design Principles
 
 ---
 
-### 4. Research & Venture Workflows
+### Evaluation & Validation
 
-Use of AI-driven research workflows to support project and venture development.
+* Outputs are tested across visual, narrative, and technical layers
 
-Examples include:
+### Modularity
 
-- CivicLedger  
-- Prism Vocabulary Engine / Little Miss Adventures  
-- STEAM PNKS  
-- Other research-driven concepts  
+* Workflows are reusable and portable across projects
 
-#### Approach
+### Human-in-the-Loop
 
-- Use deep research to ground ideas in real-world data  
-- Evaluate risks, opportunities, and viability  
-- Translate findings into structured project directions  
+* Critical decisions are guided, not automated
 
 ---
 
-### 5. Learning & Coaching Workflows
+# Closing
 
-Use of AI systems (primarily ChatGPT) as a structured learning and coaching tool.
+These systems demonstrate a unified approach to AI:
 
-#### Applications
-
-- Learning new tools (ComfyUI, Runway, etc.)  
-- Improving technical workflows  
-- Career development (resume, job search, positioning)  
-- Iterative skill development through guided feedback  
+> Not as isolated tools, but as structured, validated, and reusable workflow systems.
 
 ---
 
-## Key Insights
+## Next Steps (Optional Enhancements)
 
-- Multi-tool workflows are essential for real-world AI applications  
-- Workflow reliability and repeatability are as important as output quality  
-- Prompting is most effective when combined with structure and system design  
-- Iteration and debugging are core parts of the process  
-- AI systems are most powerful when used as part of a larger workflow, not in isolation  
-
----
-
-## Areas for Further Development
-
-- Automating portions of workflows (agentic patterns)  
-- Improving repeatability and modular design  
-- Formalizing debugging and failure-handling patterns  
-- Enhancing cross-tool integration  
-- Scaling workflows across longer sequences and larger projects  
-
----
-
-## Summary
-
-This repository represents an ongoing effort to move from using AI tools individually to designing **integrated workflow systems** that produce reliable, scalable results in real-world environments.
+* Add embedded videos (Grok / Kling outputs)
+* Add interactive diagrams (Mermaid / images)
+* Expand case studies with deeper breakdowns
