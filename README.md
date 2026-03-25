@@ -175,6 +175,7 @@ flowchart LR
 <p align="center"><sub>
 Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for all downstream visual generation, ensuring consistency across scenes and iterations. Scene-based animation tests (Grok) interpret moments from the screenplay using these locked characters to validate tone, performance, and staging in motion.
 </sub></p>
+
 ---
 
 **Beat Sheet Visuals**
