@@ -78,7 +78,7 @@ flowchart LR
 
 | Before | After |
 |---|---|
-| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
+| <img src="images/plate_01.png" width="450"/> | <img src="images/final_01.png" width="450"/> |
 
 ### Key Insights
 
