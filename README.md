@@ -329,7 +329,7 @@ Story development is translated into scene and beat structure, then visualized a
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnLeaps_01.png" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnLeaps_02.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/EaPQb0pcfFs"><img src="images/ascension/DawnLeaps_02.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
@@ -338,7 +338,7 @@ Story development is translated into scene and beat structure, then visualized a
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/MotherEva.png" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/MotherEva.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/Bn5TgId9vwU"><img src="images/ascension/MotherEva.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
