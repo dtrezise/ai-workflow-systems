@@ -188,11 +188,15 @@ These images are generated using structured prompts derived from narrative devel
             <a href="https://youtu.be/Po3QKtgxgQA" target="_blank">
                 <img src="images/humbug/Chars_01.png" width="600"/>
             </a>
+            <br/>
+                <sub>▶ Watch Scene</sub>
         </td>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/gJSSF3xBhgA" target="_blank">
                 <img src="images/humbug/Chars_02.png" width="600"/>
             </a>
+            <br/>
+                <sub>▶ Watch Scene</sub>
         </td>
      </tr>
      <tr>
@@ -200,11 +204,15 @@ These images are generated using structured prompts derived from narrative devel
             <a href="https://youtu.be/OYw3xDqHl_c" target="_blank">
                 <img src="images/humbug/chars_03.png" width="600"/>
             </a>
+                <br/>
+                <sub>▶ Watch Scene</sub>
         </td>
         <td align="center" bgcolor="#3f4a54">
             <a href="https://youtu.be/WdhYYRJrs6o" target="_blank">
                 <img src="images/humbug/snowangels.png" width="600"/>
             </a>
+            <br/>
+                <sub>▶ Watch Scene</sub>
         </td>
     </tr>
 </table>
@@ -233,9 +241,9 @@ These images are generated using structured prompts derived from narrative devel
     <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/Dawn.jpg" width="300"/>
     </td>
-    <td align="center" width="60">
-     +
-    </td> 
+   <td align="center" width="60">
+      <span style="font-size:28px;"><b>+</b></span>
+    </td>
     <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/TowerScale.jpg" width="300"/>
     </td>
