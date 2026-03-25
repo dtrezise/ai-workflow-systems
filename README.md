@@ -80,7 +80,7 @@ End-to-end pipeline showing progression from concept design through dataset gene
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/comfyui_graph.png" height="180"/>
+<img src="images/mothman/comfyUI.jpg" height="180"/>
 <br/><sub>LoRA Training</sub>
 </td>
 
