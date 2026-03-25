@@ -66,7 +66,6 @@ End-to-end pipeline showing progression from concept design through dataset gene
 <th align="center">Dataset</th>
 <th align="center">Training</th>
 <th align="center">Integration</th>
-<th align="center">Final Output</th>
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
