@@ -145,14 +145,14 @@ flowchart LR
 
 <table>
   <tr>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/tomoe.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/kapaun.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/aboukir.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/humbug.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/ascension.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/limbo.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/outsource.png" width="120"/></td>
-    <td align="center" bgcolor="#4a4f55"><img src="images/posters/LittleMiss.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" width="120"/></td>
+    <td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" width="120"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Historical</sub></td>
