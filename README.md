@@ -174,9 +174,9 @@ These images are generated using structured prompts derived from narrative devel
 
 <table>
     <tr>
-        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
         <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="300"/></td>
         <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="300"/></td>
+        <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
     </tr>
 </table>
 
