@@ -23,6 +23,36 @@ This work centers around several key capabilities:
 - Workflow troubleshooting, iteration, and refinement  
 - Designing systems that enable others to adopt and use AI effectively  
 
+## End-to-End Workflow Overview
+
+```mermaid
+flowchart LR
+
+A[Design Input]
+--> B[Structured Prompting]
+
+B --> C[Image Generation]
+
+C --> D[Iteration & Refinement]
+
+D --> C
+
+C --> E[Scene Selection]
+
+E --> F[Image-to-Video Prompting]
+
+F --> G[Video Generation]
+
+subgraph Sources
+A1[Concept Art]
+A2[Script-Derived Scenes]
+A3[Character Systems]
+end
+
+A1 --> A
+A2 --> A
+A3 --> A
+
 ---
 
 ## Workflow Library
