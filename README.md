@@ -209,7 +209,52 @@ These images are generated using structured prompts derived from narrative devel
     </tr>
 </table>
 
-[▶ Watch Concept Scene Video](YOUTUBE_LINK_HERE)
+---
+
+<h3 align="center">Concept → Interpretation → Motion</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Concept Art</b>
+    </td>
+    <td></td>
+    <td align="center">
+      <b>AI Interpretation</b>
+    </td>
+    <td></td>
+    <td align="center">
+      <b>Scene Test (Video)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/Dawn.jpg" width="300"/>
+    </td>
+    <td align="center" width="60">
+     +
+    </td> 
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/TowerScale.jpg" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <img src="images/ascension/DawnTower.png" width="300"/>
+    </td>
+    <td align="center" width="60">
+      ➜
+    </td>
+    <td align="center" bgcolor="#3f4a54">
+      <a href="YOUTUBE_LINK">
+        <img src="images/ascension/DawnTower.png" width="300"/>
+      </a>
+      <br/>
+      <sub>▶ Watch Scene</sub>
+    </td>
+  </tr>
+</table>
 
 ### Key Insights
 
