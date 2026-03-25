@@ -25,6 +25,34 @@ This work centers around several key capabilities:
 
 ---
 
+## Workflow System Overview
+
+This repository demonstrates a **cross-modal AI workflow system** that translates creative intent into structured, multi-stage outputs.
+
+### System Flow
+
+```mermaid
+flowchart LR
+
+A[Concept Sources\n(Ascension / Tomoe / Humbug)]
+--> B[ChatGPT\nStructure + Prompt Design]
+
+B --> C[Image Generation\n(ComfyUI / FLUX)]
+C --> D[Dataset Creation]
+
+D --> E[LoRA Training\n(FLUX → WAN)]
+
+E --> F[Image Outputs\n(Character Consistency)]
+
+F --> G[Video Generation\n(Grok / Kling / Runway)]
+
+G --> H[Compositing\n(Nuke / AE)]
+
+H --> I[Final Cinematic Output]
+```
+
+---
+
 ## Workflow Library
 
 ---
