@@ -27,37 +27,55 @@ This work centers around several key capabilities:
 
 ```mermaid
 flowchart LR
+    A[Design Input] --> B[Structured Prompting]
+    B --> C[Image Generation]
+    C --> D[Iteration & Refinement]
+    D --> C
+    C --> E[Scene Selection]
+    E --> F[Image-to-Video Prompting]
+    F --> G[Video Generation]
 
-A[Design Input]
---> B[Structured Prompting]
-
-B --> C[Image Generation]
-
-C --> D[Iteration & Refinement]
-
-D --> C
-
-C --> E[Scene Selection]
-
-E --> F[Image-to-Video Prompting]
-
-F --> G[Video Generation]
-
-subgraph Sources
-A1[Concept Art]
-A2[Script-Derived Scenes]
-A3[Character Systems]
-end
-
-A1 --> A
-A2 --> A
-A3 --> A
+    A1[Concept Art] --> A
+    A2[Script-Derived Scenes] --> A
+    A3[Character Systems] --> A
 
 ---
 
 ## Workflow Library
 
 ---
+
+A few important notes:
+
+1. There must be a blank line before and after the Mermaid block.
+2. The closing fence must be exactly three backticks on its own line.
+3. Do not put `subgraph` in unless you really need it. GitHub Mermaid is less fragile with the simpler version above.
+4. Make sure your editor did not convert backticks or insert hidden formatting from RTF.
+
+If you want the grouped-source look, this version should also work:
+
+```markdown
+## End-to-End Workflow Overview
+
+```mermaid
+flowchart LR
+    A[Design Input] --> B[Structured Prompting]
+    B --> C[Image Generation]
+    C --> D[Iteration & Refinement]
+    D --> C
+    C --> E[Scene Selection]
+    E --> F[Image-to-Video Prompting]
+    F --> G[Video Generation]
+
+    subgraph Sources
+        A1[Concept Art]
+        A2[Script-Derived Scenes]
+        A3[Character Systems]
+    end
+
+    A1 --> A
+    A2 --> A
+    A3 --> A
 
 ### 1. Creature Workflow (Production Pipeline)
 
