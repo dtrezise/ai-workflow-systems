@@ -43,46 +43,102 @@ The focus is not on individual tools, but on **how tools are orchestrated into r
 
 ## Multimodal Creature Pipeline
 
-**Objective:**
-Create a consistent AI-generated character and integrate it into live-action footage.
+**Objective:**  
+Create a consistent AI-generated character and integrate it into live-action footage using a controlled, multi-stage pipeline that ensures visual continuity across generation, motion, and compositing.
 
-### Pipeline Flow
+---
 
-```mermaid
-flowchart LR
-    A[Concept Design<br/>ChatGPT] --> B[Motion Tests<br/>Grok]
-    B --> C[Pose Dataset<br/>ComfyUI / FLUX]
-    C --> D[LoRA Training<br/>WAN]
-    D --> E[Scene Integration<br/>ControlNet + Segmentation]
-    E --> F[Upscale]
-    F --> G[Final Composite<br/>Nuke]
-```
+### System Overview (Pipeline Architecture)
 
-### Visuals
+<img src="images/flows/creature_pipeline.png" width="100%"/>
 
-**Hero Design**
-![](images/mothman/mm_final_design.png)
+<p align="center"><sub>
+End-to-end pipeline showing progression from concept design through dataset generation, model training, scene integration, and final compositing. Each stage is validated before advancing to ensure consistency and production readiness.
+</sub></p>
 
-**Dataset (Pose Grid)**
-![](images/mothman/mothman_grid_2x3.png)
+---
 
-**Motion Tests (Grok)**
-[▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
+### Pipeline Breakdown (Stage Outputs)
 
-**ComfyUI Node Graph**
-![](images/mothman/comfyui_graph.png)
+<table>
+<tr>
+<th align="center">Concept</th>
+<th align="center">Dataset</th>
+<th align="center">Training</th>
+<th align="center">Integration</th>
+<th align="center">Final Output</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/mm_final_design.png" height="180"/>
+<br/><sub>Hero Design</sub>
+</td>
 
-**Before / After Composite**
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/mothman_grid_2x3.png" height="180"/>
+<br/><sub>Pose Dataset</sub>
+</td>
 
-| Before                         | After                         |
-| ------------------------------ | ----------------------------- |
-| ![](images/mothman/before.png) | ![](images/mothman/after.png) |
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/comfyui_graph.png" height="180"/>
+<br/><sub>LoRA Training</sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<a href="YOUTUBE_LINK_HERE" target="_blank">
+<img src="images/mothman/mm_final_design.png" height="180"/>
+</a>
+<br/><sub>Motion Test ▶</sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/after.png" height="180"/>
+<br/><sub>Final Composite</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Integration (Before → After)
+
+<table>
+<tr>
+<th align="center" colspan="3">Live Action Integration</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/before.png" height="220"/>
+<br/><sub>Plate</sub>
+</td>
+
+<td align="center" width="80">
+<h2>➜</h2>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/mothman/after.png" height="220"/>
+<br/><sub>Final Composite</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Validation Layer
+
+<p align="center"><sub>
+Each stage of the pipeline is validated before advancing. Motion tests verify character believability early, dataset consistency ensures stable training, and compositing tests confirm integration fidelity. This prevents error propagation and reduces downstream rework.
+</sub></p>
+
+---
 
 ### Key Insights
 
-* LoRA enables cross-shot consistency
-* AI generation + traditional VFX = production quality
-* Early motion testing prevents downstream failure
+* LoRA enables cross-shot character consistency  
+* Motion testing acts as early failure detection  
+* Dataset quality directly impacts training stability  
+* Hybrid AI + traditional VFX produces production-ready results  
 
 ---
 
