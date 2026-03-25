@@ -93,61 +93,67 @@ Develop narrative IP using a structured, repeatable AI-assisted framework that p
 
 Story development in this system is not treated as a single writing pass. Instead, narrative progression, character design, visual diagnostics, beat validation, and motion testing work together as interconnected layers that help guide a project from early exploration toward locked story decisions.
 
-<!-- STORY SYSTEM: FRAMEWORK FLOW -->
+<!-- ===================================================== -->
+<!-- STORY DEVELOPMENT SYSTEM DIAGRAMS -->
+<!-- Replace each src value with your final image path -->
+<!-- Suggested folder: images/flows/ -->
+<!-- ===================================================== -->
 
-### System Flow
+## Story Development System Architecture
 
-```mermaid
-flowchart LR
-    A[Framework] --> B[Rules & Tools]
-    B --> C[Passes]
-    C --> D[Locked Outputs]
-```
+### System Overview (Global Architecture)
 
-<!-- STORY SYSTEM: CHARACTER IDENTITY LAYER -->
+<img src="images/flows/global_system_overview.png" width="100%"/>
 
-### Character Identity Layer
-
-```mermaid
-flowchart TD
-    A[Locked Character Designs] --> B[Poster Tests]
-    A --> C[Beat Sheet Visuals]
-    A --> D[Scene Concept Frames]
-    B --> E[Story Validation]
-    C --> E
-    D --> E
-```
-
-<!-- STORY SYSTEM: PASS PROGRESSION -->
-
-### Pass Progression
-
-```mermaid
-flowchart LR
-    A[Logline] --> B[Synopsis]
-    B --> C[Treatment]
-    C --> D[Beats]
-    D --> E[Scenes]
-    E --> F[Drafts]
-    F --> G[Script]
-```
-
-<!-- STORY SYSTEM: VALIDATION LOOP -->
-
-### Validation Loop
-
-```mermaid
-flowchart LR
-    A[Story Draft] --> B[Poster Test]
-    B --> C[Beat Visualization]
-    C --> D[Refine]
-    D --> E[Lock]
-```
+<p align="center"><sub>
+Global system architecture showing how narrative development, governance, visual generation, diagnostics, and deliverables interact inside a single creative operating system.
+</sub></p>
 
 ---
 
-<!-- STORY SYSTEM: LOCKED CHARACTER DESIGNS TO MOTION TESTS -->
+The global system defines the overall architecture. The narrative engine below shows how story development actually progresses within that structure.
 
+### Core Narrative Engine (Development + State System)
+
+<img src="images/flows/narrative_engine.png" width="100%"/>
+
+<p align="center"><sub>
+The narrative engine shows how projects progress through structured passes while moving between DRAFT, WORKING, and LOCKED states. Iteration, diagnostics, and relocking are built into the system.
+</sub></p>
+
+---
+
+Once narrative components are stabilized and locked, the system transitions into structured output generation across creative, production, and business deliverables.
+
+### Production Outputs (Deliverables + Readiness)
+
+<img src="images/flows/deliverables_production_path.png" width="100%"/>
+
+<p align="center"><sub>
+Locked narrative foundations generate structured outputs across creative development, production planning, and business-facing pitch materials.
+</sub></p>
+
+---
+
+All outputs are continuously tested through a validation layer to ensure alignment with narrative intent, tone, and production readiness.
+
+### Validation Engine (Diagnostics + Iteration Loop)
+
+<img src="images/flows/validation_engine.png" width="100%"/>
+
+<p align="center"><sub>
+Narrative and visual inputs are tested through poster diagnostics, beat sheets, scene builds, and motion tests. Outputs are evaluated, refined, and either reworked or locked for advancement.
+</sub></p>
+
+---
+
+### System Summary
+
+This system is designed to manage creative development as an iterative, state-controlled process rather than a linear workflow.
+
+Narrative development, visual generation, diagnostics, and production outputs operate as interconnected layers, allowing continuous refinement while maintaining alignment with locked story decisions.
+
+The result is a scalable creative development system that supports exploration without sacrificing coherence, consistency, or production readiness.
 **Locked Character Designs → Scene-Based Animation Tests**
 
 <table>
