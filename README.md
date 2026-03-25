@@ -155,7 +155,9 @@ These serve as **visual checkpoints** to validate story direction and maintain c
    <img src="images/limbo.png" width="125"/>
    <img src="images/outsource.png" width="125"/>
 </p>
-
+<p align="center">
+  <sub>Historical • War • Sci-Fi • Family Fantasy • Epic Sci-Fi • Supernatural • Sci-Fi Drama</sub>
+</p>
 ---
 
 #### Key Insights
