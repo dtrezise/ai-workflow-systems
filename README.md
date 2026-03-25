@@ -147,22 +147,22 @@ These serve as **visual checkpoints** to validate story direction and maintain c
 ---
 
 <p align="center">
-  <img src="creative-workflow/humbug.png" width="300"/>
-  <img src="creative-workflow/tomoe.png" width="300"/>
+  <img src="images/humbug.png" width="300"/>
+  <img src="images/tomoe.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="creative-workflow/ascension.png" width="300"/>
-  <img src="creative-workflow/aboukir.png" width="300"/>
+  <img src="images/ascension.png" width="300"/>
+  <img src="images/aboukir.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="creative-workflow/kapaun.png" width="300"/>
-  <img src="creative-workflow/limbo.png" width="300"/>
+  <img src="images/kapaun.png" width="300"/>
+  <img src="images/limbo.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="creative-workflow/outsource.png" width="300"/>
+  <img src="images/outsource.png" width="300"/>
 </p>
 
 ---
