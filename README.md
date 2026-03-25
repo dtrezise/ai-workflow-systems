@@ -45,7 +45,7 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 | Final ChatGPT Prompt Design |
 |---|
-<img src="images/mm_final_design.png" width="600"/>
+| <img src="images/mm_final_design.png" width="600"/> |
 
 3. **Motion Exploration (Grok)**
    - Rapid testing of creature behavior and movement
@@ -59,11 +59,9 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 ### Image Data Set Creation
 
-<p align="center">
 | Selection of Poses for LoRA training |
 |---|
 | <img src="images/mothman_grid_2x3.png" width="600"/> |
-<p align="center">
 
 6. **LoRA Training (FLUX → WAN)**
    - Trained FLUX LoRA for image consistency
@@ -85,15 +83,14 @@ A multi-step workflow for creating and deploying a consistent character into vid
 
 | Input Plate | Final Output |
 |---|---|
-<img src="images/plate_01.png" width="300"/>
-<img src="images/final_01.png" width="300"/>
+| <img src="images/plate_01.png" width="300"/> | <img src="images/final_01.png" width="300"/> |
 
 10. **Tool-Specific Optimization**
    - Used Runway, Grok, and Kling selectively depending on shot requirements
 
-### Creating Bespoke Imagery with selected tools
+### Bespoke Effects with Runway
 
-| Runway AI Effect Added to Plate | Final Result |
+| Input Plate | Final Result |
 |---|---|
 | <img src="images/face.png" width="300"/> | <img src="images/face2.png" width="300"/> |
 
