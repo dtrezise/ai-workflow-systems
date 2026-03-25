@@ -242,7 +242,7 @@ These images are generated using structured prompts derived from narrative devel
       <img src="images/ascension/Dawn.jpg" width="300"/>
     </td>
    <td align="center" width="60">
-      <span style="font-size:28px;"><b>+</b></span>
+      <span style="font-size:48px;"><b>+</b></span>
     </td>
     <td align="center" bgcolor="#3f4a54">
       <img src="images/ascension/TowerScale.jpg" width="300"/>
