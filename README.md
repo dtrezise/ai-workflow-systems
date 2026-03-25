@@ -1,5 +1,7 @@
 # AI Workflow Systems
 
+![](images/mothman/mm_final_design.png)
+
 Designing structured, multimodal AI workflow systems that translate creative intent into production-ready outputs across visual, narrative, technical, and product domains.
 
 ---
@@ -20,6 +22,8 @@ The focus is not on individual tools, but on **how tools are orchestrated into r
 
 ## Core Capabilities
 
+---
+
 * Multimodal pipeline design (text → image → video → VFX)
 * Structured prompt engineering
 * Dataset creation & LoRA training
@@ -35,7 +39,9 @@ The focus is not on individual tools, but on **how tools are orchestrated into r
 
 ---
 
-## 1. Multimodal Creature Pipeline
+---
+
+## Multimodal Creature Pipeline
 
 **Objective:**
 Create a consistent AI-generated character and integrate it into live-action footage.
@@ -52,13 +58,25 @@ flowchart LR
     F --> G[Final Composite<br/>Nuke]
 ```
 
-### Visuals to Include
+### Visuals
 
-* Hero design image
-* Dataset grid (2x3 poses)
-* Motion test stills
-* ComfyUI node graph
-* Before/after composite
+**Hero Design**
+![](images/mothman/mm_final_design.png)
+
+**Dataset (Pose Grid)**
+![](images/mothman/mothman_grid_2x3.png)
+
+**Motion Tests (Grok)**
+[▶ Watch Motion Test Video](YOUTUBE_LINK_HERE)
+
+**ComfyUI Node Graph**
+![](images/mothman/comfyui_graph.png)
+
+**Before / After Composite**
+
+| Before                         | After                         |
+| ------------------------------ | ----------------------------- |
+| ![](images/mothman/before.png) | ![](images/mothman/after.png) |
 
 ### Key Insights
 
@@ -68,7 +86,7 @@ flowchart LR
 
 ---
 
-## 2. Story Development System
+## Story Development System
 
 **Objective:**
 Develop narrative IP using a structured, repeatable AI-assisted framework.
@@ -116,12 +134,28 @@ flowchart LR
     D --> E[Lock]
 ```
 
-### Visuals to Include
+### Visuals
 
-* Poster samples
-* Beat sheet visuals
-* Character design sheets
-* Scene concept frames
+**Poster Tests**
+
+| Poster 1                          | Poster 2                          |
+| --------------------------------- | --------------------------------- |
+| ![](images/posters/poster_01.png) | ![](images/posters/poster_02.png) |
+
+**Beat Sheet Visuals**
+
+| Beat 1                            | Beat 2                         |
+| --------------------------------- | ------------------------------ |
+| ![](images/ascension/beat_01.png) | ![](images/humbug/beat_02.png) |
+
+**Character Designs (Locked)**
+
+| Character 1                        | Character 2                         |
+| ---------------------------------- | ----------------------------------- |
+| ![](images/tomoe/character_01.png) | ![](images/humbug/character_02.png) |
+
+**Animated Concept Scene (Grok)**
+[▶ Watch Concept Scene Video](YOUTUBE_LINK_HERE)
 
 ### Key Insights
 
@@ -135,7 +169,9 @@ flowchart LR
 
 ---
 
-## 3. Prism Vocabulary Engine + Narrative Integration
+---
+
+## Prism Vocabulary Engine + Narrative Integration
 
 **Objective:**
 Combine a database-driven vocabulary system with narrative development workflows.
@@ -160,12 +196,16 @@ flowchart LR
     C <--> D[Adjustment]
 ```
 
-### Visuals to Include
+### Visuals
 
-* Database schema diagram
-* Query output tables
-* Word usage tracking
-* Story + vocabulary alignment examples
+**Database Schema**
+![](images/prism/schema.png)
+
+**Query Outputs / Word Tracking**
+![](images/prism/query_output.png)
+
+**Story + Vocabulary Alignment**
+![](images/prism/story_alignment.png)
 
 ### Key Insights
 
@@ -175,7 +215,7 @@ flowchart LR
 
 ---
 
-## 4. Cross-Platform Video Generation Pipeline
+## Cross-Platform Video Generation Pipeline
 
 **Objective:**
 Generate and refine video outputs using multiple AI platforms.
@@ -194,11 +234,16 @@ flowchart LR
     F --> A
 ```
 
-### Visuals to Include
+### Visuals
 
-* Side-by-side platform comparisons
-* Motion test frames
-* Prompt vs output examples
+**Platform Comparison**
+![](images/mothman/video_compare.png)
+
+**Motion Frames**
+![](images/mothman/motion_frames.png)
+
+**Prompt vs Output**
+![](images/mothman/prompt_vs_output.png)
 
 ### Key Insights
 
@@ -211,7 +256,9 @@ flowchart LR
 
 ---
 
-## 5. ComfyUI Debugging & Optimization
+---
+
+## ComfyUI Debugging & Optimization
 
 **Objective:**
 Stabilize and optimize complex AI pipelines under hardware constraints.
@@ -226,11 +273,19 @@ flowchart LR
     D --> E[Optimize]
 ```
 
-### Visuals to Include
+### Visuals
 
-* Node graph before/after
-* Error logs with fixes
-* Performance comparisons
+**Node Graph (Before / After)**
+
+| Before                              | After                              |
+| ----------------------------------- | ---------------------------------- |
+| ![](images/mothman/node_before.png) | ![](images/mothman/node_after.png) |
+
+**Error Debugging Example**
+![](images/mothman/error_log.png)
+
+**Performance Comparison**
+![](images/mothman/performance.png)
 
 ### Key Insights
 
@@ -243,19 +298,21 @@ flowchart LR
 
 ---
 
-## 6. Research → Product Framework
+---
+
+## Research → Product Framework
 
 * Deep research → system design → prototype architecture
 
-## 7. STEAM PNKS Venture System
+## STEAM PNKS Venture System
 
 * Educational + community platform design
 
-## 8. Dynamic Keyboard Concept
+## Dynamic Keyboard Concept
 
 * AI-assisted product ideation
 
-## 9. Forensic Analysis / Follow the Money
+## Forensic Analysis / Follow the Money
 
 * Financial flow mapping
 * Narrative deconstruction
@@ -266,7 +323,9 @@ flowchart LR
 
 ---
 
-## 10. AI-Assisted Personal Coaching System
+---
+
+## AI-Assisted Personal Coaching System
 
 **Objective:**
 Use ChatGPT as a continuous learning and execution engine.
@@ -291,6 +350,8 @@ flowchart LR
 ---
 
 # Workflow Design Principles
+
+---
 
 ---
 
