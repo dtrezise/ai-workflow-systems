@@ -218,6 +218,29 @@ Animated concept tests (Grok) explore tone, performance, and staging by interpre
 
 <table>
     <tr>
+     <td align="center">
+      <b>ChatGPT Screenplay</b>
+    </td>
+     <td></td>
+    <td align="center">
+      <b>Visual Scene Beat Sheets</b>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">
+      <b>Grok Video Test of the Beats</b>
+    </td>
+  </tr>
+    <tr>
+        <td align="center" bgcolor="#3f4a54">
+            <img src="images/screenplay.png" width="300"/>
+        </td>
+       <td align="center" width="60">
+          <span style="font-size:48px;"><b>+</b></span>
+        </td>
         <td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" width="300"/></td>
         <td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" width="300"/></td>
         <td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" width="300"/></td>
