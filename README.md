@@ -138,6 +138,33 @@ This system is designed to move projects from concept to production-ready materi
 4. Structured iteration using guided options and critique  
 5. Milestone outputs (logline, treatment, pitch deck, screenplay, etc.)
 
+#### Visual Iteration Examples
+
+The following images are generated as part of the workflow to explore tone, world, and narrative direction across different projects.
+
+These serve as **visual checkpoints** to validate story direction and maintain consistency throughout development.
+
+---
+
+<p align="center">
+  <img src="creative-workflow/humbug.png" width="300"/>
+  <img src="creative-workflow/tomoe.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="creative-workflow/ascension.png" width="300"/>
+  <img src="creative-workflow/aboukir.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="creative-workflow/kapaun.png" width="300"/>
+  <img src="creative-workflow/limbo.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="creative-workflow/outsource.png" width="300"/>
+</p>
+
 ---
 
 #### Key Insights
