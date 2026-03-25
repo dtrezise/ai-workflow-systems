@@ -228,8 +228,6 @@ Animated concept tests (Grok) explore tone, performance, and staging by interpre
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
     <td align="center">
       <b>Grok Video Test of the Beats</b>
     </td>
