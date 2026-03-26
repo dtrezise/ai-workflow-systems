@@ -722,20 +722,48 @@ Open tools restore that control and enable integration into real production work
 - show-spec output control  
 - consistency across shots and sequences  
 
----
+## Upscaling & Finalization Strategy
 
-```text
-Closed Systems → Generate  
-Open Systems   → Control, Refine, Integrate, Deliver  
-```
+Most GenAI image and video models are trained at resolutions below final delivery requirements.
+
+Upscaling is therefore not an afterthought — it is a **planned stage of the pipeline**.
+
+## Approach
+
+- generate efficiently at lower cost during exploration  
+- avoid wasting paid credits on high-resolution trial-and-error  
+- transition into **ComfyUI / Nuke** for:
+  - upscaling  
+  - enhancement  
+  - consistency  
+  - final shot readiness  
+
+> Generate efficiently. Upscale deliberately. Deliver to spec.
+
+## Emerging / Extended Pipeline Layer
+
+**NVIDIA Omniverse** is an increasingly important adjacent platform in this space.
+
+While not currently a primary tool in this workflow, it represents a significant extension path for:
+
+- USD-based pipelines  
+- real-time production environments  
+- simulation-heavy workflows  
+- large-scale collaborative scene systems  
+
+At present, Omniverse is best positioned as an **emerging extended pipeline layer**, not as a replacement for ComfyUI or Nuke.
 
 ## Key Insights
 
-- AI video generation is constrained by cost, platform limitations, and instability  
-- Separating exploration (free) from execution (paid) is critical for efficiency  
-- Platform selection must be based on measurable constraints, not preference  
-- Closed systems generate, but open systems enable control and integration  
-- Reliable results emerge from orchestration, not individual tools
+- AI video workflows must be driven by final deliverable requirements  
+- Separating exploration from execution reduces cost and risk  
+- Platform selection must be based on constraints, not preference  
+- Closed systems generate; open systems provide control and finishing  
+- Upscaling and spec compliance require dedicated strategy  
+- Reliable results emerge from orchestration, not individual tools  
+
+Closed Systems → Generate  
+Open Systems   → Control, Refine, Integrate, Deliver  
 
 ---
 
