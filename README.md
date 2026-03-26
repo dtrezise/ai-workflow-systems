@@ -407,45 +407,108 @@ Poster tests are used as an iterative visual diagnostic throughout story develop
 
 ## Prism Vocabulary Engine + Narrative Integration
 
-**Objective:**
-Combine a database-driven vocabulary system with narrative development workflows.
+**Objective:**  
+Combine a database-driven vocabulary system with narrative development workflows to create scalable, level-based books that are pedagogically structured, narratively engaging, and expandable across a full series.
 
-### System Flow
+---
 
-```mermaid
-flowchart LR
-    A[Vocabulary DB] --> B[Constraints]
-    B --> C[Story Framework]
-    C --> D[Draft]
-    D --> E[Validate]
-    E --> F[Refine]
-```
+### System Overview (Literacy + Narrative Architecture)
 
-### Integration Loop
+<img src="images/flows/prism_system_overview.png" width="100%"/>
 
-```mermaid
-flowchart LR
-    A[Prism Data] <--> B[Story Draft]
-    B <--> C[Constraint Check]
-    C <--> D[Adjustment]
-```
+<p align="center"><sub>
+Integrated system combining academic vocabulary structure, reading-level constraints, instructional scaffolding, and narrative development. The vocabulary engine determines what language can be introduced at each stage, while the story framework shapes how those words are expressed through characters, plot, and series design.
+</sub></p>
+
+---
+
+This system combines three interdependent layers:
+
+- **Vocabulary Engine** — structured word database organized by level, decodability, category, and instructional function  
+- **Book Construction Logic** — rules for word budgets, reinforcement, progression, and reading burden  
+- **Narrative Framework** — character systems, plot design, tone, and series architecture for *Little Miss Adventures*  
+
+Rather than generating stories first and checking vocabulary afterward, the system uses vocabulary structure as a design constraint that actively shapes story construction from the start.
+
+---
+
+### Book Generation Loop (Single-Book Workflow)
+
+<img src="images/flows/prism_book_generation_loop.png" width="100%"/>
+
+<p align="center"><sub>
+Single-book workflow showing how vocabulary constraints guide story drafting, how narrative goals are tested against reading-level requirements, and how drafts are adjusted until both pedagogical and creative targets align.
+</sub></p>
+
+---
 
 ### Visuals
 
-**Database Schema**
+**Database Schema**  
 ![](images/prism/schema.png)
 
-**Query Outputs / Word Tracking**
+**Query Outputs / Word Tracking**  
 ![](images/prism/query_output.png)
 
-**Story + Vocabulary Alignment**
+**Story + Vocabulary Alignment**  
 ![](images/prism/story_alignment.png)
+
+---
+
+### How the System Works
+
+**1. Academic Vocabulary Foundation**  
+Words are organized into structured reading levels with color coding, difficulty progression, and instructional attributes. This creates a stable literacy framework that supports consistent leveling across books.
+
+**2. Constraint-Driven Book Design**  
+The system uses database queries to determine which words are available, how many new words can be introduced, and how reinforcement should occur within a given book. This prevents uncontrolled vocabulary drift and keeps each book aligned to its intended reader level.
+
+**3. Narrative Integration**  
+The *Little Miss Adventures* story framework provides character identity, story tone, recurring structures, and series progression. Narrative choices are then shaped around the vocabulary engine so that plot, dialogue, and scene construction remain compatible with reading goals.
+
+**4. Read-Along / Guided Reading Support**  
+Because the vocabulary structure is explicit and leveled, the resulting books can support parent, teacher, or instructor-assisted reading. This makes the system useful not just for book creation, but for building a repeatable literacy experience across an entire reading journey.
+
+**5. Series-Level Scalability**  
+The same system can expand across multiple books and levels, allowing the series to grow in complexity while preserving pedagogical continuity, character consistency, and controlled language progression.
+
+---
 
 ### Key Insights
 
-* Data directly shapes creative output
-* Enables scalable book production
-* Demonstrates multi-system integration
+* Academic structure directly shapes creative output  
+* Vocabulary is not an afterthought — it is a core story constraint  
+* The system supports both individual book creation and full-series progression  
+* Reading-level control enables guided instruction and repeatable educational design  
+* This demonstrates true integration between database systems, pedagogy, and narrative development
+
+---
+
+### Multimodal Expansion (Prism Cosmos)
+
+<img src="images/flows/prism_multimodal.png" width="100%"/>
+
+<p align="center"><sub>
+Extension of the Prism system into animated video formats. Books are translated into visual narratives with color-coded Prism subtitles, enabling read-along experiences that reinforce vocabulary recognition, pronunciation, and comprehension at each reading level.
+</sub></p>
+
+---
+
+Beyond printed books, the Prism system is designed to extend into a **multimodal learning environment**:
+
+- **Books → Animated Video Adaptations**  
+  Each story can be translated into short-form or episodic animated content  
+
+- **Color-Coded Subtitles (Prism Levels)**  
+  Words are visually tagged by reading level, reinforcing recognition and progression  
+
+- **Read-Along Learning Experience**  
+  Young readers can follow along with guided pacing, combining visual, auditory, and textual input  
+
+- **Instructional Support Layer**  
+  Enables parent, teacher, or self-guided learning workflows using the same structured vocabulary system  
+
+This transforms the system from a publishing pipeline into a **scalable literacy platform**, where content can be consumed across formats while maintaining consistent educational structure.
 
 ---
 
