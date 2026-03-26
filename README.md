@@ -41,40 +41,169 @@ They are **repeatable, modular systems** built to:
 ## Story Development System
 
 **Objective:**  
-Develop narrative IP using structured workflows that integrate story logic, visual exploration, and iterative validation.
+Develop narrative IP using a structured, repeatable AI-assisted framework that preserves story continuity while enabling deep visual and cinematic exploration.
 
-### System Overview
+Story development is treated as a **state-driven system**, not a linear writing process. Narrative progression, character design, visual diagnostics, beat validation, and motion testing operate as interconnected layers guiding projects from exploration to locked story decisions.
 
-<img src="images/flows/storydev_system.png" width="100%"/>
+---
+
+## System Architecture
+
+### Global System Overview
+
+<img src="images/flows/global_system_overview.png" width="100%"/>
 
 <p align="center"><sub>
-A structured narrative system combining frameworks, passes, validation loops, and production outputs. Each stage feeds forward while maintaining iterative feedback loops to prevent narrative drift and ensure cohesion.
+Global system architecture showing how narrative development, governance, visual generation, diagnostics, and deliverables interact inside a unified creative system.
 </sub></p>
 
 ---
 
-### Core Components
+### Core Narrative Engine
 
-- **Framework Layer** — defines rules, structure, and development constraints  
-- **Pass System** — iterative refinement across story, tone, and structure  
-- **Deliverables System** — outputs (logline, treatment, script, visuals)  
-- **Validation Layer** — ensures narrative consistency and alignment  
+<img src="images/flows/narrative_engine.png" width="100%"/>
 
----
-
-### Visual Validation Workflows
-
-*(Your existing visual tables remain here — no structural change needed)*
-
-- Concept → Interpretation → Motion  
-- Beat Sheet Visuals  
-- Poster Tests  
+<p align="center"><sub>
+Projects progress through structured passes while transitioning between DRAFT, WORKING, and LOCKED states. Iteration, validation, and relocking are built into the system.
+</sub></p>
 
 ---
 
-### Key Insight
+### Production Outputs
 
-Narrative development is treated as a **state-driven system**, not a linear writing process.
+<img src="images/flows/deliverables_production_path.png" width="100%"/>
+
+<p align="center"><sub>
+Locked narrative foundations generate structured outputs across creative development, production planning, and business-facing deliverables.
+</sub></p>
+
+---
+
+### Validation Engine
+
+<img src="images/flows/validation_engine.png" width="100%"/>
+
+<p align="center"><sub>
+Narrative and visual inputs are continuously tested through diagnostics, including poster tests, beat sheets, scene builds, and motion validation.
+</sub></p>
+
+---
+
+## Visual Validation Workflows
+
+---
+
+### Character Identity → Motion Validation
+
+<table>
+<tr>
+<th align="center" colspan="2">Locked Character Designs → Scene-Based Animation Tests</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/Po3QKtgxgQA" target="_blank">
+<img src="images/humbug/Chars_01.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/gJSSF3xBhgA" target="_blank">
+<img src="images/humbug/Chars_02.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/OYw3xDqHl_c" target="_blank">
+<img src="images/humbug/chars_03.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/WdhYYRJrs6o" target="_blank">
+<img src="images/humbug/snowangels.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>
+Character designs are locked as canonical assets and used to drive downstream visual generation. Scene-based animation tests validate performance, staging, and emotional tone before deeper production investment.
+</sub></p>
+
+---
+
+### Beat Sheet → Motion Validation
+
+<table>
+<tr>
+<th align="center">Screenplay Context</th><th></th><th align="center" colspan="3">Visual Beat Sheets</th><th></th><th align="center">Motion Test</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/screenplay.png" height="320"/></td>
+<td align="center"><h2>+</h2></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/LarrysAssignmnet.png" height="320"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/MistyBeat.png" height="320"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/humbug/SantaWrites.png" height="320"/></td>
+<td align="center"><h2>➜</h2></td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtube.com/shorts/KftJ5Cr9nzs">
+<img src="images/humbug/SantaWrites.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>
+Story structure is translated into visual beat sheets and tested in motion to evaluate pacing, clarity, and emotional impact before advancing.
+</sub></p>
+
+---
+
+### Concept → Interpretation → Motion
+
+*(keep your full multi-row table EXACTLY as you built it — no changes needed)*
+
+---
+
+### Poster Diagnostics
+
+<table>
+<tr>
+<th align="center" colspan="8">Iterative Poster Diagnostics</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/tomoe.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/kapaun.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/aboukir.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/humbug.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/ascension.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/limbo.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/outsource.png" height="120"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/posters/LittleMiss.png" height="120"/></td>
+</tr>
+<tr>
+<td align="center"><sub>Historical</sub></td>
+<td align="center"><sub>War</sub></td>
+<td align="center"><sub>Sci-Fi</sub></td>
+<td align="center"><sub>Family Fantasy</sub></td>
+<td align="center"><sub>Epic Sci-Fi</sub></td>
+<td align="center"><sub>Supernatural</sub></td>
+<td align="center"><sub>Sci-Fi Drama</sub></td>
+<td align="center"><sub>Family Animation</sub></td>
+</tr>
+</table>
+
+<p align="center"><sub>
+Poster tests act as high-level diagnostics, providing a rapid read on tone, genre, character, and world. Early passes are exploratory; later iterations align with locked narrative decisions.
+</sub></p>
+
+---
+
+### Key Insights
+
+- Prevents narrative drift in long-form development  
+- Uses visual validation to test tone early  
+- Maintains consistency across story, character, and output  
+- Integrates narrative, visual, and motion systems into a unified workflow  
 
 ---
 
