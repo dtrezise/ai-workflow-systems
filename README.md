@@ -41,7 +41,7 @@ They are **repeatable, modular systems** built to:
 <!-- STORY DEVELOPMENT SYSTEM -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/story_dev.png" width="100%"/>
@@ -257,7 +257,7 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 <!-- PRISM SYSTEM -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/prism.png" width="100%"/>
@@ -363,7 +363,7 @@ The system evolves from constrained single-book generation into a scalable franc
 <!-- ===================================================== -->
 <!-- AI COACHING SYSTEM -->
 <!-- ===================================================== -->
-<br></br>
+
 <br></br>
 
 <p align="center">
@@ -400,7 +400,7 @@ A continuous loop where goals, questions, execution, and feedback are iterativel
 <!-- ===================================================== -->
 <!-- CREATURE PIPELINE -->
 <!-- ===================================================== -->
-<br></br>
+
 <br></br>
 
 <p align="center">
@@ -502,7 +502,7 @@ Create a consistent AI-generated character and integrate it into production-read
 <!-- VIDEO SYSTEM -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/video.png" width="100%"/>
@@ -533,7 +533,7 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- APPLIED SYSTEM DESIGN -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/applied.png" width="100%"/>
@@ -552,7 +552,7 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- TECHNICAL SYSTEMS -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/pipeline.png" width="100%"/>
@@ -580,7 +580,7 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 <!-- ENTERPRISE SYSTEM (OPTIONAL BUT RECOMMENDED) -->
 <!-- ===================================================== -->
 <br></br>
-<br></br>
+
 
 <p align="center">
   <img src="images/headers/enterprise.png" width="100%"/>
@@ -603,7 +603,7 @@ Map data, events, and relationships into structured narratives that support deci
 <!-- ===================================================== -->
 <!-- PRINCIPLES -->
 <!-- ===================================================== -->
-<br></br>
+
 <br></br>
 
 <p align="center">
@@ -616,7 +616,7 @@ Map data, events, and relationships into structured narratives that support deci
 - **Iterative State Control** — workflows evolve through managed state transitions  
 
 ---
-<br></br>
+
 <br></br>
 
 ## Closing
