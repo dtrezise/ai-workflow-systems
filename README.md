@@ -742,27 +742,29 @@ Upscaling is therefore not an afterthought — it is a **planned stage of the pi
 
 ## Open Model Evaluation (ComfyUI / Nuke)
 
-Within the open pipeline, model selection becomes a critical control point.
+Within the open pipeline, **model selection is a primary control point**.
 
-Unlike closed systems, ComfyUI-based workflows allow direct access to a wide range of models, each with distinct strengths, weaknesses, and ideal use cases.
+Unlike closed systems, ComfyUI workflows provide access to multiple models, each suited to specific tasks, constraints, and performance requirements.
+
+--
 
 ## Model Selection Strategy
 
 Models are selected based on:
 
-- task type (generation, enhancement, motion, stylization)  
+- task type (generation, motion, enhancement, stylization)  
 - required level of control  
-- consistency across shots  
-- compatibility with conditioning workflows (depth, pose, segmentation)  
+- cross-shot consistency requirements  
+- compatibility with conditioning (depth, pose, segmentation)  
 - performance constraints (VRAM, speed, stability)  
 
 ## Representative Models
 
 #### Wan (Video / Motion Models)
 - strong temporal coherence  
-- suitable for animation and motion continuity  
-- heavier computational requirements  
-- may require tuning for stability  
+- suited for motion continuity  
+- higher computational cost  
+- requires tuning for stability  
 
 **Best used for:**
 - controlled motion sequences  
@@ -770,7 +772,7 @@ Models are selected based on:
 
 #### FLUX (Image Generation / LoRA Workflows)
 - strong stylistic control  
-- effective with LoRA training and conditioning  
+- effective LoRA integration  
 - flexible for dataset-driven workflows  
 
 **Best used for:**
@@ -780,13 +782,15 @@ Models are selected based on:
 
 #### Stable Diffusion Variants (General Purpose)
 - widely supported  
-- highly modular  
-- broad compatibility with ComfyUI nodes  
+- modular and flexible  
+- broad ComfyUI compatibility  
 
 **Best used for:**
 - general generation  
 - rapid prototyping  
 - conditioning-based workflows  
+
+---
 
 #### Upscaling / Enhancement Models
 - ESRGAN / Real-ESRGAN  
@@ -800,19 +804,19 @@ Models are selected based on:
 
 ## Evaluation Dimensions
 
-Each model is assessed across:
+Each model is evaluated across:
 
 - **Quality**
   - detail fidelity  
   - realism / stylization  
 
 - **Control**
-  - compatibility with conditioning inputs  
+  - conditioning compatibility  
   - reproducibility  
 
 - **Stability**
   - consistency across iterations  
-  - failure modes  
+  - failure behavior  
 
 - **Performance**
   - VRAM requirements  
@@ -820,14 +824,15 @@ Each model is assessed across:
 
 ## System Principle
 
-> Models are interchangeable components within a controlled pipeline, not fixed dependencies.
+> Models are interchangeable components within a controlled pipeline.
 
-This flexibility enables the system to adapt to:
-- different project requirements  
+This allows the system to adapt to:
+
+- project-specific requirements  
 - evolving model capabilities  
 - hardware constraints  
 
-while maintaining a consistent production workflow.
+while maintaining a consistent workflow.
 
 ## Emerging / Extended Pipeline Layer
 
