@@ -541,6 +541,65 @@ Refinement (prompt, references, constraints)
         ↓
 Validated Output
 ```
+## Cost-Aware Iteration Strategy
+
+AI video platforms operate under **credit-based paywalls**, where each generation consumes limited monthly resources.  
+At the same time, high-quality outputs require **multiple iterations**, creating a direct tension between cost and quality.
+
+This system resolves that tension by separating **exploration** from **execution**.
+
+## Exploration Phase (Free Iteration)
+
+- Use **ChatGPT and Grok** for:
+  - prompt development  
+  - scene design  
+  - motion ideation  
+  - reference planning  
+
+- Iterate rapidly without cost constraints  
+- Identify:
+  - visual direction  
+  - composition  
+  - motion intent  
+
+## Execution Phase (Credit-Based Systems)
+
+- Transition to platforms such as:
+  - **Runway**
+  - **Kling**
+  - **Veo / Sora**
+
+- Use **refined prompts and curated references**
+- Minimize exploratory runs
+- Focus on **high-confidence generations**
+
+## Platform Selection Strategy
+
+Each platform is selected based on:
+
+- **Strengths** (e.g., motion, stylization, control)
+- **Weaknesses** (e.g., drift, aspect ratio issues, instability)
+- **Cost efficiency per iteration**
+
+Selecting the wrong platform increases:
+- iteration count  
+- cost  
+- time to usable result  
+
+## System Principle
+
+> Iterate freely where cost is zero.  
+> Execute precisely where cost is high.
+
+This approach transforms video generation from a trial-and-error process into a **cost-optimized, strategy-driven system**, enabling higher-quality results with fewer paid iterations.
+
+## Key Insights
+
+- No single platform solves all problems  
+- Workflow design determines output quality more than the model  
+- Iterative testing is required for reliable results
+
+---
 
 <!-- ===================================================== -->
 <!-- APPLIED SYSTEM DESIGN -->
