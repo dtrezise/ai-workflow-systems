@@ -403,8 +403,6 @@ Poster tests are used as an iterative visual diagnostic throughout story develop
 
 ---
 
----
-
 ## Prism Vocabulary Engine + Narrative Integration
 
 **Objective:**  
@@ -417,7 +415,7 @@ Combine a database-driven vocabulary system with narrative development workflows
 <img src="images/flows/prism_system_overview.png" width="100%"/>
 
 <p align="center"><sub>
-Integrated system combining academic vocabulary structure, reading-level constraints, instructional scaffolding, and narrative development. The vocabulary engine determines what language can be introduced at each stage, while the story framework shapes how those words are expressed through characters, plot, and series design.
+An integrated system combining academic vocabulary structure, reading-level constraints, instructional scaffolding, and narrative development. The vocabulary engine defines what language can be introduced at each stage, while the story framework determines how those words are expressed through character, plot, and series progression.
 </sub></p>
 
 ---
@@ -425,10 +423,10 @@ Integrated system combining academic vocabulary structure, reading-level constra
 This system combines three interdependent layers:
 
 - **Vocabulary Engine** — structured word database organized by level, decodability, category, and instructional function  
-- **Book Construction Logic** — rules for word budgets, reinforcement, progression, and reading burden  
-- **Narrative Framework** — character systems, plot design, tone, and series architecture for *Little Miss Adventures*  
+- **Book Construction Logic** — constraint systems governing word budgets, repetition, and reading difficulty  
+- **Narrative Framework** — character systems, story structure, tone, and series architecture for *Little Miss Adventures*  
 
-Rather than generating stories first and checking vocabulary afterward, the system uses vocabulary structure as a design constraint that actively shapes story construction from the start.
+Rather than generating stories first and validating afterward, vocabulary structure is used as a **primary design constraint**, shaping narrative construction from the outset.
 
 ---
 
@@ -441,32 +439,29 @@ Rather than generating stories first and checking vocabulary afterward, the syst
 <table>
 <tr>
 
-<!-- LEFT: SINGLE BOOK -->
-<td align="center" height="45%" bgcolor="#3f4a54">
-<img src="images/flows/prism_book_generation_loop.png" height="100%"/>
+<td align="center" width="45%" bgcolor="#3f4a54">
+<img src="images/flows/prism_book_generation_loop.png" width="100%"/>
 <br/>
 <sub><b>Single-Book Workflow</b></sub>
 <br/>
 <sub>
-Vocabulary constraints guide drafting, validation, and refinement to ensure alignment with reading level and narrative goals.
+Vocabulary constraints guide drafting, validation, and refinement to ensure alignment with reading level and narrative intent.
 </sub>
 </td>
 
-<!-- CENTER: ARROW -->
 <td align="center" width="10%">
 <span style="font-size:48px;"><b>➜</b></span>
 <br/>
-<sub>Scale</sub>
+<sub><b>Scale</b></sub>
 </td>
 
-<!-- RIGHT: FRANCHISE -->
-<td align="center" height="45%" bgcolor="#3f4a54">
-<img src="images/flows/prism_franchise_progression.png" height="50%"/>
+<td align="center" width="45%" bgcolor="#3f4a54">
+<img src="images/flows/prism_franchise_progression.png" width="100%"/>
 <br/>
 <sub><b>Series / Franchise System</b></sub>
 <br/>
 <sub>
-Books expand into structured series aligned to academic levels, enabling scalable literacy progression and connected story worlds.
+Books expand into structured series aligned to academic levels, enabling scalable literacy progression and cohesive story worlds.
 </sub>
 </td>
 
@@ -474,22 +469,20 @@ Books expand into structured series aligned to academic levels, enabling scalabl
 </table>
 
 <p align="center"><sub>
-The Prism system evolves from a constrained single-book generation process into a scalable franchise architecture, where vocabulary progression, narrative continuity, and academic alignment operate across entire series and learning stages.
+The system evolves from constrained single-book generation into a scalable franchise architecture, where vocabulary progression, narrative continuity, and academic alignment operate across entire series and learning stages.
 </sub></p>
 
 ---
 
----
+This expansion layer enables the system to organize **multiple book series across reading stages**, while preserving:
 
-This expansion layer shows how the Prism system can organize **multiple book series across reading stages**, while preserving:
+- **Academic alignment** to recognized reading-level standards  
+- **Color-coded progression** for intuitive learner and instructor guidance  
+- **Narrative continuity** through consistent characters, tone, and world-building  
+- **Series scalability** with controlled increases in linguistic and narrative complexity  
+- **Multimodal extensibility** through read-along and animated adaptations  
 
-- **Academic alignment** to recognized reading-level expectations  
-- **Color-coded progression** for easy learner, parent, and teacher guidance  
-- **Narrative continuity** through recurring characters, tone, and world identity  
-- **Series-level scalability** so books can grow in difficulty without losing coherence  
-- **Multimodal delivery** through future animated read-along adaptations with Prism Word subtitle support  
-
-Rather than treating each book as a standalone product, the system is designed to build a **connected literacy ecosystem** where vocabulary progression, story progression, and media progression reinforce one another.
+Rather than treating each book as a standalone product, the system builds a **connected literacy ecosystem** where vocabulary, story, and format evolve together.
 
 ---
 
@@ -511,7 +504,7 @@ Rather than treating each book as a standalone product, the system is designed t
 <td align="center" bgcolor="#3f4a54">
 <img src="images/prism/query_output.png" height="180"/>
 <br/>
-<sub><b>Query Outputs / Word Tracking</b></sub>
+<sub><b>Constraint Query Outputs</b></sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
@@ -524,8 +517,7 @@ Rather than treating each book as a standalone product, the system is designed t
 </table>
 
 <p align="center"><sub>
-The Prism system is driven by a structured vocabulary database and a set of constraint-based queries that actively shape story construction.  
-Rather than passively generating content, the system enforces reading-level targets, word exposure limits, and reinforcement patterns at the data level.
+A structured vocabulary database combined with constraint-driven queries actively shapes story construction. Reading-level targets, word exposure limits, and reinforcement patterns are enforced at the data layer rather than corrected after generation.
 </sub></p>
 
 ---
@@ -533,29 +525,19 @@ Rather than passively generating content, the system enforces reading-level targ
 ### How the System Works
 
 **1. Academic Vocabulary Foundation**  
-Words are organized into structured reading levels with color coding, difficulty progression, and instructional attributes. This creates a stable literacy framework that supports consistent leveling across books.
+Words are organized by reading level, color band, part of speech, and decodability, forming a controlled linguistic framework.
 
 **2. Constraint-Driven Book Design**  
-The system uses database queries to determine which words are available, how many new words can be introduced, and how reinforcement should occur within a given book. This prevents uncontrolled vocabulary drift and keeps each book aligned to its intended reader level.
+Query systems determine allowable vocabulary, new word budgets, and repetition requirements, preventing uncontrolled complexity.
 
 **3. Narrative Integration**  
-The *Little Miss Adventures* story framework provides character identity, story tone, recurring structures, and series progression. Narrative choices are then shaped around the vocabulary engine so that plot, dialogue, and scene construction remain compatible with reading goals.
+Story development operates within these constraints, ensuring alignment between creative intent and educational targets.
 
-**4. Read-Along / Guided Reading Support**  
-Because the vocabulary structure is explicit and leveled, the resulting books can support parent, teacher, or instructor-assisted reading. This makes the system useful not just for book creation, but for building a repeatable literacy experience across an entire reading journey.
+**4. Guided Reading Support**  
+Explicit vocabulary structuring enables read-along and instructor-supported learning experiences.
 
-**5. Series-Level Scalability**  
-The same system can expand across multiple books and levels, allowing the series to grow in complexity while preserving pedagogical continuity, character consistency, and controlled language progression.
-
----
-
-### Key Insights
-
-* Academic structure directly shapes creative output  
-* Vocabulary is not an afterthought — it is a core story constraint  
-* The system supports both individual book creation and full-series progression  
-* Reading-level control enables guided instruction and repeatable educational design  
-* This demonstrates true integration between database systems, pedagogy, and narrative development
+**5. Series-Level Continuity**  
+The same system scales across books and levels, preserving consistency while allowing progressive complexity.
 
 ---
 
@@ -564,26 +546,36 @@ The same system can expand across multiple books and levels, allowing the series
 <img src="images/flows/prism_multimodal.png" width="100%"/>
 
 <p align="center"><sub>
-Extension of the Prism system into animated video formats. Books are translated into visual narratives with color-coded Prism subtitles, enabling read-along experiences that reinforce vocabulary recognition, pronunciation, and comprehension at each reading level.
+Extension of the Prism system into animated formats with color-coded subtitle systems, enabling multimodal read-along experiences that reinforce vocabulary recognition and comprehension.
 </sub></p>
 
 ---
 
-Beyond printed books, the Prism system is designed to extend into a **multimodal learning environment**:
+Beyond printed books, the system extends into a **multimodal learning platform**:
 
-- **Books → Animated Video Adaptations**  
-  Each story can be translated into short-form or episodic animated content  
+- **Books → Animated Adaptations**  
+  Stories translate into short-form or episodic visual content  
 
 - **Color-Coded Subtitles (Prism Levels)**  
-  Words are visually tagged by reading level, reinforcing recognition and progression  
+  Words are tagged by level to reinforce recognition and progression  
 
-- **Read-Along Learning Experience**  
-  Young readers can follow along with guided pacing, combining visual, auditory, and textual input  
+- **Read-Along Experiences**  
+  Combines visual, auditory, and textual input for guided learning  
 
-- **Instructional Support Layer**  
-  Enables parent, teacher, or self-guided learning workflows using the same structured vocabulary system  
+- **Instructional Integration**  
+  Supports parent, teacher, and self-guided learning workflows  
 
-This transforms the system from a publishing pipeline into a **scalable literacy platform**, where content can be consumed across formats while maintaining consistent educational structure.
+This transforms the system from a publishing pipeline into a **scalable literacy platform** spanning multiple formats.
+
+---
+
+### Key Insights
+
+* Academic structure directly shapes creative output  
+* Vocabulary functions as a primary narrative constraint  
+* The system scales from single books to full series ecosystems  
+* Enables guided reading through structured language progression  
+* Demonstrates integration of database systems, pedagogy, and narrative design
 
 ---
 
