@@ -432,29 +432,52 @@ Rather than generating stories first and checking vocabulary afterward, the syst
 
 ---
 
-### Book Generation Loop (Single-Book Workflow)
+<!-- ===================================================== -->
+<!-- PRISM: SINGLE BOOK → FRANCHISE PROGRESSION -->
+<!-- ===================================================== -->
 
+### Book Generation → Franchise Expansion
+
+<table>
+<tr>
+
+<!-- LEFT: SINGLE BOOK -->
+<td align="center" width="45%" bgcolor="#3f4a54">
 <img src="images/flows/prism_book_generation_loop.png" width="100%"/>
+<br/>
+<sub><b>Single-Book Workflow</b></sub>
+<br/>
+<sub>
+Vocabulary constraints guide drafting, validation, and refinement to ensure alignment with reading level and narrative goals.
+</sub>
+</td>
 
-<p align="center"><sub>
-Single-book workflow showing how vocabulary constraints guide story drafting, how narrative goals are tested against reading-level requirements, and how drafts are adjusted until both pedagogical and creative targets align.
-</sub></p>
+<!-- CENTER: ARROW -->
+<td align="center" width="10%">
+<span style="font-size:48px;"><b>➜</b></span>
+<br/>
+<sub>Scale</sub>
+</td>
 
----
-<!-- ===================================================== -->
-<!-- PRISM SYSTEM: FRANCHISE / SERIES EXPANSION -->
-<!-- Replace src path if needed -->
-<!-- ===================================================== -->
-
----
-
-### Franchise Expansion (Series of Series + Reading Progression)
-
+<!-- RIGHT: FRANCHISE -->
+<td align="center" width="45%" bgcolor="#3f4a54">
 <img src="images/flows/prism_franchise_progression.png" width="100%"/>
+<br/>
+<sub><b>Series / Franchise System</b></sub>
+<br/>
+<sub>
+Books expand into structured series aligned to academic levels, enabling scalable literacy progression and connected story worlds.
+</sub>
+</td>
+
+</tr>
+</table>
 
 <p align="center"><sub>
-Prism is designed not just to generate individual books, but to support a full literacy franchise that scales across multiple academic reading levels. Each series can be aligned to recognized standards, color-coded by level, and extended into connected read-along experiences across print and video.
+The Prism system evolves from a constrained single-book generation process into a scalable franchise architecture, where vocabulary progression, narrative continuity, and academic alignment operate across entire series and learning stages.
 </sub></p>
+
+---
 
 ---
 
