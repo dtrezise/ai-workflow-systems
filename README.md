@@ -512,88 +512,91 @@ Create a consistent AI-generated character and integrate it into production-read
 </p>
 
 **Objective:**  
-Design a cross-platform AI video system that enables controlled, repeatable generation of motion sequences through structured prompting, platform specialization, and iterative validation.
-
----
+Design a deliverable-driven AI video workflow that balances quality, control, cost, and iteration speed across closed and open systems.
 
 ## System Overview
 
 <img src="images/flows/video_system.png" width="100%"/>
 
 <p align="center"><sub>
-A multi-platform video generation system where each tool is used for a specific role. Outputs are continuously evaluated and refined through iteration loops to achieve stable, production-aligned results.
+A spec-driven video workflow where project requirements govern platform selection, iteration strategy, and finishing decisions. Closed systems are used for exploration and element generation, while open pipeline tools enforce consistency, upscaling, integration, and final delivery.
 </sub></p>
 
 ## Deliverable-Driven Strategy
 
-All decisions within the system are anchored to **final delivery requirements**, not intermediate outputs.
+All major decisions in this system are anchored to **final delivery requirements**, not intermediate experiments.
 
-Project specifications define:
+Project specs define:
 
-- Resolution (HD, 4K, etc.)
+- Resolution
 - Frame rate
 - Shot length and continuity
 - Visual quality targets
-- Client or production constraints
+- Sequence consistency
+- Client / production constraints
 
-## Working vs Final States
+### Working vs Final States
 
-The system deliberately separates:
+**Exploration Phase**
+- Lower resolution
+- Shorter clips
+- Faster iteration
+- Looser quality thresholds
 
-### Exploration Phase
-- Lower resolution  
-- Shorter clips  
-- Reduced quality thresholds  
-- Rapid iteration  
-
-### Delivery Phase
-- Full resolution  
-- Consistent shot length  
-- Production-quality output  
-- Spec-compliant formatting  
+**Delivery Phase**
+- Full resolution
+- Show-spec formatting
+- Cross-shot consistency
+- Production-quality integration
 
 ## Strategic Principle
 
-> All early decisions must preserve a path to final delivery.
+> Early experiments are only useful if they preserve a path to final delivery.
 
-Exploratory outputs are not isolated experiments—they are **prototypes that must scale into production-ready assets**.
+## Pipeline Ingest & Spec Definition
 
-## Platform Implications
+Before generation begins, the workflow is framed by a pipeline-based approach that defines the shot, sequence, and delivery context.
 
-This directly impacts platform selection:
+## Core Control Layer
 
-- Closed systems are used for:
-  - ideation  
-  - motion exploration  
-  - rapid prototyping  
+- **Nuke**
+  - plate ingest
+  - color pipeline awareness
+  - shot/sequence integration
+  - final compositing and delivery control
 
-- Open systems are used for:
-  - enforcing delivery specifications  
-  - ensuring consistency across shots  
-  - integrating outputs into production pipelines  
+- **ComfyUI**
+  - controlled image/video iteration
+  - conditioning workflows
+  - repeatable upscaling / enhancement paths
+  - structured generation outside closed-box systems
 
-This approach prevents dead-end workflows where early results cannot be brought to final quality without restarting.
+This keeps the overall workflow grounded in a **pipeline paradigm from input to output**, rather than letting closed vendors define the process.
 
+> AI vendors generate elements. The pipeline defines the shot.
+> 
 ## System Flow
 
 ```text
-Concept / Intent
+Project Specs / Show Requirements
+        ↓
+Pipeline Ingest & Spec Definition (ComfyUI / Nuke)
         ↓
 Free Exploration (ChatGPT / Grok)
         ↓
-Refined Prompt + Reference Design
+Prompt + Reference Refinement
         ↓
-Platform Selection (based on constraints)
+Platform Selection (based on cost, quality, control, and feature fit)
         ↓
-Paid Generation (Runway / Kling / etc.)
+Paid Generation (Kling / Runway / other credit-based systems)
         ↓
-Evaluation (motion, fidelity, stability)
+Evaluation (motion, fidelity, stability, spec alignment)
         ↓
-Open Pipeline (ComfyUI / Nuke)
+Open Pipeline Refinement (ComfyUI / Nuke)
         ↓
-Refinement + Integration
+Upscaling / Integration / Final Compositing
         ↓
-Final Output
+Final Deliverables to Spec
 ```
 
 ## Cost-Aware Iteration Strategy
