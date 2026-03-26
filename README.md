@@ -493,16 +493,40 @@ Rather than treating each book as a standalone product, the system is designed t
 
 ---
 
-### Visuals
+<!-- ===================================================== -->
+<!-- PRISM: BACKEND SYSTEM (DATA + CONSTRAINT ENGINE) -->
+<!-- ===================================================== -->
 
-**Database Schema**  
-![](images/prism/schema.png)
+### Backend System (Data + Constraint Engine)
 
-**Query Outputs / Word Tracking**  
-![](images/prism/query_output.png)
+<table>
+<tr>
 
-**Story + Vocabulary Alignment**  
-![](images/prism/story_alignment.png)
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/schema.png" height="180"/>
+<br/>
+<sub><b>Vocabulary Database Schema</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/query_output.png" height="180"/>
+<br/>
+<sub><b>Query Outputs / Word Tracking</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/story_alignment.png" height="180"/>
+<br/>
+<sub><b>Story + Vocabulary Alignment</b></sub>
+</td>
+
+</tr>
+</table>
+
+<p align="center"><sub>
+The Prism system is driven by a structured vocabulary database and a set of constraint-based queries that actively shape story construction.  
+Rather than passively generating content, the system enforces reading-level targets, word exposure limits, and reinforcement patterns at the data level.
+</sub></p>
 
 ---
 
