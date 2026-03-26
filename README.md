@@ -458,37 +458,73 @@ Create a consistent AI-generated character and integrate it into production-read
 
 <table>
 <tr>
-<th align="center" colspan="2">Character Identity → Motion Validation</th>
+<th align="center">Concept</th>
+<th align="center">Dataset</th>
+<th align="center">Training</th>
+<th align="center">LoRA Applications</th>
 </tr>
 <tr>
+
 <td align="center" bgcolor="#3f4a54">
-<a href="https://youtu.be/Po3QKtgxgQA" target="_blank" rel="noopener noreferrer">
-<img src="images/humbug/Chars_01.png" height="320"/>
-</a><br/><sub>▶ Watch Scene</sub>
+<img src="images/mm_final_design.png" height="180"/>
+<br/><sub>Hero Design</sub>
 </td>
+
 <td align="center" bgcolor="#3f4a54">
-<a href="https://youtu.be/gJSSF3xBhgA" target="_blank" rel="noopener noreferrer">
-<img src="images/humbug/Chars_02.png" height="320"/>
-</a><br/><sub>▶ Watch Scene</sub>
+<img src="images/mothman_grid_2x3.png" height="180"/>
+<br/><sub>Pose Dataset</sub>
 </td>
-</tr>
-<tr>
+
 <td align="center" bgcolor="#3f4a54">
-<a href="https://youtu.be/OYw3xDqHl_c" target="_blank" rel="noopener noreferrer">
-<img src="images/humbug/chars_03.png" height="320"/>
-</a><br/><sub>▶ Watch Scene</sub>
+<img src="images/mothman/comfyUI.jpg" height="180"/>
+<br/><sub>LoRA Training</sub>
 </td>
+
 <td align="center" bgcolor="#3f4a54">
-<a href="https://youtu.be/WdhYYRJrs6o" target="_blank" rel="noopener noreferrer">
-<img src="images/humbug/snowangels.png" height="320"/>
-</a><br/><sub>▶ Watch Scene</sub>
+
+<a href="https://youtu.be/T57d_ERXKjU" target="_blank">
+<img src="images/mothman/mmtest_02_thumb.jpg" height="55"/>
+</a><br/>
+
+<a href="https://youtu.be/D1O6J3-mofQ" target="_blank">
+<img src="images/mothman/mmtest_01_thumb.jpg" height="55"/>
+</a><br/>
+
+<a href="https://youtu.be/jxlbnHHw_D4" target="_blank">
+<img src="images/mothman/mmtest_03_thumb.jpg" height="55"/>
+</a><br/>
+
+<br/><sub>Multi-Scene LoRA Tests ▶</sub>
+
 </td>
+
 </tr>
 </table>
 
-<p align="center"><sub>
-Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for downstream visual generation, helping preserve identity, tone, and continuity across scenes. Scene-based animation tests in Grok then interpret screenplay moments using these locked characters to validate performance, staging, and emotional feel in motion.
-</sub></p>
+---
+
+### Integration (Before → After)
+
+<table>
+<tr>
+<th align="center" colspan="3">Live Action Integration</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<img src="images/plate_01.png" height="220"/>
+<br/><sub>Plate</sub>
+</td>
+
+<td align="center" width="80">
+<h2>➜</h2>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/final_01.png" height="220"/>
+<br/><sub>Final Composite</sub>
+</td>
+</tr>
+</table>
 
 ---
 
