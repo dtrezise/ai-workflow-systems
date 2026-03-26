@@ -712,7 +712,7 @@ Closed AI platforms provide powerful generation capabilities, but operate as **b
 Open tools restore that control and enable integration into real production workflows.
 
 <div align="center">
-  <img src="images/flows/model_pipeline_position.png" width="100%"/>
+  <img src="images/flows/model_pipeline_position_01.png" width="100%"/>
 </div>
 
 <p align="center"><sub>
