@@ -373,7 +373,9 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- APPLIED SYSTEM DESIGN -->
 <!-- ===================================================== -->
 
-<h2 style="color:#ADB5BD;">Applied System Design</h2>
+<p align="center">
+  <img src="images/headers/applied.png" width="100%"/>
+</p>
 
 ### Systems & Venture Concepts
 
@@ -418,8 +420,9 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 <!-- ENTERPRISE SYSTEM (OPTIONAL BUT RECOMMENDED) -->
 <!-- ===================================================== -->
 
-<h2 style="color:#06D6A0;">AI Decision Intelligence System</h2>
-
+<p align="center">
+  <img src="images/headers/enterprise.png" width="100%"/>
+</p>
 **Objective:**  
 Apply AI workflow principles to structured decision-making systems (finance, policy, or analytics).
 
@@ -441,7 +444,9 @@ Map data, events, and relationships into structured narratives that support deci
 <!-- PRINCIPLES -->
 <!-- ===================================================== -->
 
-<h2 style="color:#8D99AE;">Workflow Design Principles</h2>
+<p align="center">
+  <img src="images/headers/workflow.png" width="100%"/>
+</p>
 
 - **Evaluation & Validation** — every stage must be testable  
 - **Modularity** — systems must be recomposable  
