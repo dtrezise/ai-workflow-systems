@@ -524,23 +524,28 @@ Design a cross-platform AI video system that enables controlled, repeatable gene
 A multi-platform video generation system where each tool is used for a specific role. Outputs are continuously evaluated and refined through iteration loops to achieve stable, production-aligned results.
 </sub></p>
 
----
-
 ## System Flow
 
 ```text
-Prompt / Intent
+Concept / Intent
         ↓
-Platform Selection (Grok / Kling / Runway)
+Free Exploration (ChatGPT / Grok)
         ↓
-Initial Generation
+Refined Prompt + Reference Design
         ↓
-Evaluation (motion, composition, fidelity)
+Platform Selection (based on constraints)
         ↓
-Refinement (prompt, references, constraints)
+Paid Generation (Runway / Kling / etc.)
         ↓
-Validated Output
+Evaluation (motion, fidelity, stability)
+        ↓
+Open Pipeline (ComfyUI / Nuke)
+        ↓
+Refinement + Integration
+        ↓
+Final Output
 ```
+
 ## Cost-Aware Iteration Strategy
 
 AI video platforms operate under **credit-based paywalls**, where each generation consumes limited monthly resources.  
@@ -584,7 +589,45 @@ Each platform is selected based on:
 Selecting the wrong platform increases:
 - iteration count  
 - cost  
-- time to usable result  
+- time to usable result
+  
+## Platform Evaluation Criteria
+
+Each platform is evaluated against a consistent set of production-critical factors:
+
+- **Resolution**
+  - Output size and scalability
+  - Ability to match plates or deliver production-ready frames  
+
+- **Clip Length**
+  - Maximum generation duration
+  - Impact on continuity and shot design  
+
+- **Model Quality**
+  - Photorealism  
+  - Camera realism (lens behavior, motion, depth)  
+  - Control over cinematic language  
+
+- **Feature Set**
+  - Inpainting / outpainting  
+  - Masking / segmentation  
+  - Motion control / tracking  
+  - Effects and transformation tools  
+
+- **Usability**
+  - Interface design (GUI vs node-based)  
+  - Workflow efficiency  
+  - Render times and iteration speed  
+
+- **Privacy**
+  - Data retention policies  
+  - Suitability for proprietary or client-sensitive work  
+
+- **Repeatability**
+  - Consistency of results across multiple generations  
+  - Ability to reproduce a shot across sequences  
+
+Platform selection is driven by these constraints, not by convenience or familiarity.
 
 ## System Principle
 
@@ -593,11 +636,50 @@ Selecting the wrong platform increases:
 
 This approach transforms video generation from a trial-and-error process into a **cost-optimized, strategy-driven system**, enabling higher-quality results with fewer paid iterations.
 
+## Open Pipeline Integration (ComfyUI + Nuke)
+
+Closed AI video platforms provide powerful generation capabilities, but operate as **black-box systems** with limited control.
+
+To regain control and extend outputs into production workflows, results are routed through open tools:
+
+## ComfyUI (Node-Based Iteration)
+
+- Fine-grained control over:
+  - image generation  
+  - conditioning (depth, pose, segmentation)  
+  - LoRA integration  
+- Enables:
+  - repeatable workflows  
+  - controlled iteration outside platform constraints  
+- Acts as a **bridge between generative output and structured pipelines**
+
+## Nuke (Final Integration & Compositing)
+
+- Used for:
+  - compositing AI outputs into live-action plates  
+  - color matching and grading  
+  - cleanup and artifact removal  
+  - shot continuity across sequences  
+
+- Restores traditional VFX control:
+  - layering  
+  - masking  
+  - spatial consistency  
+
+## System Role
+
+```text
+Closed Systems → Generate
+Open Systems   → Refine, Control, Integrate
+```
+
 ## Key Insights
 
-- No single platform solves all problems  
-- Workflow design determines output quality more than the model  
-- Iterative testing is required for reliable results
+- AI video generation is constrained by cost, platform limitations, and instability  
+- Separating exploration (free) from execution (paid) is critical for efficiency  
+- Platform selection must be based on measurable constraints, not preference  
+- Closed systems generate, but open systems enable control and integration  
+- Reliable results emerge from orchestration, not individual tools
 
 ---
 
