@@ -442,7 +442,7 @@ Rather than generating stories first and checking vocabulary afterward, the syst
 <tr>
 
 <!-- LEFT: SINGLE BOOK -->
-<td align="center" width="45%" bgcolor="#3f4a54">
+<td align="center" height="45%" bgcolor="#3f4a54">
 <img src="images/flows/prism_book_generation_loop.png" height="100%"/>
 <br/>
 <sub><b>Single-Book Workflow</b></sub>
@@ -460,8 +460,8 @@ Vocabulary constraints guide drafting, validation, and refinement to ensure alig
 </td>
 
 <!-- RIGHT: FRANCHISE -->
-<td align="center" width="45%" bgcolor="#3f4a54">
-<img src="images/flows/prism_franchise_progression.png" height="100%"/>
+<td align="center" height="45%" bgcolor="#3f4a54">
+<img src="images/flows/prism_franchise_progression.png" height="50%"/>
 <br/>
 <sub><b>Series / Franchise System</b></sub>
 <br/>
