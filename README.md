@@ -456,7 +456,39 @@ Create a consistent AI-generated character and integrate it into production-read
 
 ### Pipeline Breakdown (Stage Outputs)
 
-*(Your updated table with LoRA applications stays here)*
+<table>
+<tr>
+<th align="center" colspan="2">Character Identity → Motion Validation</th>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/Po3QKtgxgQA" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/Chars_01.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/gJSSF3xBhgA" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/Chars_02.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/OYw3xDqHl_c" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/chars_03.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+<td align="center" bgcolor="#3f4a54">
+<a href="https://youtu.be/WdhYYRJrs6o" target="_blank" rel="noopener noreferrer">
+<img src="images/humbug/snowangels.png" height="320"/>
+</a><br/><sub>▶ Watch Scene</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>
+Character designs are developed and locked in ChatGPT as canonical assets within the story development workflow. These designs serve as the foundation for downstream visual generation, helping preserve identity, tone, and continuity across scenes. Scene-based animation tests in Grok then interpret screenplay moments using these locked characters to validate performance, staging, and emotional feel in motion.
+</sub></p>
 
 ---
 
