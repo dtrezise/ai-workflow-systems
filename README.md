@@ -270,6 +270,23 @@ A continuous loop where goals, questions, execution, and feedback are iterativel
 **Objective:**  
 Combine a database-driven vocabulary system with narrative development workflows to create scalable, level-based books.
 
+### How the System Works
+
+**1. Academic Vocabulary Foundation**  
+Words are organized by reading level, color band, part of speech, and decodability, forming a controlled linguistic framework.
+
+**2. Constraint-Driven Book Design**  
+Query systems determine allowable vocabulary, new word budgets, and repetition requirements, preventing uncontrolled complexity.
+
+**3. Narrative Integration**  
+Story development operates within these constraints, ensuring alignment between creative intent and educational targets.
+
+**4. Guided Reading Support**  
+Explicit vocabulary structuring enables read-along and instructor-supported learning experiences.
+
+**5. Series-Level Continuity**  
+The same system scales across books and levels, preserving consistency while allowing progressive complexity.
+
 ---
 
 ### System Overview (Literacy + Narrative Architecture)
@@ -280,13 +297,85 @@ Combine a database-driven vocabulary system with narrative development workflows
 
 ### Book Generation → Franchise Expansion
 
-*(Your side-by-side table stays here exactly as built)*
+<table>
+<tr>
+
+<td align="center" width="45%" bgcolor="#3f4a54">
+<img src="images/flows/prism_book_generation_loop.png" width="100%"/>
+<br/>
+<sub><b>Single-Book Workflow</b></sub>
+<br/>
+<sub>
+Vocabulary constraints guide drafting, validation, and refinement to ensure alignment with reading level and narrative intent.
+</sub>
+</td>
+
+<td align="center" width="10%">
+<span style="font-size:48px;"><b>➜</b></span>
+<br/>
+<sub><b>Scale</b></sub>
+</td>
+
+<td align="center" width="45%" bgcolor="#3f4a54">
+<img src="images/flows/prism_franchise_progression.png" width="100%"/>
+<br/>
+<sub><b>Series / Franchise System</b></sub>
+<br/>
+<sub>
+Books expand into structured series aligned to academic levels, enabling scalable literacy progression and cohesive story worlds.
+</sub>
+</td>
+
+</tr>
+</table>
+
+<p align="center"><sub>
+The system evolves from constrained single-book generation into a scalable franchise architecture, where vocabulary progression, narrative continuity, and academic alignment operate across entire series and learning stages.
+</sub></p>
+
+- **Academic alignment** to recognized reading-level standards  
+- **Color-coded progression** for intuitive learner and instructor guidance  
+- **Narrative continuity** through consistent characters, tone, and world-building  
+- **Series scalability** with controlled increases in linguistic and narrative complexity  
+- **Multimodal extensibility** through read-along and animated adaptations
 
 ---
 
 ### Backend System (Data + Constraint Engine)
 
-*(Your 3-image table stays here exactly as built)*
+<!-- ===================================================== -->
+<!-- PRISM: BACKEND SYSTEM (DATA + CONSTRAINT ENGINE) -->
+<!-- ===================================================== -->
+
+### Backend System (Data + Constraint Engine)
+
+<table>
+<tr>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/schema.png" height="180"/>
+<br/>
+<sub><b>Vocabulary Database Schema</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/query_output.png" height="180"/>
+<br/>
+<sub><b>Constraint Query Outputs</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/story_alignment.png" height="180"/>
+<br/>
+<sub><b>Story + Vocabulary Alignment</b></sub>
+</td>
+
+</tr>
+</table>
+
+<p align="center"><sub>
+A structured vocabulary database combined with constraint-driven queries actively shapes story construction. Reading-level targets, word exposure limits, and reinforcement patterns are enforced at the data layer rather than corrected after generation.
+</sub></p>
 
 ---
 
