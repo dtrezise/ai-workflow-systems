@@ -38,7 +38,9 @@ They are **repeatable, modular systems** built to:
 <!-- STORY DEVELOPMENT SYSTEM -->
 <!-- ===================================================== -->
 
-<h2 style="color:#9B5DE5;">Story Development System</h2>
+<p align="center">
+  <img src="images/headers/story_dev.png" width="100%"/>
+</p>
 
 **Objective:**  
 Develop narrative IP using a structured, repeatable AI-assisted framework that preserves story continuity while enabling deep visual and cinematic exploration.
@@ -211,7 +213,9 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 <!-- AI COACHING SYSTEM -->
 <!-- ===================================================== -->
 
-<h2 style="color:#3A86FF;">AI-Assisted Personal Coaching System</h2>
+<p align="center">
+  <img src="images/headers/ai_coaching.png" width="100%"/>
+</p>
 
 **Objective:**  
 Use ChatGPT as a continuous learning, problem-solving, and execution engine across all workflows.
@@ -248,7 +252,9 @@ A continuous loop where goals, questions, execution, and feedback are iterativel
 <!-- PRISM SYSTEM -->
 <!-- ===================================================== -->
 
-<h2 style="color:#2EC4B6;">Prism Vocabulary Engine + Narrative Integration</h2>
+<p align="center">
+  <img src="images/headers/prism.png" width="100%"/>
+</p>
 
 **Objective:**  
 Combine a database-driven vocabulary system with narrative development workflows to create scalable, level-based books.
@@ -291,7 +297,9 @@ Combine a database-driven vocabulary system with narrative development workflows
 <!-- CREATURE PIPELINE -->
 <!-- ===================================================== -->
 
-<h2 style="color:#FF8C42;">Multimodal Creature Pipeline</h2>
+<p align="center">
+  <img src="images/headers/creature.png" width="100%"/>
+</p>
 
 **Objective:**  
 Create a consistent AI-generated character and integrate it into production-ready visual pipelines.
@@ -330,7 +338,9 @@ Create a consistent AI-generated character and integrate it into production-read
 <!-- VIDEO SYSTEM -->
 <!-- ===================================================== -->
 
-<h2 style="color:#FFD166;">AI Video System (Cross-Platform Framework)</h2>
+<p align="center">
+  <img src="images/headers/video.png" width="100%"/>
+</p>
 
 **Objective:**  
 Evaluate and orchestrate multiple AI video platforms to achieve controlled, production-aligned results.
@@ -378,7 +388,9 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- TECHNICAL SYSTEMS -->
 <!-- ===================================================== -->
 
-<h2 style="color:#EF476F;">Production Pipeline Stabilization</h2>
+<p align="center">
+  <img src="images/headers/pipeline.png" width="100%"/>
+</p>
 
 **Objective:**  
 Ensure reliability and performance of AI-driven pipelines under real-world constraints.
