@@ -35,7 +35,7 @@ They are **repeatable, modular systems** built to:
 - **Workflow Engineering** — debugging, iteration, and system stabilization  
 - **AI-Assisted System Design** — using AI as a thinking and execution partner  
 
-<h1 style="color:#9B5DE5;">Flagship Systems</h1>
+<p align="center"<h1 style="color:#9B5DE5;">Flagship Systems</h1>/p>
 
 <!-- ===================================================== -->
 <!-- STORY DEVELOPMENT SYSTEM -->
