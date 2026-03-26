@@ -740,6 +740,95 @@ Upscaling is therefore not an afterthought — it is a **planned stage of the pi
 
 > Generate efficiently. Upscale deliberately. Deliver to spec.
 
+## Open Model Evaluation (ComfyUI / Nuke)
+
+Within the open pipeline, model selection becomes a critical control point.
+
+Unlike closed systems, ComfyUI-based workflows allow direct access to a wide range of models, each with distinct strengths, weaknesses, and ideal use cases.
+
+## Model Selection Strategy
+
+Models are selected based on:
+
+- task type (generation, enhancement, motion, stylization)  
+- required level of control  
+- consistency across shots  
+- compatibility with conditioning workflows (depth, pose, segmentation)  
+- performance constraints (VRAM, speed, stability)  
+
+## Representative Models
+
+#### Wan (Video / Motion Models)
+- strong temporal coherence  
+- suitable for animation and motion continuity  
+- heavier computational requirements  
+- may require tuning for stability  
+
+**Best used for:**
+- controlled motion sequences  
+- iterative animation workflows  
+
+#### FLUX (Image Generation / LoRA Workflows)
+- strong stylistic control  
+- effective with LoRA training and conditioning  
+- flexible for dataset-driven workflows  
+
+**Best used for:**
+- character consistency  
+- controlled image generation  
+- dataset creation for downstream video  
+
+#### Stable Diffusion Variants (General Purpose)
+- widely supported  
+- highly modular  
+- broad compatibility with ComfyUI nodes  
+
+**Best used for:**
+- general generation  
+- rapid prototyping  
+- conditioning-based workflows  
+
+#### Upscaling / Enhancement Models
+- ESRGAN / Real-ESRGAN  
+- latent upscalers  
+- detail refinement networks  
+
+**Best used for:**
+- resolution scaling  
+- detail recovery  
+- final output preparation  
+
+## Evaluation Dimensions
+
+Each model is assessed across:
+
+- **Quality**
+  - detail fidelity  
+  - realism / stylization  
+
+- **Control**
+  - compatibility with conditioning inputs  
+  - reproducibility  
+
+- **Stability**
+  - consistency across iterations  
+  - failure modes  
+
+- **Performance**
+  - VRAM requirements  
+  - render speed  
+
+## System Principle
+
+> Models are interchangeable components within a controlled pipeline, not fixed dependencies.
+
+This flexibility enables the system to adapt to:
+- different project requirements  
+- evolving model capabilities  
+- hardware constraints  
+
+while maintaining a consistent production workflow.
+
 ## Emerging / Extended Pipeline Layer
 
 **NVIDIA Omniverse** is an increasingly important adjacent platform in this space.
