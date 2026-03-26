@@ -254,43 +254,6 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 ---
 
 <!-- ===================================================== -->
-<!-- AI COACHING SYSTEM -->
-<!-- ===================================================== -->
-<br></br>
-<br></br>
-
-<p align="center">
-  <img src="images/headers/ai_coaching.png" width="100%"/>
-</p>
-
-**Objective:**  
-Use ChatGPT as a continuous learning, problem-solving, and execution engine across all workflows.
-
-## System Overview
-
-<img src="images/flows/ai_coaching_system.png" width="100%"/>
-
-<p align="center"><sub>
-A continuous loop where goals, questions, execution, and feedback are iteratively refined and systematized. This system operates across all other workflows in the repository.
-</sub></p>
-
-## How It Operates
-
-- Defines goals and decomposes problems  
-- Generates structured guidance and solutions  
-- Applies solutions directly to production workflows  
-- Evaluates outcomes and identifies gaps  
-- Refines approaches and captures reusable patterns  
-
-## Key Insights
-
-- AI functions as a **thinking partner**, not just a tool  
-- Learning is embedded directly into execution  
-- Systems improve over time through structured iteration  
-
----
-
-<!-- ===================================================== -->
 <!-- PRISM SYSTEM -->
 <!-- ===================================================== -->
 <br></br>
@@ -312,6 +275,40 @@ Combine a database-driven vocabulary system with narrative development workflows
 ## System Overview (Literacy + Narrative Architecture)
 
 <img src="images/flows/prism_system_overview.png" width="100%"/>
+
+<!-- ===================================================== -->
+<!-- PRISM: BACKEND SYSTEM (DATA + CONSTRAINT ENGINE) -->
+<!-- ===================================================== -->
+
+## Backend System (Data + Constraint Engine)
+
+<table>
+<tr>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/schema.png" height="300"/>
+<br/>
+<sub><b>Vocabulary Database Schema</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/query_output.png" height="300"/>
+<br/>
+<sub><b>Constraint Query Outputs</b></sub>
+</td>
+
+<td align="center" bgcolor="#3f4a54">
+<img src="images/prism/story_alignment.png" height="300"/>
+<br/>
+<sub><b>Story + Vocabulary Alignment</b></sub>
+</td>
+
+</tr>
+</table>
+
+<p align="center"><sub>
+A structured vocabulary database combined with constraint-driven queries actively shapes story construction. Reading-level targets, word exposure limits, and reinforcement patterns are enforced at the data layer rather than corrected after generation.
+</sub></p>
 
 ## Book Generation → Franchise Expansion
 
@@ -351,44 +348,6 @@ Books expand into structured series aligned to academic levels, enabling scalabl
 The system evolves from constrained single-book generation into a scalable franchise architecture, where vocabulary progression, narrative continuity, and academic alignment operate across entire series and learning stages.
 </sub></p>
 
----
-
-<!-- ===================================================== -->
-<!-- PRISM: BACKEND SYSTEM (DATA + CONSTRAINT ENGINE) -->
-<!-- ===================================================== -->
-<br></br>
-<br></br>
-
-## Backend System (Data + Constraint Engine)
-
-<table>
-<tr>
-
-<td align="center" bgcolor="#3f4a54">
-<img src="images/prism/schema.png" height="300"/>
-<br/>
-<sub><b>Vocabulary Database Schema</b></sub>
-</td>
-
-<td align="center" bgcolor="#3f4a54">
-<img src="images/prism/query_output.png" height="300"/>
-<br/>
-<sub><b>Constraint Query Outputs</b></sub>
-</td>
-
-<td align="center" bgcolor="#3f4a54">
-<img src="images/prism/story_alignment.png" height="300"/>
-<br/>
-<sub><b>Story + Vocabulary Alignment</b></sub>
-</td>
-
-</tr>
-</table>
-
-<p align="center"><sub>
-A structured vocabulary database combined with constraint-driven queries actively shapes story construction. Reading-level targets, word exposure limits, and reinforcement patterns are enforced at the data layer rather than corrected after generation.
-</sub></p>
-
 ## Multimodal Expansion (Prism Cosmos)
 
 <img src="images/flows/prism_multimodal.png" width="100%"/>
@@ -398,6 +357,43 @@ A structured vocabulary database combined with constraint-driven queries activel
 - Vocabulary acts as a **primary design constraint**  
 - Narrative and data systems are tightly coupled  
 - The system scales from individual books to full series ecosystems  
+
+---
+
+<!-- ===================================================== -->
+<!-- AI COACHING SYSTEM -->
+<!-- ===================================================== -->
+<br></br>
+<br></br>
+
+<p align="center">
+  <img src="images/headers/ai_coaching.png" width="100%"/>
+</p>
+
+**Objective:**  
+Use ChatGPT as a continuous learning, problem-solving, and execution engine across all workflows.
+
+## System Overview
+
+<img src="images/flows/ai_coaching_system.png" width="100%"/>
+
+<p align="center"><sub>
+A continuous loop where goals, questions, execution, and feedback are iteratively refined and systematized. This system operates across all other workflows in the repository.
+</sub></p>
+
+## How It Operates
+
+- Defines goals and decomposes problems  
+- Generates structured guidance and solutions  
+- Applies solutions directly to production workflows  
+- Evaluates outcomes and identifies gaps  
+- Refines approaches and captures reusable patterns  
+
+## Key Insights
+
+- AI functions as a **thinking partner**, not just a tool  
+- Learning is embedded directly into execution  
+- Systems improve over time through structured iteration  
 
 ---
 
