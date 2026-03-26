@@ -524,6 +524,56 @@ Design a cross-platform AI video system that enables controlled, repeatable gene
 A multi-platform video generation system where each tool is used for a specific role. Outputs are continuously evaluated and refined through iteration loops to achieve stable, production-aligned results.
 </sub></p>
 
+## Deliverable-Driven Strategy
+
+All decisions within the system are anchored to **final delivery requirements**, not intermediate outputs.
+
+Project specifications define:
+
+- Resolution (HD, 4K, etc.)
+- Frame rate
+- Shot length and continuity
+- Visual quality targets
+- Client or production constraints
+
+## Working vs Final States
+
+The system deliberately separates:
+
+### Exploration Phase
+- Lower resolution  
+- Shorter clips  
+- Reduced quality thresholds  
+- Rapid iteration  
+
+### Delivery Phase
+- Full resolution  
+- Consistent shot length  
+- Production-quality output  
+- Spec-compliant formatting  
+
+## Strategic Principle
+
+> All early decisions must preserve a path to final delivery.
+
+Exploratory outputs are not isolated experiments—they are **prototypes that must scale into production-ready assets**.
+
+## Platform Implications
+
+This directly impacts platform selection:
+
+- Closed systems are used for:
+  - ideation  
+  - motion exploration  
+  - rapid prototyping  
+
+- Open systems are used for:
+  - enforcing delivery specifications  
+  - ensuring consistency across shots  
+  - integrating outputs into production pipelines  
+
+This approach prevents dead-end workflows where early results cannot be brought to final quality without restarting.
+
 ## System Flow
 
 ```text
