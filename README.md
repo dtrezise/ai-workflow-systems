@@ -47,7 +47,7 @@ They are **repeatable, modular systems** built to:
   <img src="images/headers/story_dev.png" width="100%"/>
 </p>
 
-** Objective:**  
+**Objective:**  
 Develop narrative IP using a structured, repeatable AI-assisted framework that preserves story continuity while enabling deep visual and cinematic exploration.
 
 Story development is treated as a **state-driven system**, not a linear writing process. Narrative progression, character design, visual diagnostics, beat validation, and motion testing operate as interconnected layers guiding projects from exploration to locked story decisions.
