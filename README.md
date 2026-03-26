@@ -4,7 +4,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="images/headers/title_banner.png" width="100%"/>
+  <img src="images/headers/title_banner.png" style="display:block; margin:auto; width:100%;"/>
 </p>
 
 <p align="center"><sub>
