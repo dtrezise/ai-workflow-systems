@@ -577,6 +577,14 @@ This keeps the overall workflow grounded in a **pipeline paradigm from input to 
 > 
 ## System Flow
 
+<div align="center">
+  <img src="images/flows/model_selection_matrix.png" width="100%"/>
+</div>
+
+<p align="center"><sub>
+Model selection is task-driven, balancing quality, control, stability, and performance within a flexible open pipeline.
+</sub></p>
+
 ```text
 Project Specs / Show Requirements
         ↓
@@ -703,7 +711,13 @@ Closed AI platforms provide powerful generation capabilities, but operate as **b
 
 Open tools restore that control and enable integration into real production workflows.
 
----
+<div align="center">
+  <img src="images/flows/model_pipeline_position.png" width="100%"/>
+</div>
+
+<p align="center"><sub>
+Closed systems generate initial assets, while the open pipeline enables model flexibility, refinement, and production-level control before final delivery.
+</sub></p>
 
 ### ComfyUI
 
