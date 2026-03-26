@@ -501,37 +501,46 @@ Create a consistent AI-generated character and integrate it into production-read
 - LoRA enables cross-shot character consistency  
 
 ---
-
 <!-- ===================================================== -->
 <!-- VIDEO SYSTEM -->
 <!-- ===================================================== -->
-<br></br>
 
+<br/>
 
 <p align="center">
   <img src="images/headers/video.png" width="100%"/>
 </p>
 
 **Objective:**  
-Evaluate and orchestrate multiple AI video platforms to achieve controlled, production-aligned results.
+Design a cross-platform AI video system that enables controlled, repeatable generation of motion sequences through structured prompting, platform specialization, and iterative validation.
+
+---
 
 ## System Overview
 
-*(Replace mermaid later with styled graphic if desired)*
+<img src="images/flows/video_system.png" width="100%"/>
 
-## Platform Roles
-
-- **Grok** — rapid motion ideation  
-- **Kling** — structured video generation with references  
-- **Runway** — stylized generation and compositing  
-
-## Key Insights
-
-- No single platform solves all problems  
-- Workflow design determines output quality more than the model  
-- Iterative testing is required for reliable results  
+<p align="center"><sub>
+A multi-platform video generation system where each tool is used for a specific role. Outputs are continuously evaluated and refined through iteration loops to achieve stable, production-aligned results.
+</sub></p>
 
 ---
+
+## System Flow
+
+```text
+Prompt / Intent
+        ↓
+Platform Selection (Grok / Kling / Runway)
+        ↓
+Initial Generation
+        ↓
+Evaluation (motion, composition, fidelity)
+        ↓
+Refinement (prompt, references, constraints)
+        ↓
+Validated Output
+```
 
 <!-- ===================================================== -->
 <!-- APPLIED SYSTEM DESIGN -->
