@@ -1,4 +1,15 @@
-# AI Workflow Systems
+<!-- ===================================================== -->
+<!-- README TITLE BANNER -->
+<!-- Replace src if your final filename/path differs -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="images/headers/title_banner.png" width="100%"/>
+</p>
+
+<p align="center"><sub>
+Structured systems for narrative, production, learning, and multimodal execution.
+</sub></p>
 
 ---
 
