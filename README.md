@@ -599,131 +599,134 @@ Upscaling / Integration / Final Compositing
 Final Deliverables to Spec
 ```
 
+<!-- ===================================================== -->
+<!-- VIDEO SYSTEM: STRATEGY + PIPELINE LOGIC -->
+<!-- ===================================================== -->
+
 ## Cost-Aware Iteration Strategy
 
-AI video platforms operate under **credit-based paywalls**, where each generation consumes limited monthly resources.  
-At the same time, high-quality outputs require **multiple iterations**, creating a direct tension between cost and quality.
+Most closed AI video systems operate under **credit-based paywalls**, making iteration expensive even though iteration is essential for achieving quality results.
 
 This system resolves that tension by separating **exploration** from **execution**.
 
-## Exploration Phase (Free Iteration)
+---
 
-- Use **ChatGPT and Grok** for:
-  - prompt development  
-  - scene design  
-  - motion ideation  
-  - reference planning  
+### Free Exploration
 
-- Iterate rapidly without cost constraints  
-- Identify:
-  - visual direction  
-  - composition  
-  - motion intent  
+Use **ChatGPT** and **Grok** for:
 
-## Execution Phase (Credit-Based Systems)
+- prompt design  
+- motion ideation  
+- look development  
+- reference strategy  
+- rapid testing  
 
-- Transition to platforms such as:
-  - **Runway**
-  - **Kling**
-  - **Veo / Sora**
+---
 
-- Use **refined prompts and curated references**
-- Minimize exploratory runs
-- Focus on **high-confidence generations**
+### Paid Execution
 
-## Platform Selection Strategy
+Use credit-based systems such as:
 
-Each platform is selected based on:
+- **Kling**  
+- **Runway**  
+- **Veo / Sora** *(where applicable)*  
 
-- **Strengths** (e.g., motion, stylization, control)
-- **Weaknesses** (e.g., drift, aspect ratio issues, instability)
-- **Cost efficiency per iteration**
+Only after:
 
-Selecting the wrong platform increases:
-- iteration count  
-- cost  
-- time to usable result
-  
+- intent is clarified  
+- prompts are refined  
+- references are selected  
+- platform choice is justified  
+
+> Iterate freely where cost is zero. Execute precisely where cost is high.
+
+---
+
 ## Platform Evaluation Criteria
 
-Each platform is evaluated against a consistent set of production-critical factors:
+Each platform is evaluated against production-critical factors:
 
-- **Resolution**
-  - Output size and scalability
-  - Ability to match plates or deliver production-ready frames  
+---
 
-- **Clip Length**
-  - Maximum generation duration
-  - Impact on continuity and shot design  
+### Resolution
+- output size  
+- scalability to final spec  
 
-- **Model Quality**
-  - Photorealism  
-  - Camera realism (lens behavior, motion, depth)  
-  - Control over cinematic language  
+### Clip Length
+- maximum generation duration  
+- usefulness for real shot design  
 
-- **Feature Set**
-  - Inpainting / outpainting  
-  - Masking / segmentation  
-  - Motion control / tracking  
-  - Effects and transformation tools  
+### Model Quality
+- photorealism  
+- camera realism  
+- cinematic fidelity  
+- controllability  
 
-- **Usability**
-  - Interface design (GUI vs node-based)  
-  - Workflow efficiency  
-  - Render times and iteration speed  
+### Feature Set
+- inpainting / masking  
+- tracking / motion control  
+- transformation / effects  
+- compositing-adjacent tools  
 
-- **Privacy**
-  - Data retention policies  
-  - Suitability for proprietary or client-sensitive work  
+### Usability
+- GUI / workflow speed  
+- iteration efficiency  
+- render times  
 
-- **Repeatability**
-  - Consistency of results across multiple generations  
-  - Ability to reproduce a shot across sequences  
+### Privacy
+- suitability for proprietary or sensitive work  
 
-Platform selection is driven by these constraints, not by convenience or familiarity.
+### Repeatability
+- consistency across generations  
+- ability to maintain look across shots  
 
-## System Principle
+---
 
-> Iterate freely where cost is zero.  
-> Execute precisely where cost is high.
+Platform selection is based on these constraints, not convenience.
 
-This approach transforms video generation from a trial-and-error process into a **cost-optimized, strategy-driven system**, enabling higher-quality results with fewer paid iterations.
+---
+
+## Platform Roles
+
+- **ChatGPT** — prompt strategy, scene planning, reference design, iteration planning  
+- **Grok** — free motion ideation and early exploratory testing  
+- **Kling** — structured reference-driven video generation  
+- **Runway** — stylized generation, transformations, and compositing-adjacent workflows  
+- **ComfyUI** — controlled iteration, conditioning, enhancement, and upscaling  
+- **Nuke** — ingest, integration, shot finishing, and delivery control  
+
+---
 
 ## Open Pipeline Integration (ComfyUI + Nuke)
 
-Closed AI video platforms provide powerful generation capabilities, but operate as **black-box systems** with limited control.
+Closed AI platforms provide powerful generation capabilities, but operate as **black-box systems** with limited production control.
 
-To regain control and extend outputs into production workflows, results are routed through open tools:
+Open tools restore that control and enable integration into real production workflows.
 
-## ComfyUI (Node-Based Iteration)
+---
 
-- Fine-grained control over:
-  - image generation  
-  - conditioning (depth, pose, segmentation)  
-  - LoRA integration  
-- Enables:
-  - repeatable workflows  
-  - controlled iteration outside platform constraints  
-- Acts as a **bridge between generative output and structured pipelines**
+### ComfyUI
 
-## Nuke (Final Integration & Compositing)
+- node-based workflow control  
+- repeatable pipelines  
+- conditioning / LoRA / enhancement workflows  
+- deliberate upscaling strategies  
 
-- Used for:
-  - compositing AI outputs into live-action plates  
-  - color matching and grading  
-  - cleanup and artifact removal  
-  - shot continuity across sequences  
+---
 
-- Restores traditional VFX control:
-  - layering  
-  - masking  
-  - spatial consistency  
+### Nuke
 
-## System Role
+- final compositing  
+- plate integration  
+- cleanup and artifact removal  
+- show-spec output control  
+- consistency across shots and sequences  
+
+---
 
 ```text
-Closed Systems → Generate
-Open Systems   → Refine, Control, Integrate
+Closed Systems → Generate  
+Open Systems   → Control, Refine, Integrate, Deliver  
 ```
 
 ## Key Insights
