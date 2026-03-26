@@ -935,6 +935,41 @@ Map data, events, and relationships into structured narratives that support deci
 ---
 
 <!-- ===================================================== -->
+<!-- AI PRESENTATION ARCHITECTURE WORKFLOW -->
+<!-- ===================================================== -->
+
+## AI Presentation Architecture Workflow
+
+**Objective:**  
+Design structured, system-driven presentations using AI-assisted iteration, integrated visuals, and narrative cohesion.
+
+---
+
+## System Overview
+
+This workflow replaces traditional slide-based thinking with a **system-first approach to presentation design**, where structure, narrative, and visuals are developed together.
+
+---
+
+## Core Workflow
+
+```text
+Concept / Idea
+        ↓
+System Structuring (sections, hierarchy, flow)
+        ↓
+Narrative Development (ChatGPT-guided copy)
+        ↓
+Visual System Definition (style guide, color logic)
+        ↓
+Bespoke Graphic Generation (flows, diagrams, imagery)
+        ↓
+Integrated Refinement (text + visuals evolve together)
+        ↓
+Final Presentation Artifact
+```
+
+<!-- ===================================================== -->
 <!-- PRINCIPLES -->
 <!-- ===================================================== -->
 
