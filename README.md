@@ -585,28 +585,6 @@ This keeps the overall workflow grounded in a **pipeline paradigm from input to 
 Model selection is task-driven, balancing quality, control, stability, and performance within a flexible open pipeline.
 </sub></p>
 
-```text
-Project Specs / Show Requirements
-        ↓
-Pipeline Ingest & Spec Definition (ComfyUI / Nuke)
-        ↓
-Free Exploration (ChatGPT / Grok)
-        ↓
-Prompt + Reference Refinement
-        ↓
-Platform Selection (based on cost, quality, control, and feature fit)
-        ↓
-Paid Generation (Kling / Runway / other credit-based systems)
-        ↓
-Evaluation (motion, fidelity, stability, spec alignment)
-        ↓
-Open Pipeline Refinement (ComfyUI / Nuke)
-        ↓
-Upscaling / Integration / Final Compositing
-        ↓
-Final Deliverables to Spec
-```
-
 <!-- ===================================================== -->
 <!-- VIDEO SYSTEM: STRATEGY + PIPELINE LOGIC -->
 <!-- ===================================================== -->
