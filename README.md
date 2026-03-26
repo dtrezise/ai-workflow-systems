@@ -336,7 +336,7 @@ Vocabulary constraints guide drafting, validation, and refinement to ensure alig
 </td>
 
 <td align="center" width="45%" bgcolor="#3f4a54">
-<img src="images/flows/prism_franchise_progression.png" width="100%"/>
+<img src="images/flows/prism_franchise_progression.png" height="60%"/>
 <br/>
 <sub><b>Series / Franchise System</b></sub>
 <br/>
