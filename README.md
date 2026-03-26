@@ -204,7 +204,7 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/ShipDuel.png" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/ShipDuel.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/dGcI82PfSBE"><img src="images/ascension/ShipDuel.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 </table>
 
