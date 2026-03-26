@@ -167,7 +167,7 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnTower.png" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/DawnTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/JDSFaF0avvw"><img src="images/ascension/DawnTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
@@ -177,7 +177,7 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 <td align="center" width="60"><h2>➜</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast.png" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="YOUTUBE_LINK"><img src="images/ascension/BeastandTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/TP7VpFD6Qbw"><img src="images/ascension/BeastandTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
