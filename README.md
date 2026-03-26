@@ -746,8 +746,6 @@ Within the open pipeline, **model selection is a primary control point**.
 
 Unlike closed systems, ComfyUI workflows provide access to multiple models, each suited to specific tasks, constraints, and performance requirements.
 
---
-
 ## Model Selection Strategy
 
 Models are selected based on:
@@ -770,6 +768,8 @@ Models are selected based on:
 - controlled motion sequences  
 - iterative animation workflows  
 
+---
+
 #### FLUX (Image Generation / LoRA Workflows)
 - strong stylistic control  
 - effective LoRA integration  
@@ -779,6 +779,8 @@ Models are selected based on:
 - character consistency  
 - controlled image generation  
 - dataset creation for downstream video  
+
+---
 
 #### Stable Diffusion Variants (General Purpose)
 - widely supported  
