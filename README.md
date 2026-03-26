@@ -441,6 +441,34 @@ Single-book workflow showing how vocabulary constraints guide story drafting, ho
 </sub></p>
 
 ---
+<!-- ===================================================== -->
+<!-- PRISM SYSTEM: FRANCHISE / SERIES EXPANSION -->
+<!-- Replace src path if needed -->
+<!-- ===================================================== -->
+
+---
+
+### Franchise Expansion (Series of Series + Reading Progression)
+
+<img src="images/flows/prism_franchise_progression.png" width="100%"/>
+
+<p align="center"><sub>
+Prism is designed not just to generate individual books, but to support a full literacy franchise that scales across multiple academic reading levels. Each series can be aligned to recognized standards, color-coded by level, and extended into connected read-along experiences across print and video.
+</sub></p>
+
+---
+
+This expansion layer shows how the Prism system can organize **multiple book series across reading stages**, while preserving:
+
+- **Academic alignment** to recognized reading-level expectations  
+- **Color-coded progression** for easy learner, parent, and teacher guidance  
+- **Narrative continuity** through recurring characters, tone, and world identity  
+- **Series-level scalability** so books can grow in difficulty without losing coherence  
+- **Multimodal delivery** through future animated read-along adaptations with Prism Word subtitle support  
+
+Rather than treating each book as a standalone product, the system is designed to build a **connected literacy ecosystem** where vocabulary progression, story progression, and media progression reinforce one another.
+
+---
 
 ### Visuals
 
