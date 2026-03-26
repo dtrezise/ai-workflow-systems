@@ -30,7 +30,7 @@ They are **repeatable, modular systems** built to:
 
 ---
 
-# Flagship Systems
+<h1 style="color:#9B5DE5;">Flagship Systems</h1>
 
 ---
 
@@ -38,7 +38,7 @@ They are **repeatable, modular systems** built to:
 <!-- STORY DEVELOPMENT SYSTEM -->
 <!-- ===================================================== -->
 
-## Story Development System
+<h2 style="color:#9B5DE5;">Story Development System</h2>
 
 **Objective:**  
 Develop narrative IP using a structured, repeatable AI-assisted framework that preserves story continuity while enabling deep visual and cinematic exploration.
@@ -211,7 +211,7 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 <!-- AI COACHING SYSTEM -->
 <!-- ===================================================== -->
 
-## AI-Assisted Personal Coaching System
+<h2 style="color:#3A86FF;">AI-Assisted Personal Coaching System</h2>
 
 **Objective:**  
 Use ChatGPT as a continuous learning, problem-solving, and execution engine across all workflows.
@@ -248,7 +248,7 @@ A continuous loop where goals, questions, execution, and feedback are iterativel
 <!-- PRISM SYSTEM -->
 <!-- ===================================================== -->
 
-## Prism Vocabulary Engine + Narrative Integration
+<h2 style="color:#2EC4B6;">Prism Vocabulary Engine + Narrative Integration</h2>
 
 **Objective:**  
 Combine a database-driven vocabulary system with narrative development workflows to create scalable, level-based books.
@@ -291,7 +291,7 @@ Combine a database-driven vocabulary system with narrative development workflows
 <!-- CREATURE PIPELINE -->
 <!-- ===================================================== -->
 
-## Multimodal Creature Pipeline
+<h2 style="color:#FF8C42;">Multimodal Creature Pipeline</h2>
 
 **Objective:**  
 Create a consistent AI-generated character and integrate it into production-ready visual pipelines.
@@ -330,7 +330,7 @@ Create a consistent AI-generated character and integrate it into production-read
 <!-- VIDEO SYSTEM -->
 <!-- ===================================================== -->
 
-## AI Video System (Cross-Platform Framework)
+<h2 style="color:#FFD166;">AI Video System (Cross-Platform Framework)</h2>
 
 **Objective:**  
 Evaluate and orchestrate multiple AI video platforms to achieve controlled, production-aligned results.
@@ -363,7 +363,7 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- APPLIED SYSTEM DESIGN -->
 <!-- ===================================================== -->
 
-## Applied System Design
+<h2 style="color:#ADB5BD;">Applied System Design</h2>
 
 ### Systems & Venture Concepts
 
@@ -378,7 +378,7 @@ Evaluate and orchestrate multiple AI video platforms to achieve controlled, prod
 <!-- TECHNICAL SYSTEMS -->
 <!-- ===================================================== -->
 
-## Production Pipeline Stabilization
+<h2 style="color:#EF476F;">Production Pipeline Stabilization</h2>
 
 **Objective:**  
 Ensure reliability and performance of AI-driven pipelines under real-world constraints.
@@ -406,7 +406,7 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 <!-- ENTERPRISE SYSTEM (OPTIONAL BUT RECOMMENDED) -->
 <!-- ===================================================== -->
 
-## AI Decision Intelligence System *(Optional Expansion)*
+<h2 style="color:#06D6A0;">AI Decision Intelligence System</h2>
 
 **Objective:**  
 Apply AI workflow principles to structured decision-making systems (finance, policy, or analytics).
@@ -429,7 +429,7 @@ Map data, events, and relationships into structured narratives that support deci
 <!-- PRINCIPLES -->
 <!-- ===================================================== -->
 
-## Workflow Design Principles
+<h2 style="color:#8D99AE;">Workflow Design Principles</h2>
 
 - **Evaluation & Validation** — every stage must be testable  
 - **Modularity** — systems must be recomposable  
