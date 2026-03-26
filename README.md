@@ -34,7 +34,8 @@ They are **repeatable, modular systems** built to:
 - **Cross-Platform AI Orchestration** — Grok, Kling, Runway, ComfyUI, WAN  
 - **Workflow Engineering** — debugging, iteration, and system stabilization  
 - **AI-Assisted System Design** — using AI as a thinking and execution partner  
-
+<br></br>
+<br></br>
 <!-- ===================================================== -->
 <!-- STORY DEVELOPMENT SYSTEM -->
 <!-- ===================================================== -->
@@ -147,7 +148,7 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 
 <!-- STORY SYSTEM: CONCEPT TO INTERPRETATION TO MOTION -->
 
-<h3 align="center">Concept → Interpretation → Motion</h3>
+<h3>Concept → Interpretation → Motion</h3>
 
 <table>
 <tr>
@@ -250,7 +251,8 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 - Integrates narrative, visual, and motion systems into a unified workflow  
 
 ---
-
+<br></br>
+<br></br>
 <!-- ===================================================== -->
 <!-- AI COACHING SYSTEM -->
 <!-- ===================================================== -->
