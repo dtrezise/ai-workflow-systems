@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"><sub>
-Structured systems for narrative, production, learning, and multimodal execution.
+Structured AI systems for narrative, production, learning, and multimodal execution.
 </sub></p>
 
 ## Overview
@@ -854,6 +854,11 @@ Closed Systems → Generate
 Open Systems   → Control, Refine, Integrate, Deliver  
 
 ---
+
+## From Workflows to Systems
+
+The following systems demonstrate how the same underlying architecture extends beyond workflows into real-world applications.
+
 ## AI System Architectures Across Domains
 
 The same system architecture can be applied across fundamentally different domains—data analysis, investigative intelligence, human development, and digital economies.
@@ -868,7 +873,7 @@ These systems demonstrate how AI can be used to structure complexity into analyz
 Data → Entities → Time → Relationships → Narrative → Visualization → Insight
 ```
 
-This pattern is domain-independent and forms the foundation of each system below.
+This pattern is domain-independent and underpins every system presented below.
 
 ---
 
@@ -952,25 +957,6 @@ Across all systems:
 ---
 
 <!-- ===================================================== -->
-<!-- APPLIED SYSTEM DESIGN -->
-<!-- ===================================================== -->
-<br></br>
-
-
-<p align="center">
-  <img src="images/headers/applied.jpg" width="100%"/>
-</p>
-
-## Systems & Venture Concepts
-
-- **STEAM PNKS** — education + maker ecosystem  
-- **Research → Product Framework** — investigative system design  
-- **Civic / Financial Analysis Systems** — structured data + narrative mapping  
-- **Adaptive Input Systems** — dynamic keyboard / interface concepts  
-
----
-
-<!-- ===================================================== -->
 <!-- TECHNICAL SYSTEMS -->
 <!-- ===================================================== -->
 <br></br>
@@ -995,40 +981,6 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 - Stability is as critical as capability  
 - AI workflows require engineering discipline  
 - Debugging is a core competency, not a side task  
-
----
-
-<!-- ===================================================== -->
-<!-- ENTERPRISE SYSTEM (OPTIONAL BUT RECOMMENDED) -->
-<!-- ===================================================== -->
-<br></br>
-
-
-<p align="center">
-  <img src="images/headers/enterprise.jpg" width="100%"/>
-</p>
-## Enterprise AI Decision System
-
-**System Purpose:**  
-Transform complex, multi-source data into structured, interpretable narratives that support analysis, decision-making, and insight generation.
-
----
-
-## System Overview
-
-This system applies AI workflow principles to domains where:
-
-- data is fragmented  
-- timelines matter  
-- relationships are complex  
-- interpretation is as important as accuracy  
-
-Examples include:
-
-- financial disclosures  
-- policy tracking  
-- investigative research  
-- cross-domain analytics  
 
 ---
 
