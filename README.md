@@ -911,18 +911,50 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 <p align="center">
   <img src="images/headers/enterprise.jpg" width="100%"/>
 </p>
-**Objective:**  
-Apply AI workflow principles to structured decision-making systems (finance, policy, or analytics).
+## Enterprise AI Decision System
 
+**System Purpose:**  
+Transform complex, multi-source data into structured, interpretable narratives that support analysis, decision-making, and insight generation.
+
+---
 
 ## System Overview
 
-*(Add graphic later if you proceed)*
+This system applies AI workflow principles to domains where:
 
+- data is fragmented  
+- timelines matter  
+- relationships are complex  
+- interpretation is as important as accuracy  
 
-## Key Idea
+Examples include:
 
-Map data, events, and relationships into structured narratives that support decision-making and analysis.
+- financial disclosures  
+- policy tracking  
+- investigative research  
+- cross-domain analytics  
+
+---
+
+## Core Workflow
+
+```text
+Data Sources (structured + unstructured)
+        ↓
+Ingestion + Normalization
+        ↓
+Entity Mapping (people, organizations, assets)
+        ↓
+Temporal Layer (time-bound events + states)
+        ↓
+Relationship Graph Construction
+        ↓
+Narrative Generation (AI-assisted interpretation)
+        ↓
+Visualization Layer (timelines, overlays, connections)
+        ↓
+Insight / Decision Support Output
+```
 
 ---
 
