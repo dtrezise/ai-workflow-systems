@@ -4,7 +4,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="images/headers/title_banner.png" style="display:block; margin:auto; width:100%;"/>
+  <img src="images/headers/title_banner.jpg" style="display:block; margin:auto; width:100%;"/>
 </p>
 
 <p align="center"><sub>
@@ -44,7 +44,7 @@ They are **repeatable, modular systems** built to:
 
 
 <p align="center">
-  <img src="images/headers/story_dev.png" width="100%"/>
+  <img src="images/headers/story_dev.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -78,7 +78,7 @@ Locked narrative foundations generate structured outputs across creative develop
 
 ### Validation Engine
 
-<img src="images/flows/validation_engine.png" width="100%"/>
+<img src="images/flows/validation_engine.jpg" width="100%"/>
 
 <p align="center"><sub>
 Narrative and visual inputs are continuously tested through diagnostics, including poster tests, beat sheets, scene builds, and motion validation.
