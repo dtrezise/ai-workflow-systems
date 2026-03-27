@@ -408,7 +408,7 @@ A continuous loop where goals, questions, execution, and feedback are iterativel
 <br></br>
 
 <p align="center">
-  <img src="images/headers/creature.png" width="100%"/>
+  <img src="images/headers/creature.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -416,7 +416,7 @@ Create a consistent AI-generated character and integrate it into production-read
 
 ## System Overview
 
-<img src="images/flows/creature_pipeline.jpg" width="100%"/>
+<img src="images/flows/creature_pipeline.png" width="100%"/>
 
 ## Pipeline Breakdown (Stage Outputs)
 
@@ -473,7 +473,7 @@ Create a consistent AI-generated character and integrate it into production-read
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/plate_01.jpg" height="220"/>
+<img src="images/mothman/plate_01.jpg" height="220"/>
 <br/><sub>Plate</sub>
 </td>
 
@@ -482,7 +482,7 @@ Create a consistent AI-generated character and integrate it into production-read
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/final_01.png" height="220"/>
+<img src="images/mothman/final_01.png" height="220"/>
 <br/><sub>Final Composite</sub>
 </td>
 </tr>
