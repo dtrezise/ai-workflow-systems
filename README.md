@@ -854,6 +854,102 @@ Closed Systems → Generate
 Open Systems   → Control, Refine, Integrate, Deliver  
 
 ---
+## AI System Architectures Across Domains
+
+The same system architecture can be applied across fundamentally different domains—data analysis, investigative intelligence, human development, and digital economies.
+
+These systems demonstrate how AI can be used to structure complexity into analyzable, actionable frameworks.
+
+---
+
+## Core System Pattern
+
+```text
+Data → Entities → Time → Relationships → Narrative → Visualization → Insight
+```
+
+This pattern is domain-independent and forms the foundation of each system below.
+
+---
+
+# Enterprise Systems
+
+## CivicLedger — Analytical System
+
+A source-linked, time-aware financial disclosure exploration system.
+
+* Structures fragmented financial data into unified timelines
+* Maps relationships between individuals, assets, and events
+* Enables analysis through temporal alignment rather than isolated records
+* Maintains strict provenance and source transparency
+
+**System Role:**
+Data → Transparency → Insight
+
+---
+
+## Forensic Crawler Platform — Investigative System
+
+A provenance-first investigative reconstruction system built on verified, rights-aware data ingestion.
+
+* Crawls trusted sources with licensing-aware classification
+* Maintains immutable provenance records for all assets
+* Structures multimedia into time-synced datasets
+* Reconstructs events using AI-driven spatial and temporal modeling
+* Explicitly distinguishes verified vs inferred content
+
+**System Role:**
+Evidence → Reconstruction → Truth Modeling
+
+---
+
+# Venture Systems
+
+## STEAM PNKS — Human Development System
+
+A structured learning and identity system built around creation, progression, and community.
+
+* Maps individuals (PNKs) as evolving entities
+* Tracks skills, projects, and achievements over time
+* Structures relationships between people, work, and learning paths
+* Transforms activity into narrative (growth, mastery, identity)
+* Emphasizes real-world creation over abstract instruction
+
+**System Role:**
+Activity → Progression → Identity
+
+---
+
+## Perpetuity AI — Economic / Infrastructure System
+
+A system for transforming human performance and identity into reusable, licensable digital assets.
+
+* Captures human likeness and performance via volumetric systems
+* Structures identity as a persistent, reusable dataset
+* Enables deployment across media production pipelines
+* Supports licensing, reuse, and monetization of digital identities
+* Shifts production from one-time capture to asset-based infrastructure
+
+**System Role:**
+Identity → Asset → Infrastructure
+
+---
+
+# System Synthesis
+
+Across all systems:
+
+* Data is structured into entities
+* Entities are anchored in time
+* Relationships are made explicit
+* Narrative emerges from structured context
+* Visualization enables interpretation
+* Insight becomes actionable
+
+> The architecture remains constant.
+> The domain changes.
+
+---
 
 <!-- ===================================================== -->
 <!-- APPLIED SYSTEM DESIGN -->
