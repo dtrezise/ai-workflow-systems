@@ -165,9 +165,9 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/TowerScale.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnTower.png" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnTower.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/JDSFaF0avvw"><img src="images/ascension/DawnTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/JDSFaF0avvw"><img src="images/ascension/DawnTower.jpg" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
@@ -175,36 +175,36 @@ Story structure is translated into visual beat sheets and tested in motion to ev
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/Tower.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast.png" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/Beast_01.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/TP7VpFD6Qbw"><img src="images/ascension/BeastandTower.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/TP7VpFD6Qbw"><img src="images/ascension/BeastandTower.jpg" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/leaps.jpeg" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/leaps.jpg" height="300"/></td>
 <td></td><td></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnLeaps_01.png" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/DawnLeaps_01.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/EaPQb0pcfFs"><img src="images/ascension/DawnLeaps_02.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/EaPQb0pcfFs"><img src="images/ascension/DawnLeaps_02.jpg" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/mother.jpg" height="300"/></td>
 <td></td><td></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/MotherEva.png" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/MotherEva.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/Bn5TgId9vwU"><img src="images/ascension/MotherEva.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/Bn5TgId9vwU"><img src="images/ascension/MotherEva.jpg" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 <tr>
 <td align="center" width="60"><h2>+</h2></td>
 <td align="center" bgcolor="#3f4a54"><img src="images/ascension/duel.jpg" height="300"/></td>
 <td></td><td></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><img src="images/ascension/ShipDuel.png" height="300"/></td>
+<td align="center" bgcolor="#3f4a54"><img src="images/ascension/ShipDuel.jpg" height="300"/></td>
 <td align="center" width="60"><h2>➜</h2></td>
-<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/dGcI82PfSBE"><img src="images/ascension/ShipDuel.png" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
+<td align="center" bgcolor="#3f4a54"><a href="https://youtu.be/dGcI82PfSBE"><img src="images/ascension/ShipDuel.jpg" height="300"/></a><br/><sub>▶ Watch Scene</sub></td>
 </tr>
 </table>
 
@@ -264,7 +264,7 @@ Poster tests act as high-level diagnostics, providing a rapid read on tone, genr
 
 
 <p align="center">
-  <img src="images/headers/prism.png" width="100%"/>
+  <img src="images/headers/prism.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -371,7 +371,7 @@ The system evolves from constrained single-book generation into a scalable franc
 <br></br>
 
 <p align="center">
-  <img src="images/headers/ai_coaching.png" width="100%"/>
+  <img src="images/headers/ai_coaching.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -416,7 +416,7 @@ Create a consistent AI-generated character and integrate it into production-read
 
 ## System Overview
 
-<img src="images/flows/creature_pipeline.png" width="100%"/>
+<img src="images/flows/creature_pipeline.jpg" width="100%"/>
 
 ## Pipeline Breakdown (Stage Outputs)
 
@@ -430,12 +430,12 @@ Create a consistent AI-generated character and integrate it into production-read
 <tr>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mm_final_design.png" height="180"/>
+<img src="images/mothman/mm_final_design.png" height="180"/>
 <br/><sub>Hero Design</sub>
 </td>
 
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman_grid_2x3.png" height="180"/>
+<img src="images/mothman/mothman_grid_2x3.jpg" height="180"/>
 <br/><sub>Pose Dataset</sub>
 </td>
 
@@ -473,7 +473,7 @@ Create a consistent AI-generated character and integrate it into production-read
 </tr>
 <tr>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/plate_01.png" height="220"/>
+<img src="images/plate_01.jpg" height="220"/>
 <br/><sub>Plate</sub>
 </td>
 
@@ -508,7 +508,7 @@ Create a consistent AI-generated character and integrate it into production-read
 <br/>
 
 <p align="center">
-  <img src="images/headers/video.png" width="100%"/>
+  <img src="images/headers/video.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -516,7 +516,7 @@ Design a deliverable-driven AI video workflow that balances quality, control, co
 
 ## System Overview
 
-<img src="images/flows/video_system.png" width="100%"/>
+<img src="images/flows/video_system.jpg" width="100%"/>
 
 <p align="center"><sub>
 A spec-driven video workflow where project requirements govern platform selection, iteration strategy, and finishing decisions. Closed systems are used for exploration and element generation, while open pipeline tools enforce consistency, upscaling, integration, and final delivery.
@@ -862,7 +862,7 @@ Open Systems   → Control, Refine, Integrate, Deliver
 
 
 <p align="center">
-  <img src="images/headers/applied.png" width="100%"/>
+  <img src="images/headers/applied.jpg" width="100%"/>
 </p>
 
 ## Systems & Venture Concepts
@@ -881,7 +881,7 @@ Open Systems   → Control, Refine, Integrate, Deliver
 
 
 <p align="center">
-  <img src="images/headers/pipeline.png" width="100%"/>
+  <img src="images/headers/pipeline.jpg" width="100%"/>
 </p>
 
 **Objective:**  
@@ -909,7 +909,7 @@ Ensure reliability and performance of AI-driven pipelines under real-world const
 
 
 <p align="center">
-  <img src="images/headers/enterprise.png" width="100%"/>
+  <img src="images/headers/enterprise.jpg" width="100%"/>
 </p>
 **Objective:**  
 Apply AI workflow principles to structured decision-making systems (finance, policy, or analytics).
@@ -968,7 +968,7 @@ Final Presentation Artifact
 <br></br>
 
 <p align="center">
-  <img src="images/headers/workflow.png" width="100%"/>
+  <img src="images/headers/workflow.jpg" width="100%"/>
 </p>
 
 - **Evaluation & Validation** — every stage must be testable  
