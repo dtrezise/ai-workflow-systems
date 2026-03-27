@@ -615,7 +615,7 @@ Use credit-based systems such as:
 
 - **Kling**  
 - **Runway**  
-- **Veo / Sora** *(where applicable)*  
+- **Veo  
 
 Only after:
 
